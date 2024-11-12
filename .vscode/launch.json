@@ -1,0 +1,43 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "JsonLineReader2",
+            "request": "launch",
+            "mainClass": "br.ufac.edgeneoapi.JsonLineReader2",
+            "projectName": "edgeneoapi"
+        },
+        {
+            "type": "java",
+            "name": "JsonLineReader",
+            "request": "launch",
+            "mainClass": "br.ufac.edgeneoapi.JsonLineReader",
+            "projectName": "edgeneoapi"
+        },
+        {
+            "type": "java",
+            "name": "JsonManipulation",
+            "request": "launch",
+            "mainClass": "br.ufac.edgeneoapi.JsonManipulation",
+            "projectName": "edgeneoapi"
+        },
+        {
+            "type": "java",
+            "name": "JsonToCsvConverter",
+            "request": "launch",
+            "mainClass": "br.ufac.edgeneoapi.JsonToCsvConverter",
+            "projectName": "edgeneoapi"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-EdgeneoapiApplication<edgeneoapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.ufac.edgeneoapi.EdgeneoapiApplication",
+            "projectName": "edgeneoapi",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=53786 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dspring.jmx.enabled=true -Djava.rmi.server.hostname=localhost -Dspring.application.admin.enabled=true -Dspring.boot.project.name=edgeneoapi"
+        }
+    ]
+}

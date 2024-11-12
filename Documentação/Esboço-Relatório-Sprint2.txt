@@ -1,0 +1,62 @@
+Dia 11/09:
+
+    Reunimos na tarde deste dia para poder separar os trabalhos de cada um do grupo. E também construimos a ambientação tanto do backend quanto do frontend.
+    Foram feitas algumas alterações no backend, que serão terminadas no próximo dia.
+    Por fim, instalamos a ferramenta WEKA para poder analisar os dados, e utilizaremos principalmente o algoritmo RandomForest.
+
+Dia 12/09:
+
+    Neste dia nos reunimos para discutir sobre o banco de dados, começar modelar o banco de dados, na ferramenta DB Designer.
+    Começamos a utilizar o WEKA para compreender como funciona, utilizando a base de dados que foi utilizado para o TCC que estamos nos inspirando.
+    Inicializamos e testamos o ambiente no vscode, tanto o frontend quando o backend.
+    Atualização do README e algumas configurações da aplicação, e por fim instalação de dependecias no backend.
+    Além disso, conversamos com o nosso P.O./orientador para marcar reunião e tirar algumas duvidas do weka e do banco de dados fornecidos da NTI. 
+
+Dia 13/09:
+
+    Neste dia, nos estamos testando algumas funções no weka, para poder compreender mais como funciona.
+    Também, tivemos reunião com o Orientador/P.O. para tirar algumas duvidas e analisar se está tudo "Ok" com o que ele queria.
+    Continuamos a modelgem do banco de dados, e também, iniciamos o frontend da Tela de Login.
+    Na reunião relatamos e informamos que o total de dados (matriculas realizadas) vem apartir do ano de ingresso, por exemplo, se definiu apartir de 2022, ele irá mostrar somente de 2022 até 2024.
+
+
+Dia 16/09:
+
+    Estudamos sobre como utilizar a API do WEKA, para poder utilizar na nossa aplicação, testamos e não estava conseguindo.
+    Tiramos algumas duvidas sobre os dados, e estudamos mais sobre.
+    Também, montamos um fluxo do que iremos fazer para até enviar os dados para treinamento (foto).
+    Deste fluxo conseguimos a Conexão com o NTI, colocar em JSON, Filtrar cursos selecionados, Filtrar tambem os dados importantes, após isso nós iremos enviar para o banco de dados
+    , assim depois realizar calculos necessarios, com colunas em branco mesmo, por fim gerar o CSV e enviar para o WEKA para o treinamento.
+    Listamos quais são os atributos realmente necessarios para o treinamento do weka, para assim funcionar da melhor forma o algoritmo RandomForest.
+    
+Dia 17/09:
+
+    Neste dia conseguimos conectar e fazer funcionar o API do WEKA para realizar o treinamento.
+    Marcamos uma reunião com o Orientador/P.O. para tirar algumas duvidas e mostrar o progresso da aplicação.
+    A modelagem do banco de dados está bem encaminhado acreditamos que podemos terminar na quinta mesmo.
+    Testamos o api na aplicação e comparamos com o proprio WEKA, os resultados estavam iguais, ou seja, funcionando perfeitamente.
+    Começamos a fazer a autenticação de usuario para a implementação da tela de login e cadastro.
+
+Dia 18/09:
+
+    Conseguimos realizar a autenticação do usuario com o Token no backend, assi podendo utilizar e ajudar na parte de implementação da tela de Login.
+    Começamos a adicionar algumas funções para gerar os mesmos dados que a autora, Andrielle, do TCC que estamos utilizando como base que ela utilizou para realizar no treinamento.
+    Confirmada a reunião com o P.O./Orientador as 18hrs 30min.
+
+Dia 19/09:
+
+    Reunimos com Manoel Limeira (Orientador/P.O.) para discutir sobre a possibilidade de requisitar alem de receber os dados filtrado por ano ingresso, mas também por curso (codigo do curso da ufac)
+    Para assim não ter a demora que teria se filtrassemos por nós mesmo, ja que poderia demorar um dia inteiro.
+    Mostramos novamente a API do WEKA funcionando, mostramos também para o coordenador Paulo Sampaio, o progresso do hands On.
+    O Orientador/P.O. sugeriu nós criar uma área de pré-processamento, onde teria o Banco "Original" e o "Gerado", também sugeriu uma Tabela de Dados Brutos e de Dados Processados.
+    Aprendemos mais sobre o WEKA, selecionar a coluna alvo para o treino, e depois utilizar a mesma em um arquivo separada para o futuro teste, salvando este arquivo que representa o modelo (API Weka).
+    Nesta última reunião, pedimos sugestão sobre o que focar na próxima sprint, ele sugeriu que focassemos no banco de dados, no cadastro de usuário e login.
+
+Dia 20/09:
+
+    Neste dia, todos os testes (API, treinamento, etc.) que estavam na nas branchs foram para main, pois ja organizamos e realizamos com cuidado tudo que queriamos.
+    Continuamos com a modelagem do banco de dados, e terminamos assim, tambem mostrando para o orientador para valiar sobre.
+    
+Dia 23/09:
+
+    Testamos o novo banco que foi enviado para nós, com filtro de cursos, para não demorar tanto no treinamentode dados.

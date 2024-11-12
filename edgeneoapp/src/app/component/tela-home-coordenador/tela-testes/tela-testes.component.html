@@ -1,0 +1,9 @@
+<div *ngIf="exibindoTeste" class="teste-container">
+    <button class="btn-teste" (click)="realizarTeste()">Realizar Teste</button>
+
+    <div *ngIf="dadosTeste">
+        <select (change)="selecionarPeriodo($event)">
+            <option *ngFor="let periodo of dadosTeste | keyvalue" [value]="periodo.key">{{ periodo.key }}</option>
+        </select>
+    </div>
+</div>

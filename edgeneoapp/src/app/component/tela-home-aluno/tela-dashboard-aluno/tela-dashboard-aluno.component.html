@@ -1,0 +1,86 @@
+<div class="main-dashboard"> 
+
+    <div class="cards">
+      <div class="card">
+        <div class="card-content">
+          <div class="number">{{ disciplina.nome }}</div>
+          <div class="card-name">Disciplina Prevista</div>
+        </div>
+        <div class="icon-box">
+          <i class="bi bi-book"></i>
+        </div>
+      </div>
+      
+      <div class="card">
+        <div class="card-content">
+          <div class="number">8.5</div>
+          <div class="card-name">Media Final Prevista</div>
+        </div>
+        <div class="icon-box">
+          <i class="fas fa-user-graduate"></i>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-content">
+          <div class="number">Aprovado</div>
+          <div class="card-name">Situação Final Prevista</div>
+        </div>
+        <div class="icon-box">
+          <i class="bi bi-lightbulb"></i>
+        </div>
+      </div>
+    </div>
+  
+    <div class="dashboard-container">
+
+      <!-- <div *ngIf="mostrarAviso" class="card-aviso">
+        <div class="card-aviso-content">
+          <div class="card-name-aviso">
+            AVISO!!!
+          </div>
+          <div class="card-aviso-content">
+            Essa predição irá mostrar suas notas deste período, mas não se preocupe
+            se por um acaso aparecer reprovação ou trancamentos. Estamos aqui mostrando
+            para que você se esforce mais nas matérias que talvez aconteça algo inconveniente.
+          </div>
+          <button (click)="fecharAviso()">Fechar</button>
+        </div>
+    </div> -->
+      
+        <div class="charts">
+          <div class="chart" *ngIf="disciplina.nome">
+            <!-- <h2>{{ disciplina.nome }}</h2> -->
+            <canvas id="progressBar"></canvas>
+          </div>
+          <p *ngIf="!disciplina.nome">Selecione uma disciplina para ver o dashboard</p>
+      
+          <!-- <div class="chart" id="doughnut-chart">
+            <h3>Gráfico de Doughnut</h3>
+            <canvas id="doughnutChart"></canvas>
+          </div> -->
+
+          <!-- <div class="chart">
+            <h3>Gráfico de linha</h3>
+            <canvas id="lineChart"></canvas>
+          </div>
+
+          <div class="chart">
+            <h3>Gráfico de Colunas</h3>
+            <canvas id="polarAreaChart"></canvas>
+          </div>
+
+          <div class="chart">
+            <h3>Gráfico de Colunas</h3>
+            <canvas id="radarChart"></canvas>
+          </div>
+
+          <div class="chart">
+            <h3>Gráfico de Colunas</h3>
+            <canvas id="scatterChart"></canvas>
+          </div> -->
+      </div>
+  </div>
+</div>
+
+      
+      

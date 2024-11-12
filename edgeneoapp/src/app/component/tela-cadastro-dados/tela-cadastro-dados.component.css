@@ -1,0 +1,360 @@
+.dTela-cadastro-dados {
+    position: relative;
+    background-color: white;
+    border: 3px solid #802da4;
+    border-top: 10px solid #802da4;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    padding-top: 3.6%;
+    padding-left: 4.5%; 
+    padding-right: 4.5%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+
+    width: 100%; 
+    text-align: center;
+}
+
+fieldset 
+{
+    border: 3px solid #802da4;
+    padding: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+legend 
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: #802da4;
+    padding: 0 10px;
+    text-align: left;
+}
+
+h1 {
+    color: #802da4;
+    font-size: 300%;
+    font-weight: 700;
+    margin-bottom: 3%;
+}
+
+h3 {
+    position: absolute;
+    top: 10px; 
+    right: 1px;
+    padding-right: 4.5%; 
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.campo-obrigatorio 
+{
+    text-align: right;
+    color: #802da4;
+    font-size: 12px;
+    margin-right: 4%;
+}
+
+.linha 
+{
+    display: flex;
+    justify-content: space-between; 
+    margin-bottom: 15px;
+    width: 100%; 
+    text-align: left;
+}
+
+/* Linhas 1 */
+.sobrenome
+{
+    width: 240px;
+}
+
+.linha .tipo {
+    position: relative;
+}
+
+/* Linhas 2 */
+.deficiencia
+{
+    margin-left: 20px;
+}
+
+.naturalidade
+{
+    width: 15.6%;
+}
+
+.etnia
+{
+    margin-left: 20px;
+    width: 13%;
+}
+
+.deficiencia {
+    position: relative;
+}
+
+/* Linhas 3 */
+
+.cep
+{
+    width: 80px;
+}
+
+.rua
+{
+    width: 170px;
+}
+
+.bairro
+{
+    width: 150px;
+}
+.estado
+{
+    width: 20px;
+    margin-right: calc(2.5% + 2px);
+}
+
+.linha div label {
+    display: block;
+    margin-bottom: 5px; 
+    font-weight: bold;
+    font-size: 14px;
+}
+
+
+.linha div label {
+    display: block;
+    margin-bottom: 5px; 
+    font-weight: bold;
+    font-size: 14px;
+}
+.linha div input, 
+.linha div select {
+    width: 100%; 
+    padding: 10px;
+    border: 2px solid #802da4;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+    font-size: 14px;
+}
+
+.linha .data-nascimento input
+{
+    width: 84%; 
+
+}
+
+.linha .tipo input
+{
+    width: 87.9%;
+}
+
+.radio-group 
+{
+    display: flex;
+    gap: 10px;
+    margin-left: -10px;
+}
+
+.radio-group p
+{
+    margin: 0;
+    margin-left: 10px;
+}
+
+.radio-group input 
+{
+    margin-right: 15px;
+}
+
+.bCadastrar {
+    background-color: #802da4;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 150%;
+    height: 54px;
+    width: 240px;
+    margin-bottom: 1.5%;
+    margin-right: 3%;
+    
+   
+    /* justify-content: center;  
+    align-items: center;       */
+}
+
+.bCadastrar:hover {
+    background-color: #9133b9;
+}
+
+.linha-horizontal {
+    width: 2px;
+    height: 100%; 
+    background-color: #802da4; 
+    position: absolute; 
+    left: 50%; 
+    top: 0; 
+}
+
+.linha_U 
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    gap: 120px; 
+    /* border: #802da4 solid 3px; */
+    border-radius: 8px;
+    /* padding: 5px 10px; */
+    padding-top: 5px;
+    padding-bottom: 10px;
+    width: 82.5%;
+    /* margin-left: 8%; */
+}
+
+.divas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 10px;
+    gap: 10px;
+    /* border: red solid; */
+
+}
+
+.divas select {
+    padding: 10px;
+    border: 2px solid #802da4;
+    border-radius: 4px;
+    margin-top: 2px;
+    /* width: 90%; */
+    width: 310px;
+
+}
+
+.divas button {
+    background-color: #802da4;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 20px;
+    height: 20px;
+    width: 20px;
+
+    display: flex;
+    justify-content: center;  
+    align-items: center;    
+    
+    /* margin: 0 auto; */
+}
+
+.divas button:hover {
+    background-color: #9133b9;
+}
+
+.datas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border: red solid; */
+
+}
+
+.datus
+{
+    display: flex;
+    gap: 10px;
+}
+
+.datus input {
+    padding: 10px;
+    border: 2px solid #802da4;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+    font-size: 14px;
+    width: 160px;
+}
+
+.datus span {
+    font-size: 24px;
+    margin-top: 1%;
+}
+
+.datus p
+{
+    color: #802da4;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.butoes
+{
+    display: flex;
+    gap: 10px;
+}
+
+.bolsas label,
+.datas label
+{
+    margin-bottom: 5px; 
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.error{
+    min-height: 20px;
+    color: red;
+    font-size: 13px;
+    font-weight: bold;
+    width: 97%; 
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+
+input.ng-invalid.ng-touched {
+    border-color: red; 
+}
+
+.input-error {
+    border-color: red;
+}
+
+.rodape_arrumador {
+    height: 30px; 
+    visibility: hidden;
+}
+ 
+
+label.obrigatorio 
+{
+    position: relative;
+}
+  
+label.obrigatorio::after 
+{
+    content: " *";
+    color: red;
+    position: absolute;
+    padding-left: 2px;
+
+}
+
+.desabilitado input
+{
+    background-color: #f0f0f0; 
+    color: #888; 
+    cursor: not-allowed;
+    border: 2px solid #f0f0f0 !important; 
+    opacity: 0.6; 
+    box-shadow: none; 
+}

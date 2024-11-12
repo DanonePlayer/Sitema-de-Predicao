@@ -1,0 +1,141 @@
+.dTela-Login {
+    background-color: white;
+    border: 3px solid #802da4;
+    border-top: 10px solid #802da4;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    padding: 10%;
+    padding-bottom: 0%; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+
+    width: 130%;
+    margin-bottom: 50%;
+    position: relative;
+
+    text-align: center;   
+}
+
+h1 {
+    color: #802da4;
+    margin-bottom: 15%;
+    font-size: 300%;
+    font-weight: 700;
+
+}
+
+h2 {
+    color: #802da4;
+    margin-top: 0px;
+    font-size: 171.3%;
+}
+
+.dDados {
+    margin-bottom: 3%;
+    margin-right: 5%;
+    text-align: left;
+}
+
+
+.dDados label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 125%;
+    font-weight: bold;
+    color: #000;
+}
+
+
+input {
+    width: 100%;
+    height: 25px;
+    font-size: 20px;
+    padding: 8px;
+    border: 2px solid #802da4;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+
+}
+
+.dMantEsq {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8%;
+}
+
+.chequebox {
+    display: inline-flex;
+    align-items: center;
+    font-size: 17px;
+    font-weight: bold;
+    /* border: #000 solid;   */
+    white-space: nowrap;
+}
+
+.aEsqSenha {
+    margin-top: 2px;
+    font-size: 17px;
+    color: #802da4;
+    text-decoration: none;
+    font-weight: bold;    
+}
+
+.aEsqSenha:hover {
+    text-decoration: none;
+}
+
+
+.bLogin {
+    background-color: #802da4;
+    color: white;
+    border: none;
+    padding: 3%;
+    border-radius: 15px;    
+    cursor: pointer;
+    font-size: 150%;
+    width: 50%;
+
+    /* height: 50px;
+    width: 100%;
+    border-radius: 5px; */
+}
+
+.bLogin:hover {
+    background-color: #9133b9;
+}
+
+.aCadastro {
+    color: #802da4;
+    text-decoration: none;
+}
+    
+.aCadastro:hover {
+    text-decoration: none;
+}
+
+p
+{
+    font-weight: bold;
+    margin-top: 3%;
+    font-size: 110%;
+}
+
+.error {
+    color: red;  
+    font-size: 14px;
+    margin-bottom: 5px;  
+    font-weight: bold;  
+}
+
+/* .error::before {
+    content: "⚠ ";  
+    font-size: 16px;
+} */
+
+input.ng-invalid.ng-touched {
+    border-color: red; 
+}
+
+.input-error {
+    border-color: red;
+}

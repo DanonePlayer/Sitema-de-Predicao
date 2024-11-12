@@ -1,0 +1,13 @@
+<div class="main-dashboard"> 
+    <div class="cards">
+        <div class="card" *ngFor="let disciplina of disciplinas">
+            <div class="card-content">
+                <div class="number">{{ disciplina.nome }}</div>
+                <div class="card-name">{{ disciplina.situacao }}</div>
+            </div>
+            <div class="icon-box">
+                <i class="bi bi-book"></i>
+            </div>
+        </div>
+    </div>
+</div>    

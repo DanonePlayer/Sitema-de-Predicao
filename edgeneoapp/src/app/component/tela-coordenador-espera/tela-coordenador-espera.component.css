@@ -1,0 +1,49 @@
+.dCordenador-espera {
+    background-color: white;
+    border: 3px solid #802da4;
+    border-top: 10px solid #802da4;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    padding: 10%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+
+    width: 130%;
+
+    text-align: center;   
+}
+
+h1 {
+    color: #802da4;
+    margin-bottom: 15%;
+    font-size: 300%;
+    font-weight: 700;
+
+}
+ 
+h2 {
+    color: #802da4;
+    margin-top: 0px;
+    font-size: 171.3%;
+}
+
+p
+{
+    font-weight: bold;
+    font-size: 100%;
+}
+
+.bTela_login {
+    background-color: #802da4;
+    color: white;
+    border: none;
+    padding: 2%;
+    border-radius: 15px;    
+    cursor: pointer;
+    font-size: 18px;
+    width: 30%;
+
+}
+
+.bTela_login:hover {
+    background-color: #9133b9;
+}

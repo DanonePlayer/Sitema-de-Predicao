@@ -1,0 +1,166 @@
+<body>
+  <h1>Icone do site</h1>
+  <div class="dTela-cadastro-dados">
+    <form (ngSubmit)="salvar(form)" #form="ngForm">
+      <!-- Dados Pessoais -->
+      <h3 *ngIf="campoObrigatorio(form)">* Campo obrigatorio</h3>
+      <fieldset class="dados-pessoais">
+        <legend>Dados Pessoais</legend>
+        <div class="linha">
+          <div class="nome">
+            <label for="nome">Nome</label>
+            <input type="text" id="nome" name="nome" [(ngModel)]="nomeAluno" required  disabled/>
+          </div>
+
+          <div class="sobrenome">
+            <label for="sobrenome" [ngClass]="{'obrigatorio': form.submitted && form.controls['sobrenome'].invalid}">Sobrenome</label>
+            <input type="text" id="sobrenome" name="sobrenome" [(ngModel)]="aluno.sobrenome" required
+              [ngClass]="{'input-error': form.submitted && form.controls['sobrenome'].invalid}" placeholder="Digite seu sobrenome"/>
+          </div>
+
+          <div class="genero">
+            <label for="genero" [ngClass]="{'obrigatorio': form.submitted && form.controls['genero'].invalid}">Gênero</label>
+            <select id="genero" name="genero" [(ngModel)]="aluno.genero" required
+              [ngClass]="{'input-error': form.submitted && form.controls['genero'].invalid}">
+              <option value="" disabled selected>Selecione</option>
+              <option value="masculino">Masculino</option>
+              <option value="feminino">Feminino</option>
+              <option value="outro">Outro</option>
+            </select>
+          </div>
+
+          <div class="data-nascimento">
+            <label for="data-nascimento" [ngClass]="{'obrigatorio': form.submitted && form.controls['dataNascimento'].invalid}">Data de Nascimento</label>
+            <input type="date" id="data-nascimento" name="dataNascimento" [(ngModel)]="dtNascimentoString" [max]="minDataNascimento" placeholder="dd/mm/aaaa" required
+              [ngClass]="{'input-error': form.submitted && form.controls['dataNascimento'].invalid}"/>
+          </div>
+        </div>
+
+        <div class="linha">
+          <div class="naturalidade">
+            <label for="naturalidade" [ngClass]="{'obrigatorio': form.submitted && form.controls['naturalidade'].invalid}">Naturalidade</label>
+            <input type="text" id="naturalidade" name="naturalidade" required [(ngModel)]="aluno.naturalidade"
+              [ngClass]="{'input-error': form.submitted && form.controls['naturalidade'].invalid}" placeholder="Digite sua naturalidade"/>
+          </div>
+
+          <div class="etnia">
+            <label for="etnia">Etnia</label>
+            <input type="text" id="etnia" name="etnia" [(ngModel)]="aluno.etnia" placeholder="Digite sua etnia"/>
+          </div>
+
+          <div class="deficiencia">
+            <label for="deficiencia">Possui Deficiência?</label>
+            <div class="radio-group">
+              <label>
+                <input type="radio" name="deficiencia" (change)="def(true)"
+                  [checked]="aluno.possuiDeficiencia === true" required />
+                <p>Sim</p>
+              </label>
+              <label>
+                <input type="radio" name="deficiencia" (change)="def(false)"
+                  [checked]="aluno.possuiDeficiencia === false" required />
+                <p>Não</p>
+              </label>
+            </div>
+          </div>
+
+          <div class="tipo"  [ngClass]="{'desabilitado': aluno.possuiDeficiencia === false}">
+            <label for="tipo" [ngClass]="{'obrigatorio': form.submitted && aluno.possuiDeficiencia && !aluno.deficiencias}">Tipo de deficiência</label>
+            <input type="text" id="tipo" name="tipo" [(ngModel)]="aluno.deficiencias"
+              [required]="aluno.possuiDeficiencia"
+              [disabled]="aluno.possuiDeficiencia === false"
+              [ngClass]="{'input-error': form.submitted && aluno.possuiDeficiencia && !aluno.deficiencias}" placeholder="Digite a deficiencia"/>
+          </div>
+
+          <div class="estadoCivil">
+            <label for="estadoCivil" [ngClass]="{'obrigatorio': form.submitted && form.controls['estadoCivil'].invalid}">Estado civil</label>
+            <select id="estadoCivil" name="estadoCivil" [(ngModel)]="aluno.estadoCivil" required>
+              <option value="" disabled selected>Selecione</option>
+              <option value="solteiro">Solteiro</option>
+              <option value="casado">Casado</option>
+              <option value="separado">Separado</option>
+              <option value="divorciado">Divorciado</option>
+              <option value="viuvo">Viúvo</option>
+            </select>
+          </div>
+        </div>
+      </fieldset>
+      
+      <!-- Endereço -->
+      <fieldset class="endereco">
+        <legend>Endereço</legend>
+        <div class="linha">
+          <div class="cep">
+            <label for="cep" [ngClass]="{'obrigatorio': form.submitted && form.controls['cep'].invalid}">CEP</label>
+            <input type="text" id="cep" name="cep" [(ngModel)]="aluno.cep" (input)="formatarCep()" placeholder="Digite o CEP" required
+              [ngClass]="{'input-error': form.submitted && form.controls['cep'].invalid}" />
+          </div>
+
+          <div class="rua">
+            <label for="rua">Rua</label>
+            <input type="text" id="rua" name="rua" [(ngModel)]="aluno.rua" readonly/>
+          </div>
+
+          <div class="bairro">
+            <label for="bairro">Bairro</label>
+            <input type="text" id="bairro" name="bairro" [(ngModel)]="aluno.bairro" readonly/>
+          </div>
+
+          <div class="cidade">
+            <label for="cidade">Cidade</label>
+            <input type="text" id="cidade" name="cidade" [(ngModel)]="aluno.cidade" readonly/>
+          </div>
+
+          <div class="estado">
+            <label for="estado">Estado</label>
+            <input type="text" id="estado" name="estado" [(ngModel)]="aluno.estado" readonly/>
+          </div>
+        </div>
+
+      </fieldset>
+
+      <!-- Bolsa/Auxílio e Período -->
+      <fieldset class="bolsa-periodo">
+          <legend>Bolsa/Auxílio e Período</legend>
+
+          <div *ngFor="let bolsa of bolsas; let i = index" class="linha_U">
+            <div class="bolsas">
+              <label for="tipo"> Tipo </label>
+              <div class="divas">
+                <select [(ngModel)]="bolsa.tipoBolsa" name="tipoBolsa{{i}}" (change)="onTipoBolsaChange(bolsa)">
+                  <option value="" selected></option>
+                  <option value="bolsa1">Bolsa 1</option>
+                  <option value="bolsa2">Bolsa 2</option>
+                </select>
+                <div class="butoes">
+                  <button type="button" (click)="addBolsa()">+</button>
+                  <button type="button" (click)="delBolsa(i)" *ngIf="bolsas.length > 1">-</button>
+                </div>
+              </div>
+            </div>
+
+            <div class="datas">
+              <label for="periodo"> Período </label>
+              <div class="datus">
+                <div>
+                  <input type="date" [(ngModel)]="bolsa.inicio" name="inicio{{i}}" [disabled]="!bolsa.tipoBolsa" [min]="minDataBolsa" [max]="maxDataBolsa" (change)="validarData(bolsa)">
+                  <p>Começo</p>
+                </div>
+                <span>:</span>
+                <div>
+                  <input type="date" [(ngModel)]="bolsa.fim" name="fim{{i}}" [disabled]="!bolsa.tipoBolsa" [min]="minDataBolsa" [max]="maxDataBolsa" (change)="validarData(bolsa)">
+                  <p>Fim</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </fieldset>
+      <div *ngIf="erro" class="error">
+          {{ erro }}
+      </div>
+      <button type="submit" class="bCadastrar">Salvar</button>
+    </form>
+  </div>
+  <div class="rodape_arrumador">Luck</div>
+</body>

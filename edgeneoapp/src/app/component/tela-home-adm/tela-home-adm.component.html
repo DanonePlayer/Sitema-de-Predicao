@@ -1,0 +1,51 @@
+<body>
+    <div class="dTela-home-adm">
+        <header>
+            <h1 (click)="mostrarCoordenadores = false && mostrarDados = false">Nome do Site</h1>
+            <div class="usuario" (click)="configs()">
+              <i class="bi bi-person-circle"></i>
+              <span class="dropdown">ADIMINISTRADOR</span>
+              <ul class="configs" *ngIf="configON">
+                <li><a (click)="logout()">Logout</a></li>
+              </ul>
+            </div>
+        </header>
+
+        <aside class="aTela-Menu">
+            <nav class="menu">
+                <ul>
+                    <li><i class="bi bi-mortarboard"></i> Período</li>
+                    <li><i class="bi bi-book-half"></i> Disciplina</li>
+                    <li (click)="mostrarTelaCoordenadores()" class="coordenador"><i class="bi bi-emoji-sunglasses-fill"></i> Coodenadores</li>
+                    <li (click)="mostrarTelaDados()" class="dados"><i class="bi bi-clipboard-data"></i> Dados</li>
+                    <li (click)="mostrarTelaTreinamento()" class="treinamento"><i class="bi bi-graph-up"></i> Treinamento</li> <!-- Novo item para Treinamento -->
+                </ul>
+            </nav>
+        </aside>
+
+        <main class="mTela-Principal">
+            <app-tela-acep-coord *ngIf="mostrarCoordenadores"></app-tela-acep-coord>
+            <app-tela-dados *ngIf="mostrarDados"></app-tela-dados>
+            <div *ngIf="mostrarTreinamento" class="treinamento-container">
+              <button class="btn-treinamento" (click)="realizarTreinamento()">Realizar Treinamento</button>
+
+              <div *ngIf="dadosTreinamento">
+                  <select (change)="selecionarPeriodo($event)">
+                      <option *ngFor="let periodo of dadosTreinamento | keyvalue" [value]="periodo.key">{{ periodo.key }}</option>
+                  </select>
+
+                  <div *ngIf="dadosTreinamento[periodoSelecionado]">
+                      <p><strong>Período:</strong> {{ periodoSelecionado }}</p>
+                      <p><strong>Erro Absoluto Médio:</strong> {{ dadosTreinamento[periodoSelecionado]['Erro Absoluto Médio'] }}</p>
+                      <p><strong>Erro Médio Quadrático:</strong> {{ dadosTreinamento[periodoSelecionado]['Erro Médio Quadrático'] }}</p>
+                      <p><strong>Estatística Kappa:</strong> {{ dadosTreinamento[periodoSelecionado]['Estatística Kappa'] }}</p>
+                      <p><strong>Instâncias Corretamente Classificadas:</strong> {{ dadosTreinamento[periodoSelecionado]['Instâncias Corretamente Classificadas'] }}</p>
+                      <p><strong>Instâncias Incorretamente Classificadas:</strong> {{ dadosTreinamento[periodoSelecionado]['Instâncias Incorretamente Classificadas'] }}</p>
+                      <p><strong>Modelo salvo em:</strong> {{ dadosTreinamento[periodoSelecionado]['Modelo salvo em'] }}</p>
+                      <p><strong>Resumo:</strong> {{ dadosTreinamento[periodoSelecionado]['Resumo'] }}</p>
+                  </div>
+              </div>
+          </div>
+      </main>
+    </div>
+</body>

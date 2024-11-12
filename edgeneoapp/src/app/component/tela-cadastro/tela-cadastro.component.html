@@ -1,0 +1,118 @@
+<body>
+    <h1>Icone do site</h1>
+    <div class="dTela-Cadastro">
+        <h2>Cadastro</h2>
+        <form (ngSubmit)="cadastrar(form)" #form="ngForm">
+             <div class="dDados">
+                <label for="usuario">Primeiro Nome</label>
+                <input type="text" id="usuario" name="usuario" [(ngModel)]="usuario.nome" required
+                [ngClass]="{'input-error': form.submitted && form.controls['usuario'].invalid}">
+                <div *ngIf="form.submitted && form.controls['usuario']?.errors?.['required']" class="error">
+                    Usuário é obrigatório.
+                </div>
+            </div>
+
+            <div class="dDados" id="cursos">
+                <label for="curso">Curso</label>
+                <select
+                    type="curso"
+                    id="curso"
+                    name="curso"
+                    [(ngModel)]="cursoSelecionado"
+                    (change)="onCursoChange($event)"
+                    [required]="coordenadorA"
+                    [ngClass]="{'input-error': form.submitted && cursoSelecionado === null}"
+                >
+                    <option value="">Selecione um curso</option>
+                    <option *ngFor="let curso of cursos" [value]="curso.id">{{ curso.cursoNome }}</option>
+                </select>
+
+                <!-- <div *ngIf="coordenadorA && form.submitted && coordenador.curso_id_fk === 0" class="error">
+                    O Curso é obrigatório.
+                </div> -->
+            </div>
+
+            <div class="dDados">
+                <label for="senha">Senha</label>
+                <input type="password" id="senha" name="senha" [(ngModel)]="usuario.senha" required
+                minlength="8"
+                pattern="(?=.*[A-Z])(?=.*\d)[A-Za-z\d]{8,}"
+                [ngClass]="{'input-error': form.submitted && form.controls['senha'].invalid}">
+
+                <div *ngIf="form.submitted && form.controls['senha']?.errors?.['required']" class="error">
+                    A senha é obrigatória.
+                </div>
+
+                <div *ngIf="form.submitted && !form.controls['senha']?.errors?.['required'] && form.controls['senha']?.invalid" class="error">
+                    A senha deve ter no <br>mínimo 8 caracteres<br> com pelo menos uma letra <br>maiúscula e um número.
+                </div>
+            </div>
+
+            <div class="dDados">
+                <label for="confirmar-senha">Confirmar Senha</label>
+                <input type="password" id="confirmar-senha" name="confirmarSenha" [(ngModel)]="confirmarSenha" required
+                [ngClass]="{'input-error': form.submitted && usuario.senha !== confirmarSenha}">
+
+                <div *ngIf="form.submitted && form.controls['confirmarSenha']?.errors?.['required']" class="error">
+                    A confirmação de senha é obrigatória.
+                </div>
+
+                <div *ngIf="form.submitted && !form.controls['confirmarSenha']?.errors?.['required'] && usuario.senha !== confirmarSenha" class="error">
+                    As senhas não coincidem.
+                </div>
+            </div>
+
+            <div class="dDados">
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" [(ngModel)]="usuario.email" required
+                pattern="^[a-zA-Z0-9]+([._][a-zA-Z0-9]+)*@[a-zA-Z0-9]+\.[a-zA-Z]{2,}(?:\.[a-zA-Z]{2,})?$"
+                [ngClass]="{'input-error': form.submitted && form.controls['email'].invalid}">
+
+                <div *ngIf="form.submitted && form.controls['email']?.errors?.['required']" class="error">
+                    O email é obrigatório.
+                </div>
+
+                <div *ngIf="form.submitted && !form.controls['email']?.errors?.['required'] && form.controls['email']?.errors?.['pattern']" class="error">
+                    O email é inválido.
+                </div>
+            </div>
+
+
+
+            <div *ngIf="erro" class="error">
+                {{ erro }}
+            </div>
+
+            <a href="/login" class="voltar-login">> Voltar pro Login </a>
+            <button type="submit" class="bCadastrar">Cadastrar</button>
+        </form>
+
+          <div class="google-login-container">
+            <hr />
+            <span>ou</span>
+            <hr />
+        </div>
+
+        <a href="http://localhost:9000/oauth2/authorization/google" class="google-login-button">
+          <i class="bi bi-google"></i>
+          Cadastrar com o Google
+      </a>
+
+        <div class="coordenador">
+            <div class="cheque">
+                <input type="checkbox" id="coordenador" (change)="coordenadorAnexo($event)">
+                <label for="coordenador">Coordenador?</label>
+            </div>
+
+            <div class="dPortaria" *ngIf="coordenadorA">
+                <label for="portaria" class="custom-file-upload">
+                    <i class="bi bi-cloud-arrow-up-fill"> Envie o PDF que conste a portaria de nomeação como coordenador.</i>
+                </label>
+                <input type="file" id="portaria" (change)="onFileSelected($event)" accept=".pdf">
+                <span class="file-name">{{ nomeArquivo || 'Nenhum arquivo selecionado' }}</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="rodape_arrumador">Luck</div>
+</body>

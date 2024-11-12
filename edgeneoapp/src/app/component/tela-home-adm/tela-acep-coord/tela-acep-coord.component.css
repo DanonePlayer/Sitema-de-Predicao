@@ -1,0 +1,73 @@
+.coordenadores-lista {
+    text-align: center;
+    margin-bottom: 30%;
+}
+
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #802da4;
+    text-align: center;
+}
+
+th {
+    background-color: #802da4;
+    color: white;
+}
+
+button {
+    border: none;
+    padding: 5px 5px;
+    margin: 5px 5px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.btn-aprovar {
+    background-color: #28a745; /* Verde */
+    color: white;
+}
+
+.btn-aprovar:hover {
+    background-color: #218838;
+}
+
+.btn-nao-aprovar {
+    background-color: #ffc107; /* Amarelo */
+    color: white;
+}
+
+.btn-nao-aprovar:hover {
+    background-color: #e0a800;
+}
+
+.btn-remover {
+    background-color: #dc3545; /* Vermelho */
+    color: white;
+}
+
+.btn-remover:hover {
+    background-color: #c82333;
+}
+
+button:disabled {
+    background-color: #6c757d;
+    cursor: not-allowed;
+}
+
+.text-danger {
+    color: red;
+}
+
+.text-success {
+    color: green;
+}

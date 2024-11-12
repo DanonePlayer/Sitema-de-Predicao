@@ -1,0 +1,73 @@
+<body>
+    <div class="dTela-home-aluno">
+      <div class="luck">
+        <header>
+          <h1>Nome do Site</h1>
+          <div class="usuario" (click)="configs()">
+            <i class="bi bi-person-circle"></i>
+            <span class="dropdown">ALUNO</span>
+            <ul class="configs" *ngIf="configON">
+                    <li><a (click)="logout()" >Logout</a></li>
+            </ul>
+          </div>
+        </header>
+        <aside class="aTela-Menu">
+            <nav class="menu">
+              <ul>
+                <li (click)="mostrarTodasDisciplinas()" class="periodos">
+                  <i class="bi bi-bar-chart-line"></i> Periodo
+                </li>
+          
+                <li (click)="mostrarDisciplinas()" class="disciplinas">
+                  <i class="bi bi-book-half"></i> Disciplinas
+                </li>
+          
+                <!-- Menu de disciplinas visíveis, agora filtradas pelo período selecionado -->
+                <ul *ngIf="disciplinasVisiveis" class="lista-disciplinas">
+                  <li *ngFor="let disciplina of disciplinas" (click)="selecionarDisciplina(disciplina)">
+                    <i class="bi bi-caret-right-fill"></i> {{ disciplina.nome }}
+                  </li>
+                </ul>
+              </ul>
+            </nav>
+          </aside>          
+      </div>
+  
+      <main class="mTela-Principal">
+        <!-- Mensagem de Sucesso -->
+        <div *ngIf="mengSucesso" class="mensagem-sucesso" [class.hidden]="!mengSucesso">
+          Historico de disciplinas salvo com sucesso!
+        </div>
+          
+  
+        <!-- Aviso -->
+        <div *ngIf="mostrarAviso" class="card-aviso">
+          <div class="card-aviso-content">
+            <div class="card-name-aviso">
+              <i class="bi bi-exclamation-triangle"></i>
+              AVISO!
+            </div>
+            <div class="card-aviso-msg">
+              Essa predição irá mostrar suas notas deste período, mas não se preocupe se por um acaso aparecer reprovação ou trancamentos. Estamos aqui mostrando para que você se esforce mais nas disciplinas que talvez aconteça algo inconveniente.
+            </div>
+            <button (click)="fecharAviso()">Fechar</button>
+          </div>
+        </div> 
+
+        <app-tela-todas-disciplinas
+          *ngIf="todasDisciplinas"
+          [disciplinas]="disciplinas">
+        </app-tela-todas-disciplinas>
+
+  
+        <!-- Exibição do Dashboard -->
+        <app-tela-dashboard-aluno
+          *ngIf="disciplinaSelecionada"
+          [disciplina]="disciplinaSelecionada"
+          [resultadoPredicao]="resultadoPredicao">
+        </app-tela-dashboard-aluno>
+  
+      </main>
+    </div>
+  </body>
+  

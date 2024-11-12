@@ -1,0 +1,52 @@
+<div class="dados-lista">
+    <table>
+        <thead>
+          <tr>
+            <th>Código do Curso</th>
+            <th>Nome do Curso</th>
+            <th>Ano de Ingresso</th>
+            <th>Status</th>
+            <th>Ações</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+          <tr>
+            <td>
+              <input [(ngModel)]="novoCurso.codCurso" placeholder="Digite o código do curso" />
+            </td>
+            <td>{{ novoCurso.nomeCurso || 'Nome do Curso' }}</td>
+            <td>
+              <input [(ngModel)]="novoCurso.anoIngresso" placeholder="Digite o ano de ingresso" type="number" />
+            </td>
+            <td>{{ novoCurso.status }}</td>
+            <td>
+              <button (click)="buscarCurso()" [disabled]="!novoCurso.codCurso || !novoCurso.anoIngresso">
+                🔍
+              </button>
+      
+              <button (click)="iniciarRequisicao()" [disabled]="!novoCurso.isCursoValido">
+                ▶️
+              </button>
+      
+               <!-- <button disabled>
+                
+              </button> -->
+            </td>
+          </tr>
+
+          <tr *ngFor="let registro of registros; let i = index">
+            <td>{{ registro.codCurso }}</td>
+            <td>{{ registro.nomeCurso }}</td>
+            <td>{{ registro.anoInicioPesquisa }}</td>
+            <td>{{ registro.status }}</td>
+            <td>
+              <!-- O botão só deve ser habilitado se o registro tiver um ID, ou seja, já estiver no banco de dados -->
+              <button [disabled]="!registro.id" (click)="removerRegistro(registro.id)">
+                ❌
+              </button>
+            </td>
+          </tr>
+        </tbody>
+      </table>      
+</div>

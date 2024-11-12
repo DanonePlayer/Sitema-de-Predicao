@@ -1,0 +1,36 @@
+.dTela-Login {
+    background-color: white;
+    border: 3px solid #802da4;
+    border-top: 10px solid #802da4;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    padding: 10%;
+    padding-bottom: 0%; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+
+    width: 130%;
+    margin-bottom: 50%;
+    position: relative;
+
+    text-align: center;   
+}
+
+h1 {
+    color: #802da4;
+    margin-bottom: 15%;
+    font-size: 300%;
+    font-weight: 700;
+}
+
+h2 {
+    color: #802da4;
+    margin-top: 0px;
+    font-size: 171.3%;
+}
+
+p {
+    font-weight: bold;
+    margin-top: 3%;
+    font-size: 110%;
+    color: #802da4;
+}

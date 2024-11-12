@@ -1,0 +1,111 @@
+<body>
+    <div class="dTela-home-coord">
+        <div class="topbar">
+            <div class="logo">
+                <h1>Logo do Site | Nome do Site</h1>
+            </div>
+            <div class="usuario" (click)="configs()">
+              <i class="bi bi-person-circle"></i>
+              <span class="dropdown">COORDENADOR</span>
+              <ul class="configs" *ngIf="configON">
+                <li><a (click)="logout()">Logout</a></li>
+              </ul>
+            </div>
+        </div>
+        <div class="sidebar">
+            <nav class="menu">
+                <ul>
+                    <li (click)="mostrarSemestre()" class="semestre">
+                        <i class="bi bi-mortarboard"></i> Semestre
+                    </li>
+                    <ul *ngIf="semestresVisiveis" class="lista-semestres">
+                        <li><i class="bi bi-caret-right"></i>2024.1</li>
+                        <li><i class="bi bi-caret-right"></i>2024.2</li>
+                    </ul>
+
+                    <li (click)="mostrarDisciplinas()" class="disciplinas">
+                        <i class="bi bi-book-half"></i> Disciplinas
+                    </li>
+                    <ul *ngIf="disciplinasVisiveis" class="lista-disciplinas">
+                        <li><i class="bi bi-caret-right"></i>Tópicos de Cálculo I</li>
+                        <li><i class="bi bi-caret-right"></i>Algoritmos e Linguagem de Programação</li>
+                        <li><i class="bi bi-caret-right"></i>Teoria Geral de Sistemas</li>
+                        <li><i class="bi bi-caret-right"></i>Introdução à Pesquisa em Sistemas de Informação</li>
+                        <li><i class="bi bi-caret-right"></i>Comportamento Organizacional</li>
+                        <!-- <li><i class="bi bi-caret-right"></i>Linguagem de Programação I</li>
+                        <li><i class="bi bi-caret-right"></i>Arquitetura e Organização de Computador</li>
+                        <li><i class="bi bi-caret-right"></i>Economia e Finanças</li>
+                        <li><i class="bi bi-caret-right"></i>Fundamentos de Sistemas de Informação</li>
+                        <li><i class="bi bi-caret-right"></i>Marketing</li>
+                        <li><i class="bi bi-caret-right"></i>Tópicos de Cálculo II</li>
+                        <li><i class="bi bi-caret-right"></i>Organização, Sistemas e Métodos</li>
+                        <li><i class="bi bi-caret-right"></i>Linguagem de Programação II</li>
+                        <li><i class="bi bi-caret-right"></i>Estrutura de Dados</li>
+                        <li><i class="bi bi-caret-right"></i>Sistemas Operacionais</li>
+                        <li><i class="bi bi-caret-right"></i>Estatística Computacional</li>
+                        <li><i class="bi bi-caret-right"></i>Sistemas de Apoio à Decisão</li>
+                        <li><i class="bi bi-caret-right"></i>Psicologia Aplicada</li>
+                        <li><i class="bi bi-caret-right"></i>Informática e Sociedade</li>
+                        <li><i class="bi bi-caret-right"></i>Banco de Dados I</li>
+                        <li><i class="bi bi-caret-right"></i>Pesquisa Operacional</li>
+                        <li><i class="bi bi-caret-right"></i>Comunicação e Redes de Computadores</li>
+                        <li><i class="bi bi-caret-right"></i>Fundamentos da Computação</li>
+                        <li><i class="bi bi-caret-right"></i>Tópicos Especiais em Sistemas de Informação I</li>
+                        <li><i class="bi bi-caret-right"></i>Contabilidade e Custos</li>
+                        <li><i class="bi bi-caret-right"></i>Sociologia</li>
+                        <li><i class="bi bi-caret-right"></i>Produção e Operações Logísticas</li>
+                        <li><i class="bi bi-caret-right"></i>Projetos de Sistemas de Informação</li>
+                        <li><i class="bi bi-caret-right"></i>Redes de Computadores</li>
+                        <li><i class="bi bi-caret-right"></i>Gerência de Projetos</li>
+                        <li><i class="bi bi-caret-right"></i>Engenharia de Software I</li>
+                        <li><i class="bi bi-caret-right"></i>Tópicos Especiais em Sistemas de Informação II</li>
+                        <li><i class="bi bi-caret-right"></i>Banco de Dados II</li>
+                        <li><i class="bi bi-caret-right"></i>Sistemas Distribuídos</li>
+                        <li><i class="bi bi-caret-right"></i>Engenharia de Software II</li>
+                        <li><i class="bi bi-caret-right"></i>Interface Homem Máquina</li>
+                        <li><i class="bi bi-caret-right"></i>Planos de Negócios em Informática</li>
+                        <li><i class="bi bi-caret-right"></i>Introdução à Inteligência Artificial</li>
+                        <li><i class="bi bi-caret-right"></i>Estágio Supervisionado</li>
+                        <li><i class="bi bi-caret-right"></i>Trabalho de Conclusão de Curso - TCC I</li>
+                        <li><i class="bi bi-caret-right"></i>Ética e Legislação Aplicada à Informática</li>
+                        <li><i class="bi bi-caret-right"></i>Gestão da Informação</li>
+                        <li><i class="bi bi-caret-right"></i>Segurança e Auditoria de Sistemas</li>
+                        <li><i class="bi bi-caret-right"></i>Sistemas Multimídia</li>
+                        <li><i class="bi bi-caret-right"></i>Gerência de Redes</li>
+                        <li><i class="bi bi-caret-right"></i>Trabalho de Conclusão de Curso - TCC II</li>
+                        <li><i class="bi bi-caret-right"></i>Empreendedorismo</li>
+                        <li><i class="bi bi-caret-right"></i>Relatório de Estágio</li> -->
+                    </ul>
+                    <li (click)="mostrarTeste()" class="teste">
+                        <i class="bi bi-mortarboard"></i>Teste
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <main class="mTela-Principal">
+            <app-tela-dashboard-coord *ngIf="mostrarDashboard"></app-tela-dashboard-coord>
+            <app-tela-testes *ngIf="mostrarTeste"></app-tela-testes>
+            <!-- Condição para exibir o conteúdo de Teste -->
+            <!-- <div *ngIf="exibindoTeste" class="teste-container">
+                <button class="btn-teste" (click)="realizarTeste()">Realizar Teste</button>
+
+                <div *ngIf="dadosTeste">
+                    <select (change)="selecionarPeriodo($event)">
+                        <option *ngFor="let periodo of dadosTeste | keyvalue" [value]="periodo.key">{{ periodo.key }}</option>
+                    </select>
+                </div> -->
+
+                <!-- Exibe os dados do período selecionado -->
+                <!-- <div *ngIf="dadosTeste[periodoSelecionado]">
+                    <p><strong>Período:</strong> {{ periodoSelecionado }}</p>
+                    <p><strong>Erro Absoluto Médio:</strong> {{ dadosTeste[periodoSelecionado]['Erro Absoluto Médio'] }}</p>
+                    <p><strong>Erro Médio Quadrático:</strong> {{ dadosTeste[periodoSelecionado]['Erro Médio Quadrático'] }}</p>
+                    <p><strong>Estatística Kappa:</strong> {{ dadosTeste[periodoSelecionado]['Estatística Kappa'] }}</p>
+                    <p><strong>Instâncias Corretamente Classificadas:</strong> {{ dadosTeste[periodoSelecionado]['Instâncias Corretamente Classificadas'] }}</p>
+                    <p><strong>Instâncias Incorretamente Classificadas:</strong> {{ dadosTeste[periodoSelecionado]['Instâncias Incorretamente Classificadas'] }}</p>
+                    <p><strong>Modelo salvo em:</strong> {{ dadosTeste[periodoSelecionado]['Modelo salvo em'] }}</p>
+                    <p><strong>Resumo:</strong> {{ dadosTeste[periodoSelecionado]['Resumo'] }}</p> 
+                </div> -->
+        </main>  
+    </div>
+</body>

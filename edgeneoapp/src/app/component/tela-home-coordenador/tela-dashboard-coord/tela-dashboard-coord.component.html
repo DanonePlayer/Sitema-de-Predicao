@@ -1,0 +1,76 @@
+<div class="main-dashboard">
+    <div class="cards">
+      <div class="card">
+        <div class="card-content">
+          <!-- Exibe o total de instâncias ou '0' caso os dados não estejam disponíveis -->
+          <div class="number">{{ dadosTeste?.totalInstancias }}</div>
+          <div class="card-name">Número Total de Instâncias</div>
+        </div>
+        <div class="icon-box">
+          <i class="fas fa-user-graduate"></i>
+        </div>
+      </div>
+      
+      <div class="card">
+        <div class="card-content">
+          <!-- Exibe as instâncias corretas ou '0' caso os dados não estejam disponíveis -->
+          <div class="number">{{ dadosTeste?.instanciasCorretas }}</div>
+          <div class="card-name">Número de Instâncias Corretas</div>
+        </div>
+        <div class="icon-box">
+          <i class="fas fa-user-graduate"></i>
+        </div>
+      </div>
+      
+      <div class="card">
+        <div class="card-content">
+          <!-- Exibe as instâncias incorretas ou '0' caso os dados não estejam disponíveis -->
+          <div class="number">{{ dadosTeste?.instanciasIncorretas }}</div>
+          <div class="card-name">Número de Instâncias Incorretas</div>
+        </div>
+        <div class="icon-box">
+          <i class="fas fa-user-graduate"></i>
+        </div>
+      </div>
+      
+    </div>
+  
+    <div class="dashboard-container">
+        <h2>Dashboard</h2>
+      
+        <div class="charts">
+          <div class="chart">
+            <h3>Gráfico de Barras</h3>
+            <canvas id="barChart"></canvas>
+          </div>
+      
+          <div class="chart" id="doughnut-chart">
+            <h3>Gráfico de Doughnut</h3>
+            <canvas id="doughnutChart"></canvas>
+          </div>
+
+          <!-- <div class="chart">
+            <h3>Gráfico de linha</h3>
+            <canvas id="lineChart"></canvas>
+          </div>
+
+          <div class="chart">
+            <h3>Gráfico de Colunas</h3>
+            <canvas id="polarAreaChart"></canvas>
+          </div>
+
+          <div class="chart">
+            <h3>Gráfico de Colunas</h3>
+            <canvas id="radarChart"></canvas>
+          </div>
+
+          <div class="chart">
+            <h3>Gráfico de Colunas</h3>
+            <canvas id="scatterChart"></canvas>
+          </div> -->
+      </div>
+  </div>
+</div>
+
+      
+      

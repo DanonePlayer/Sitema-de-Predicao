@@ -1,0 +1,43 @@
+.dados-lista {
+    text-align: center;
+    margin-bottom: 30%;
+}
+
+table 
+{
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+  
+th, td 
+{
+    padding: 10px;
+    border: 1px solid #802da4;
+    text-align: center;
+}
+
+th 
+{
+    background-color: #802da4;
+    color: white;
+}
+
+input {
+    padding: 10px;
+    border: 2px solid #802da4;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+    font-size: 14px;
+}
+
+button:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+
+  

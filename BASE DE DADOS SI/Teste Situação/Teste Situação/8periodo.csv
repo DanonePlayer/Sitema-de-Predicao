@@ -1,0 +1,1523 @@
+GENERO,ESTADO_CIVIL,FORMA_INGRESSO,NOME_ATIV_CURRIC,CH_TOTAL,NUM_FALTAS,MEDIA_FINAL,IDADE_PRIMEIRO_ANO,DURACAO_CURSO,CREDITO_TEORICO,CREDITO_PRATICO,CREDITO_CAMPO,PERCENTUAL_FREQUENCIA_PERIODO,PERCENTUAL_FREQUENCIA_DISCIPLINA,MEDIA_PERIODO,MEDIA_SEMESTRE,SITUACAO)
+M,Casado(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,18.0,2.26,32,0.0,4,0,0,79.16,75.0,5.88,1.73,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,33.0,2.12,33,0.0,4,0,0,70.41,54.17,4.21,5.76,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,68.0,0.0,29,0.0,4,0,0,29.86,5.56,0.0,1.14,Reprovado por Freqüência
+M,Casado(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,0.0,9.0,30,5.0,4,0,0,96.43,100.0,9.31,9.31,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,18.0,7.45,33,0.0,4,0,0,70.41,75.0,4.21,5.59,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,16.0,5.2,28,0.0,4,0,0,66.67,77.78,3.43,4.97,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,70.0,0.0,28,0.0,4,0,0,66.67,2.78,3.43,1.5,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,10.0,9.05,20,8.0,4,0,0,37.22,86.11,1.81,3.02,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,9.0,7.07,19,4.0,4,0,0,93.06,87.5,8.07,8.19,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,6.2,18,9.0,4,0,0,75.0,100.0,2.52,4.89,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,72.0,0.0,18,9.0,4,0,0,79.72,0.0,5.17,3.79,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.25,18,9.0,4,0,0,79.72,100.0,5.17,6.8,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,0.0,18,9.0,4,0,0,79.72,100.0,5.17,3.25,Reprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,5.97,17,11.0,4,0,0,55.56,100.0,1.19,4.11,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,7.0,6.16,18,4.0,4,0,0,66.47,90.28,5.45,1.77,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,5.0,9.42,17,5.0,4,0,0,82.81,93.06,6.86,8.05,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,3.0,6.65,18,6.0,4,0,0,97.02,95.83,8.56,8.18,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,10.0,10.0,18,7.0,4,0,0,87.7,86.11,8.31,7.32,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,14.0,8.65,18,9.0,4,0,0,84.55,80.56,6.91,7.96,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,7.22,18,9.0,4,0,0,84.13,100.0,4.73,5.01,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,1.0,7.18,18,4.0,4,0,0,96.23,98.61,8.32,8.34,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.5,19,9.0,4,0,0,88.23,100.0,7.64,2.19,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,9.76,18,5.0,4,0,0,99.65,100.0,7.95,7.95,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,14.0,8.3,18,9.0,4,0,0,75.97,80.56,4.89,5.24,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,12.0,8.65,18,11.0,4,0,0,43.98,83.33,2.03,4.57,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,15.0,0.44,18,11.0,4,0,0,43.98,79.17,2.03,2.53,Reprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,18,10.0,4,0,0,94.84,100.0,8.08,6.54,Aprovado
+M,Não informado,Vestibular,Gestão da Informação,60.0,0.0,8.0,18,8.0,4,0,0,81.64,100.0,6.21,8.12,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,5.75,18,11.0,4,0,0,72.22,100.0,4.5,3.26,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,32.0,0.0,17,11.0,4,0,0,37.96,55.56,1.42,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,0.0,8.0,24,6.0,4,0,0,85.94,100.0,6.87,7.32,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,14.0,7.22,18,11.0,4,0,0,62.35,80.56,4.4,7.41,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,10.0,7.0,17,7.0,4,0,0,76.3,86.11,5.27,6.24,Aprovado
+M,Não informado,Vestibular,Gestão da Informação,60.0,0.0,10.0,18,4.0,4,0,0,99.21,100.0,9.07,9.07,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,72.0,0.0,19,8.0,4,0,0,50.0,0.0,2.0,1.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,8.0,8.75,17,5.0,4,0,0,96.53,88.89,7.55,7.35,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,72.0,0.0,18,8.0,4,0,0,44.17,0.0,0.11,0.09,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,6.62,17,8.0,4,0,0,94.44,100.0,7.66,2.22,Aprovado
+F,Não informado,Vestibular,Gestão da Informação,60.0,0.0,8.0,26,7.0,4,0,0,86.69,100.0,6.78,5.79,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,7.52,18,8.0,4,0,0,81.67,100.0,5.6,4.77,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,20,8.0,4,0,0,93.78,100.0,7.89,7.44,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.85,18,5.0,4,0,0,97.02,100.0,8.88,8.9,Aprovado
+F,Solteiro(a),Transferência Externa,Gestão da Informação,60.0,72.0,0.0,20,10.0,4,0,0,50.0,0.0,2.12,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,12.0,8.75,19,6.0,4,0,0,89.06,83.33,6.79,6.87,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,9.0,20,4.0,4,0,0,99.21,100.0,9.29,9.29,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,12.0,9.86,20,11.0,4,0,0,86.92,83.33,7.05,5.07,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,32.0,0.0,20,11.0,4,0,0,86.92,55.56,7.05,6.13,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,9.1,18,5.0,4,0,0,99.4,100.0,9.02,9.14,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,36.0,0.75,24,5.0,4,0,0,44.44,50.0,2.92,0.19,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,6.32,18,11.0,4,0,0,48.86,100.0,2.21,5.82,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.55,16,5.0,4,0,0,95.24,100.0,8.4,7.65,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.85,18,5.0,4,0,0,98.41,100.0,8.85,8.99,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,19,9.0,4,0,0,78.97,100.0,6.72,7.3,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.9,25,5.0,4,0,0,95.44,100.0,8.6,8.7,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,5.75,18,7.0,4,0,0,46.3,100.0,1.92,1.51,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,18,9.0,4,0,0,76.39,100.0,5.17,6.71,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.5,17,9.0,4,0,0,63.43,100.0,3.74,5.69,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,6.02,19,9.0,4,0,0,70.83,100.0,3.98,5.49,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,9.1,17,5.0,4,0,0,98.81,100.0,8.74,8.78,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,5.2,19,7.0,4,0,0,48.47,100.0,6.06,5.28,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.65,20,5.0,4,0,0,99.01,100.0,8.36,8.56,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,36.0,0.25,18,9.0,4,0,0,67.36,50.0,0.13,0.23,Reprovado por Freqüência
+M,Casado(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,23,5.0,4,0,0,97.02,100.0,8.62,7.54,Aprovado
+M,Solteiro(a),Transferência Externa,Gestão da Informação,60.0,0.0,9.0,19,12.0,4,0,0,88.48,100.0,6.55,5.62,Aprovado
+F,Solteiro(a),Transferência Externa,Gestão da Informação,60.0,0.0,7.6,19,5.0,4,0,0,93.25,100.0,7.5,6.36,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.5,20,7.0,4,0,0,99.07,100.0,8.45,7.47,Aprovado
+M,Casado(a),Vestibular,Gestão da Informação,60.0,0.0,9.0,31,6.0,4,0,0,98.02,100.0,9.19,7.0,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,17,9.0,4,0,0,94.45,100.0,7.06,5.88,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.5,21,4.0,4,0,0,98.41,100.0,9.19,9.19,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,9.0,18,4.0,4,0,0,97.62,100.0,9.04,9.04,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,18,10.0,4,0,0,67.06,100.0,4.73,6.55,Aprovado
+M,Casado(a),Transferência Externa,Gestão da Informação,60.0,0.0,0.0,20,7.0,4,0,0,38.89,100.0,0.0,0.0,Reprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.5,19,5.0,4,0,0,95.64,100.0,8.96,8.96,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,5.87,19,7.0,4,0,0,100.0,100.0,5.87,2.94,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,17,10.0,4,0,0,69.05,100.0,4.78,6.76,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,25,11.0,4,0,0,88.17,100.0,6.39,5.42,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,70.0,0.0,23,10.0,4,0,0,45.83,2.78,1.53,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,70.0,0.0,23,10.0,4,0,0,45.83,2.78,1.53,2.55,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,32.0,0.0,23,10.0,4,0,0,45.83,55.56,1.53,0.19,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,0.0,21,6.0,4,0,0,63.33,100.0,0.0,0.0,Reprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.5,19,5.0,4,0,0,95.63,100.0,9.06,9.06,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.5,17,5.0,4,0,0,92.46,100.0,8.65,8.65,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,23,10.0,4,0,0,90.28,100.0,7.83,5.56,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,19,8.0,4,0,0,89.29,100.0,8.14,6.87,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.25,22,8.0,4,0,0,71.91,100.0,5.8,5.33,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.25,19,6.0,4,0,0,94.84,100.0,9.01,6.59,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,20,8.0,4,0,0,77.22,100.0,6.08,5.25,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.5,19,6.0,4,0,0,100.0,100.0,7.83,5.49,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,19,6.0,4,0,0,77.67,100.0,6.28,6.06,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.5,17,5.0,4,0,0,99.21,100.0,8.88,8.88,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.5,27,10.0,4,0,0,93.21,100.0,7.11,6.95,Aprovado
+M,Solteiro(a),Transferência Externa,Gestão da Informação,60.0,0.0,10.0,24,4.0,4,0,0,97.22,100.0,9.43,9.49,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,18,11.0,4,0,0,82.29,100.0,6.63,5.65,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,17,6.0,4,0,0,95.02,100.0,7.35,5.42,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,9.0,26,6.0,4,0,0,95.11,100.0,8.52,8.23,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,9.0,17,5.0,4,0,0,96.69,100.0,9.06,9.13,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,19,9.0,4,0,0,82.22,100.0,6.59,3.02,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,20,5.0,4,0,0,97.22,100.0,8.89,7.78,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.5,20,7.0,4,0,0,90.94,100.0,8.39,6.59,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,70.0,0.0,18,8.0,4,0,0,54.86,2.78,3.88,0.0,Reprovado por Freqüência
+M,Solteiro(a),Transferência Externa,Gestão da Informação,60.0,0.0,8.5,19,6.0,4,0,0,96.69,100.0,8.55,7.48,Aprovado
+M,Solteiro(a),Transferência Externa,Gestão da Informação,60.0,0.0,8.0,21,9.0,4,0,0,97.22,100.0,8.19,5.69,Aprovado
+M,Solteiro(a),Mandado de Segurança,Gestão da Informação,60.0,0.0,9.0,19,9.0,4,0,0,80.21,100.0,7.16,8.06,Aprovado
+M,Casado(a),Vestibular,Gestão da Informação,60.0,0.0,9.0,18,8.0,4,0,0,68.33,100.0,5.09,8.24,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,18,7.0,4,0,0,96.76,100.0,7.54,5.03,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,17,9.0,4,0,0,85.93,100.0,5.83,5.51,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.5,19,7.0,4,0,0,95.7,100.0,8.91,8.77,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,9.0,19,5.0,4,0,0,98.02,100.0,9.08,9.08,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,19,9.0,4,0,0,77.36,100.0,4.99,6.39,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,9.0,19,6.0,4,0,0,97.02,100.0,8.94,7.83,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.75,22,9.0,4,0,0,79.17,100.0,6.0,4.88,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,32.0,0.0,18,5.0,4,0,0,68.06,55.56,3.97,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,14.0,8.85,18,9.0,4,0,0,67.81,80.56,5.18,5.7,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,9.0,17,5.0,4,0,0,97.22,100.0,9.17,9.21,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,18.0,8.02,18,9.0,4,0,0,89.29,75.0,8.2,8.76,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,18,7.0,4,0,0,83.24,100.0,6.16,2.67,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,12.0,8.78,24,6.0,4,0,0,92.46,83.33,8.36,8.2,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.5,22,5.0,4,0,0,91.87,100.0,8.81,6.85,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,17,7.0,4,0,0,97.4,100.0,7.64,4.09,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,9.0,25,7.0,4,0,0,94.97,100.0,8.39,7.18,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,18.0,5.1,27,0.0,4,0,0,87.5,75.0,5.55,4.12,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,9.0,18,5.0,4,0,0,96.5,100.0,8.37,7.32,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,21,9.0,4,0,0,85.18,100.0,6.47,7.66,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,9.0,18,9.0,4,0,0,84.52,100.0,6.99,8.86,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,19,8.0,4,0,0,90.83,100.0,7.74,8.0,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,18,9.0,4,0,0,60.49,100.0,4.64,4.36,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,18.0,9.86,18,8.0,4,0,0,89.88,75.0,9.08,7.74,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.5,18,7.0,4,0,0,82.47,100.0,7.01,5.23,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,9.25,17,6.0,4,0,0,97.75,100.0,8.95,8.95,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,17,8.0,4,0,0,98.55,100.0,8.43,2.94,Aprovado
+F,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.75,21,0.0,4,0,0,97.22,100.0,6.83,4.61,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,32.0,0.0,17,8.0,4,0,0,47.22,55.56,1.09,0.49,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,70.0,0.0,18,8.0,4,0,0,57.1,2.78,4.21,0.79,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,18.0,8.2,18,8.0,4,0,0,57.1,75.0,4.21,4.59,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,68.0,0.0,18,8.0,4,0,0,57.1,5.56,4.21,0.21,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,23,8.0,4,0,0,85.76,100.0,5.37,6.32,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,0.0,9.0,24,5.0,4,0,0,96.69,100.0,8.86,8.86,Aprovado
+M,Outros,Convênio,Gestão da Informação,60.0,0.0,9.0,17,6.0,4,0,0,98.94,100.0,9.21,9.21,Aprovado
+M,Outros,Convênio,Gestão da Informação,60.0,68.0,0.0,18,8.0,4,0,0,43.52,5.56,2.77,0.95,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,23,7.0,4,0,0,63.1,100.0,2.49,3.16,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,8.0,18,8.0,4,0,0,98.61,100.0,8.56,4.68,Aprovado
+M,Solteiro(a),Vestibular,Gestão da Informação,60.0,0.0,9.25,20,4.0,4,0,0,83.4,100.0,9.11,8.97,Aprovado
+F,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,70.0,0.0,18,7.0,4,0,0,18.4,2.78,0.2,0.25,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,57.0,0.0,18,7.0,4,0,0,53.12,20.83,4.06,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,0.0,8.5,18,8.0,4,0,0,76.23,100.0,5.28,7.5,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,39.0,1.25,18,0.0,4,0,0,36.8,45.83,0.62,4.4,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,0.0,10.0,19,0.0,4,0,0,76.56,100.0,7.41,9.88,Aprovado
+M,Casado(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,0.0,9.0,29,8.0,4,0,0,85.09,100.0,6.28,4.42,Aprovado
+F,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,0.0,8.75,41,8.0,4,0,0,95.63,100.0,8.67,6.14,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,0.0,9.0,19,5.0,4,0,0,96.69,100.0,8.79,7.69,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,16.0,2.51,19,0.0,4,0,0,77.22,77.78,5.24,5.34,Reprovado
+F,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,0.0,9.0,17,0.0,4,0,0,98.61,100.0,9.03,8.17,Aprovado
+M,Casado(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,70.0,0.0,43,7.0,4,0,0,39.93,2.78,1.31,1.81,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,17.0,2.12,18,0.0,4,0,0,32.44,76.39,0.8,3.3,Reprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,72.0,0.0,18,0.0,4,0,0,32.44,0.0,0.8,0.0,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,52.0,0.0,18,7.0,4,0,0,18.4,27.78,0.2,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,0.0,9.0,18,8.0,4,0,0,94.44,100.0,8.71,7.13,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,0.0,9.0,17,5.0,4,0,0,99.47,100.0,9.21,9.21,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,70.0,0.0,19,0.0,4,0,0,59.53,2.78,4.0,3.06,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,72.0,0.0,19,0.0,4,0,0,59.53,0.0,4.0,0.68,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,0.0,9.0,18,5.0,4,0,0,96.56,100.0,8.96,7.84,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,0.0,10.0,20,0.0,4,0,0,85.02,100.0,5.63,9.2,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,18.0,8.4,18,0.0,4,0,0,75.58,75.0,6.5,6.78,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,0.0,10.0,17,4.0,4,0,0,100.0,100.0,9.46,9.46,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,0.0,10.0,21,5.0,4,0,0,98.81,100.0,9.12,9.12,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,18.0,7.24,18,7.0,4,0,0,62.22,75.0,5.71,4.86,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,0.0,10.0,18,4.0,4,0,0,96.83,100.0,9.32,9.32,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,0.0,10.0,19,4.0,4,0,0,97.62,100.0,9.46,9.48,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gestão da Informação,60.0,18.0,1.69,19,9.0,4,0,0,43.65,75.0,2.37,1.91,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,0.0,9.5,17,4.0,4,0,0,98.81,100.0,9.47,9.47,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,0.0,9.0,21,3.0,4,0,0,95.83,100.0,7.58,7.16,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,11.0,6.02,18,7.0,4,0,0,82.05,84.72,6.89,8.39,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,0.0,10.0,18,4.0,4,0,0,99.6,100.0,9.95,9.95,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,72.0,0.0,18,0.0,4,0,0,17.36,0.0,0.12,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,68.0,0.0,18,0.0,4,0,0,17.36,5.56,0.12,2.17,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,4.0,7.04,18,0.0,4,0,0,63.89,94.44,6.28,6.85,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,0.0,9.0,17,6.0,4,0,0,80.19,100.0,6.59,8.36,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,0.0,10.0,18,4.0,4,0,0,94.64,100.0,9.75,9.72,Aprovado
+M,Outros,Processo Seletivo - SiSU,Gestão da Informação,60.0,13.0,9.05,17,5.0,4,0,0,86.4,81.94,7.88,7.76,Aprovado
+F,Solteiro(a),Transferência Externa,Gestão da Informação,60.0,0.0,9.0,19,6.0,4,0,0,90.62,100.0,7.62,6.44,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,0.0,10.0,19,6.0,4,0,0,89.81,100.0,7.69,8.2,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,54.0,1.69,18,0.0,4,0,0,49.3,25.0,3.81,1.44,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,18.0,8.09,18,7.0,4,0,0,66.31,75.0,4.38,4.73,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,10.0,5.96,19,0.0,4,0,0,55.04,86.11,4.66,5.74,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,18.0,8.54,17,5.0,4,0,0,81.36,75.0,6.83,6.66,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,18.0,9.24,17,4.0,4,0,0,91.67,75.0,8.67,8.67,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,18.0,9.12,17,4.0,4,0,0,87.83,75.0,8.78,8.78,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,60.0,0.0,17,5.0,4,0,0,23.34,16.67,0.0,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,37.0,2.0,18,0.0,4,0,0,39.64,48.61,2.17,2.17,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,16.0,9.44,21,4.0,4,0,0,91.67,77.78,8.69,8.69,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,18.0,9.1,18,3.0,4,0,0,93.25,75.0,8.84,8.84,Aprovado
+M,Solteiro(a),Transferência Externa,Gestão da Informação,60.0,17.0,3.94,19,0.0,4,0,0,66.32,76.39,5.36,2.98,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,10.0,9.02,17,0.0,4,0,0,82.64,86.11,6.75,6.7,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,37.0,1.31,17,0.0,4,0,0,82.64,48.61,6.75,3.36,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,14.0,6.98,20,5.0,4,0,0,67.7,80.56,4.95,6.9,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,17.0,4.66,20,5.0,4,0,0,67.7,76.39,4.95,5.08,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,17.0,8.0,16,0.0,4,0,0,66.26,76.39,6.26,7.32,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,8.0,8.4,20,0.0,4,0,0,91.67,88.89,8.81,7.09,Aprovado
+M,Casado(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,17.0,8.0,29,5.0,4,0,0,57.23,76.39,5.59,5.97,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,68.0,0.0,18,5.0,4,0,0,38.2,5.56,0.66,0.88,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,67.0,0.0,18,4.0,4,0,0,6.94,6.94,0.0,4.65,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,0.0,6.55,19,5.0,4,0,0,86.11,100.0,8.09,8.05,Aprovado
+M,Solteiro(a),Reopção de Curso,Gestão da Informação,60.0,0.0,9.0,20,0.0,4,0,0,92.36,100.0,8.11,5.33,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,0.0,8.02,19,0.0,4,0,0,98.61,100.0,8.51,5.92,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,2.0,7.08,18,0.0,4,0,0,70.27,97.22,6.55,6.33,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,2.0,7.44,18,0.0,4,0,0,66.5,97.22,4.67,6.57,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,2.0,5.53,16,0.0,4,0,0,28.33,97.22,3.08,2.8,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,68.0,0.0,16,0.0,4,0,0,28.33,5.56,3.08,5.54,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,2.0,9.05,18,4.0,4,0,0,98.81,97.22,9.14,9.14,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,2.0,8.0,24,0.0,4,0,0,66.48,97.22,4.54,6.71,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,0.0,7.12,21,5.0,4,0,0,86.0,100.0,8.16,6.97,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,4.0,8.25,18,0.0,4,0,0,96.53,94.44,8.54,8.33,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,0.0,9.2,18,4.0,4,0,0,84.92,100.0,9.58,9.58,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,14.0,8.28,17,4.0,4,0,0,89.29,80.56,8.8,8.8,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,7.0,8.15,18,0.0,4,0,0,94.64,90.28,7.35,7.35,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,10.0,8.32,18,0.0,4,0,0,95.24,86.11,9.08,9.08,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gestão da Informação,60.0,2.0,8.8,18,4.0,4,0,0,98.41,97.22,9.09,9.09,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,0.0,30,7.0,4,0,0,100.0,100.0,0.0,0.0,Reprovado
+M,Casado(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,30,5.0,4,0,0,96.43,100.0,9.31,9.31,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,33,0.0,4,0,0,70.41,100.0,4.21,5.76,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,0.0,20,8.0,4,0,0,37.22,100.0,1.81,3.02,Reprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,2.0,8.6,18,4.0,4,0,0,96.23,97.22,8.32,8.34,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,9.5,18,5.0,4,0,0,99.65,100.0,7.95,7.95,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,6.0,6.15,19,4.0,4,0,0,93.06,91.67,8.07,8.19,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,26.0,1.35,18,9.0,4,0,0,75.0,63.89,2.52,1.62,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,6.0,5.45,18,9.0,4,0,0,79.72,91.67,5.17,3.79,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,6.0,5.05,22,9.0,4,0,0,63.89,91.67,4.85,6.01,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,10.0,6.08,18,4.0,4,0,0,66.47,86.11,5.45,1.77,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,4.0,9.65,17,5.0,4,0,0,82.81,94.44,6.86,8.05,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,2.0,8.7,18,6.0,4,0,0,97.02,97.22,8.56,8.98,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,10.0,8.02,18,7.0,4,0,0,87.7,86.11,8.31,7.32,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,15.0,8.57,18,9.0,4,0,0,84.55,79.17,6.91,7.96,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,5.0,5.03,18,9.0,4,0,0,84.13,93.06,4.73,5.01,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,15.0,7.67,18,9.0,4,0,0,75.97,79.17,4.89,5.24,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,14.0,7.61,18,11.0,4,0,0,43.98,80.56,2.03,4.57,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,18,10.0,4,0,0,94.84,100.0,8.08,6.54,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,18,11.0,4,0,0,72.22,100.0,4.5,4.35,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,20.0,0.0,17,11.0,4,0,0,37.96,72.22,1.42,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,0.0,5.48,24,6.0,4,0,0,85.94,100.0,6.87,6.08,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,19,9.0,4,0,0,88.23,100.0,7.64,4.3,Aprovado
+M,Não informado,Vestibular,Segurança e Auditoria de Sistemas,60.0,2.0,8.53,18,4.0,4,0,0,99.21,97.22,9.07,9.07,Aprovado
+M,Não informado,Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,18,8.0,4,0,0,81.64,100.0,6.21,8.12,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,18,11.0,4,0,0,62.35,100.0,4.4,4.0,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,14.0,6.52,17,7.0,4,0,0,76.3,80.56,5.27,6.24,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,2.0,8.12,20,11.0,4,0,0,86.92,97.22,7.05,7.43,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,36.0,0.0,19,8.0,4,0,0,50.0,50.0,2.0,1.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,4.0,8.52,17,5.0,4,0,0,96.53,94.44,7.55,7.35,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,25.0,0.55,18,8.0,4,0,0,44.17,65.28,0.11,0.09,Reprovado por Freqüência
+F,Não informado,Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,26,7.0,4,0,0,86.69,100.0,6.78,5.79,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,5.0,5.78,19,6.0,4,0,0,89.06,93.06,6.79,7.76,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,9.0,20,4.0,4,0,0,99.21,100.0,9.29,9.29,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,2.0,8.61,18,5.0,4,0,0,98.41,97.22,8.85,8.99,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,19,9.0,4,0,0,78.97,100.0,6.72,7.3,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,5.0,6.35,25,5.0,4,0,0,95.44,93.06,8.6,8.7,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,20,8.0,4,0,0,93.78,100.0,7.89,7.44,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,3.0,9.11,18,5.0,4,0,0,97.02,95.83,8.88,8.9,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,1.0,9.4,18,5.0,4,0,0,99.4,98.61,9.02,9.14,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,7.0,5.06,18,11.0,4,0,0,48.86,90.28,2.21,5.82,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,6.44,16,5.0,4,0,0,95.24,100.0,8.4,7.65,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,2.0,5.91,17,9.0,4,0,0,63.43,97.22,3.74,5.69,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,5.0,6.13,19,9.0,4,0,0,70.83,93.06,3.98,5.49,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,18,7.0,4,0,0,86.11,100.0,5.44,3.4,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,17,5.0,4,0,0,98.81,100.0,8.74,8.78,Aprovado
+F,Solteiro(a),Transferência Externa,Segurança e Auditoria de Sistemas,60.0,6.0,6.82,19,5.0,4,0,0,93.25,91.67,7.5,6.36,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,9.0,20,7.0,4,0,0,99.07,100.0,8.45,7.47,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,18,9.0,4,0,0,76.39,100.0,5.17,6.71,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,3.0,6.09,20,5.0,4,0,0,99.01,95.83,8.36,8.56,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,30.0,0.27,18,9.0,4,0,0,67.36,58.33,0.13,0.23,Reprovado por Freqüência
+M,Casado(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,3.0,8.07,23,5.0,4,0,0,97.02,95.83,8.62,7.54,Aprovado
+M,Solteiro(a),Transferência Externa,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,19,12.0,4,0,0,88.48,100.0,6.55,6.19,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,9.0,21,4.0,4,0,0,98.41,100.0,9.19,9.19,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,9.0,18,4.0,4,0,0,97.62,100.0,9.04,9.04,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,5.09,18,10.0,4,0,0,67.06,100.0,4.73,6.55,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,19,5.0,4,0,0,95.64,100.0,8.96,8.96,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,19,5.0,4,0,0,95.63,100.0,9.06,9.06,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,17,5.0,4,0,0,92.46,100.0,8.65,8.65,Aprovado
+M,Casado(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,10.0,31,6.0,4,0,0,98.02,100.0,9.19,7.0,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,17,9.0,4,0,0,94.45,100.0,7.06,5.88,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,25,11.0,4,0,0,88.17,100.0,6.39,5.42,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,20.0,0.32,23,10.0,4,0,0,45.83,72.22,1.53,0.19,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,8.0,3.3,23,10.0,4,0,0,45.83,88.89,1.53,2.65,Reprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,0.0,21,6.0,4,0,0,63.33,100.0,0.0,0.0,Reprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,20,8.0,4,0,0,77.22,100.0,6.08,7.29,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,19,6.0,4,0,0,100.0,100.0,7.83,5.49,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,19,6.0,4,0,0,77.67,100.0,6.28,6.06,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,17,10.0,4,0,0,69.05,100.0,4.78,6.76,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,23,10.0,4,0,0,90.28,100.0,7.83,3.59,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,19,8.0,4,0,0,89.29,100.0,8.14,6.87,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,22,8.0,4,0,0,71.91,100.0,5.8,3.76,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,10.0,19,6.0,4,0,0,94.84,100.0,9.01,9.62,Aprovado
+M,Casado(a),Transferência Externa,Segurança e Auditoria de Sistemas,60.0,50.0,0.25,21,6.0,4,0,0,30.56,30.56,0.25,0.04,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,18,11.0,4,0,0,82.29,100.0,6.63,5.65,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,17,6.0,4,0,0,95.02,100.0,7.35,5.42,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,10.0,26,6.0,4,0,0,95.11,100.0,8.52,8.23,Aprovado
+M,Casado(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,20.0,0.0,18,8.0,4,0,0,68.33,72.22,5.09,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,9.0,17,5.0,4,0,0,99.21,100.0,8.88,8.88,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,27,10.0,4,0,0,93.21,100.0,7.11,6.95,Aprovado
+M,Solteiro(a),Transferência Externa,Segurança e Auditoria de Sistemas,60.0,0.0,9.22,24,4.0,4,0,0,97.22,100.0,9.43,9.49,Aprovado
+M,Solteiro(a),Transferência Externa,Segurança e Auditoria de Sistemas,60.0,8.0,1.2,22,6.0,4,0,0,55.56,88.89,3.44,1.11,Reprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.63,20,7.0,4,0,0,90.94,100.0,8.39,6.28,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,18,8.0,4,0,0,54.86,100.0,3.88,6.6,Aprovado
+M,Solteiro(a),Transferência Externa,Segurança e Auditoria de Sistemas,60.0,0.0,9.0,19,6.0,4,0,0,96.69,100.0,8.55,7.48,Aprovado
+M,Solteiro(a),Transferência Externa,Segurança e Auditoria de Sistemas,60.0,0.0,9.0,21,9.0,4,0,0,97.22,100.0,8.19,5.69,Aprovado
+M,Solteiro(a),Mandado de Segurança,Segurança e Auditoria de Sistemas,60.0,0.0,6.2,19,9.0,4,0,0,80.21,100.0,7.16,8.06,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,4.0,4.45,18,9.0,4,0,0,67.81,94.44,5.18,6.56,Reprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,18,9.0,4,0,0,67.81,100.0,5.18,5.7,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,20.0,0.56,18,9.0,4,0,0,67.81,72.22,5.18,1.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,9.5,17,5.0,4,0,0,96.69,100.0,9.06,9.13,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,9.5,19,9.0,4,0,0,82.22,100.0,6.59,6.71,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,10.0,20,5.0,4,0,0,97.22,100.0,8.89,7.78,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,6.47,19,9.0,4,0,0,77.36,100.0,4.99,6.39,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,10.0,19,6.0,4,0,0,97.02,100.0,8.94,7.83,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,4.0,5.0,22,9.0,4,0,0,79.17,94.44,6.0,3.8,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,18,5.0,4,0,0,68.06,100.0,3.97,5.3,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,9.5,22,5.0,4,0,0,91.87,100.0,8.81,6.85,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,6.76,18,7.0,4,0,0,96.76,100.0,7.54,5.03,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,20.0,0.0,17,9.0,4,0,0,85.93,72.22,5.83,3.98,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,17,9.0,4,0,0,85.93,100.0,5.83,7.36,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,9.5,19,7.0,4,0,0,95.7,100.0,8.91,8.77,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,10.0,19,5.0,4,0,0,98.02,100.0,9.08,9.08,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,4.0,8.5,24,6.0,4,0,0,92.46,94.44,8.36,8.45,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,38.0,1.5,19,9.0,4,0,0,37.78,47.22,1.97,1.94,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,0.0,34,8.0,4,0,0,66.67,100.0,3.33,0.0,Reprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,9.5,19,5.0,4,0,0,67.92,100.0,6.58,7.72,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,10.0,17,5.0,4,0,0,97.22,100.0,9.17,9.21,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,18,9.0,4,0,0,89.29,100.0,8.2,5.82,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,10.0,18,7.0,4,0,0,83.24,100.0,6.16,7.05,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,10.0,25,7.0,4,0,0,94.97,100.0,8.39,7.18,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,6.0,27,0.0,4,0,0,87.5,100.0,5.55,4.12,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,9.0,18,5.0,4,0,0,96.5,100.0,8.37,7.32,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,21,9.0,4,0,0,85.18,100.0,6.47,6.57,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,10.0,18,9.0,4,0,0,84.52,100.0,6.99,8.86,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.05,17,7.0,4,0,0,97.4,100.0,7.64,4.09,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,34.0,1.62,25,7.0,4,0,0,81.95,52.78,6.72,0.55,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,6.0,8.9,18,8.0,4,0,0,89.88,91.67,9.08,8.48,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,18,7.0,4,0,0,82.47,100.0,7.01,4.51,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.27,17,6.0,4,0,0,97.75,100.0,8.95,8.95,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,5.44,22,4.0,4,0,0,44.45,100.0,1.49,3.53,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,17,8.0,4,0,0,98.55,100.0,8.43,5.78,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,5.0,18,8.0,4,0,0,57.1,100.0,4.21,6.35,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,9.5,23,8.0,4,0,0,85.76,100.0,5.37,6.85,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,19,8.0,4,0,0,90.83,100.0,7.74,8.0,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,2.0,6.91,18,9.0,4,0,0,60.49,97.22,4.64,5.27,Aprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,72.0,0.0,18,9.0,4,0,0,60.49,0.0,4.64,2.35,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,28.0,1.56,17,8.0,4,0,0,47.22,61.11,1.09,3.83,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,29,5.0,4,0,0,100.0,100.0,8.0,3.94,Aprovado
+F,Solteiro(a),Transferência Externa,Segurança e Auditoria de Sistemas,60.0,0.0,7.5,22,0.0,4,0,0,100.0,100.0,7.5,2.03,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,21,0.0,4,0,0,97.22,100.0,6.83,3.33,Aprovado
+F,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,6.0,2.88,21,0.0,4,0,0,97.22,91.67,6.83,1.58,Reprovado
+M,Outros,Convênio,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,17,6.0,4,0,0,98.94,100.0,9.21,9.21,Aprovado
+M,Outros,Convênio,Segurança e Auditoria de Sistemas,60.0,8.0,2.25,18,8.0,4,0,0,43.52,88.89,2.77,0.95,Reprovado
+M,Solteiro(a),Vestibular,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,23,7.0,4,0,0,63.1,100.0,2.49,7.48,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,4.0,10.0,19,0.0,4,0,0,76.56,94.44,7.41,9.88,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,3.24,22,0.0,4,0,0,98.61,100.0,6.31,3.56,Reprovado
+M,Solteiro(a),Reopção de Curso,Segurança e Auditoria de Sistemas,60.0,18.0,8.0,31,0.0,4,0,0,75.0,75.0,8.0,4.57,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,24,5.0,4,0,0,96.69,100.0,8.86,8.86,Aprovado
+F,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,70.0,0.0,18,7.0,4,0,0,18.4,2.78,0.2,0.0,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,72.0,0.0,18,7.0,4,0,0,18.4,0.0,0.2,0.1,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,72.0,0.0,18,7.0,4,0,0,18.4,0.0,0.2,0.25,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,18,8.0,4,0,0,76.23,100.0,5.28,7.5,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,19,5.0,4,0,0,96.69,100.0,8.79,7.69,Aprovado
+F,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,2.0,8.12,17,0.0,4,0,0,98.61,97.22,9.03,6.68,Aprovado
+M,Casado(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,43,7.0,4,0,0,39.93,100.0,1.31,1.81,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,68.0,0.0,18,0.0,4,0,0,32.44,5.56,0.8,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,70.0,0.0,18,0.0,4,0,0,32.44,2.78,0.8,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,18,5.0,4,0,0,96.56,100.0,8.96,7.84,Aprovado
+M,Casado(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,29,8.0,4,0,0,85.09,100.0,6.28,7.19,Aprovado
+F,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,41,8.0,4,0,0,95.63,100.0,8.67,5.83,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,18,8.0,4,0,0,94.44,100.0,8.71,8.31,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,17,5.0,4,0,0,99.47,100.0,9.21,9.21,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,19,0.0,4,0,0,59.53,100.0,4.0,2.12,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,17,4.0,4,0,0,100.0,100.0,9.46,9.46,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,2.0,8.12,21,5.0,4,0,0,98.81,97.22,9.12,9.12,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,18,7.0,4,0,0,62.22,100.0,5.71,4.86,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,18,4.0,4,0,0,96.83,100.0,9.32,9.32,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,9.38,19,4.0,4,0,0,97.62,100.0,9.46,9.48,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Segurança e Auditoria de Sistemas,60.0,70.0,0.0,19,9.0,4,0,0,43.65,2.78,2.37,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,72.0,0.0,19,0.0,4,0,0,42.36,0.0,2.67,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,70.0,0.0,19,0.0,4,0,0,42.36,2.78,2.67,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,20.0,0.7,19,0.0,4,0,0,42.36,72.22,2.67,1.38,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,2.0,7.42,17,6.0,4,0,0,80.19,97.22,6.59,8.36,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,2.0,9.5,18,4.0,4,0,0,94.64,97.22,9.75,9.72,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,20,0.0,4,0,0,85.02,100.0,5.63,6.17,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,18,0.0,4,0,0,75.58,100.0,6.5,6.78,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,4.0,9.15,18,7.0,4,0,0,82.05,94.44,6.89,7.95,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,9.88,18,4.0,4,0,0,99.6,100.0,9.95,9.95,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,70.0,0.0,18,0.0,4,0,0,17.36,2.78,0.12,0.16,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.38,18,0.0,4,0,0,63.89,100.0,6.28,7.37,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,18,7.0,4,0,0,66.31,100.0,4.38,4.73,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.12,17,4.0,4,0,0,98.81,100.0,9.47,9.47,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,9.5,21,3.0,4,0,0,95.83,100.0,7.58,7.16,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,5.73,19,6.0,4,0,0,89.81,100.0,7.69,6.55,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,70.0,0.0,18,0.0,4,0,0,49.3,2.78,3.81,1.44,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,34.0,0.0,18,0.0,4,0,0,42.36,52.78,2.42,1.27,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,17,4.0,4,0,0,87.83,100.0,8.78,8.78,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,60.0,0.0,17,5.0,4,0,0,23.34,16.67,0.0,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,60.0,0.0,18,0.0,4,0,0,39.64,16.67,2.17,2.17,Reprovado por Freqüência
+M,Outros,Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,17,5.0,4,0,0,86.4,100.0,7.88,7.76,Aprovado
+F,Solteiro(a),Transferência Externa,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,19,6.0,4,0,0,90.62,100.0,7.62,8.0,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,12.0,8.0,19,0.0,4,0,0,55.04,83.33,4.66,5.74,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,17,5.0,4,0,0,81.36,100.0,6.83,6.66,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,17,4.0,4,0,0,91.67,100.0,8.67,8.67,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,23,0.0,4,0,0,100.0,100.0,8.1,5.21,Aprovado
+M,Solteiro(a),Transferência Externa,Segurança e Auditoria de Sistemas,60.0,0.0,8.0,19,0.0,4,0,0,66.32,100.0,5.36,3.64,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,18.0,8.0,17,0.0,4,0,0,82.64,75.0,6.75,3.36,Aprovado
+M,Solteiro(a),Transferência Ex-Ofício,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,24,6.0,4,0,0,69.34,100.0,5.06,4.92,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,20,0.0,4,0,0,57.22,100.0,4.11,7.17,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,21,4.0,4,0,0,91.67,100.0,8.69,8.69,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,18,3.0,4,0,0,93.25,100.0,8.84,8.84,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,10.0,8.5,16,0.0,4,0,0,66.26,86.11,6.26,7.32,Aprovado
+M,Casado(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,16.0,8.0,29,5.0,4,0,0,57.23,77.78,5.59,5.97,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,70.0,0.0,18,5.0,4,0,0,38.2,2.78,0.66,0.19,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,2.0,8.0,18,0.0,4,0,0,66.5,97.22,4.67,6.57,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,8.0,6.75,20,5.0,4,0,0,67.7,88.89,4.95,6.9,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,10.0,6.5,18,0.0,4,0,0,83.34,86.11,8.25,1.53,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,8.0,8.0,17,0.0,4,0,0,44.44,88.89,4.98,4.98,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,2.0,8.0,18,0.0,4,0,0,70.27,97.22,6.55,6.33,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,9.0,21,5.0,4,0,0,86.0,100.0,8.16,6.97,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,18,0.0,4,0,0,96.53,100.0,8.54,8.33,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,9.0,18,4.0,4,0,0,84.92,100.0,9.58,9.58,Aprovado
+M,Solteiro(a),Reopção de Curso,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,20,0.0,4,0,0,92.36,100.0,8.11,7.61,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,9.0,19,5.0,4,0,0,86.11,100.0,8.09,8.05,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,18,4.0,4,0,0,98.81,100.0,9.14,9.14,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,6.0,6.5,18,0.0,4,0,0,90.28,91.67,7.88,7.7,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,6.0,9.0,18,0.0,4,0,0,59.26,91.67,6.0,6.23,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,4.0,8.5,24,0.0,4,0,0,66.48,94.44,4.54,6.71,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,18,0.0,4,0,0,94.64,100.0,7.35,7.35,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,18,0.0,4,0,0,95.24,100.0,9.08,9.08,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,8.0,6.5,18,0.0,4,0,0,75.0,88.89,5.64,2.55,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,17,4.0,4,0,0,89.29,100.0,8.8,8.8,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Segurança e Auditoria de Sistemas,60.0,0.0,8.5,18,4.0,4,0,0,98.41,100.0,9.09,9.09,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,16.0,5.68,33,0.0,4,0,0,70.41,77.78,4.21,5.59,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,40.0,2.03,33,0.0,4,0,0,70.41,44.44,4.21,5.76,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,64.0,0.0,29,0.0,4,0,0,29.86,11.11,0.0,0.17,Reprovado por Freqüência
+M,Casado(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,6.0,9.64,30,5.0,4,0,0,96.43,91.67,9.31,9.31,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,10.0,4.92,28,0.0,4,0,0,66.67,86.11,3.43,4.97,Reprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,72.0,0.0,20,8.0,4,0,0,37.22,0.0,1.81,3.02,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,12.0,6.25,18,9.0,4,0,0,79.72,83.33,5.17,3.25,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,4.0,8.28,18,6.0,4,0,0,97.02,94.44,8.56,8.18,Aprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,16.0,8.6,18,7.0,4,0,0,87.7,77.78,8.31,7.48,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,16.0,6.62,18,9.0,4,0,0,84.55,77.78,6.91,6.28,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,14.0,5.07,18,9.0,4,0,0,84.13,80.56,4.73,5.01,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,4.0,7.43,18,4.0,4,0,0,96.23,94.44,8.32,8.34,Aprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,2.0,9.48,18,5.0,4,0,0,99.65,97.22,7.95,7.95,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,10.0,9.44,19,4.0,4,0,0,93.06,86.11,8.07,8.19,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,17.0,8.1,24,6.0,4,0,0,85.94,76.39,6.87,6.08,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,18.0,5.0,19,9.0,4,0,0,88.23,75.0,7.64,4.3,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,8.0,6.0,18,9.0,4,0,0,75.97,88.89,4.89,3.31,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,16.0,5.62,18,11.0,4,0,0,43.98,77.78,2.03,4.7,Aprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,18.0,6.03,18,10.0,4,0,0,94.84,75.0,8.08,6.54,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,8.0,7.93,18,4.0,4,0,0,66.47,88.89,5.45,1.77,Aprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,6.0,9.65,17,5.0,4,0,0,82.81,91.67,6.86,8.05,Aprovado
+M,Não informado,Vestibular,Sistemas Multimídia,60.0,2.0,8.1,18,4.0,4,0,0,99.21,97.22,9.07,9.07,Aprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,4.0,5.03,20,7.0,4,0,0,97.22,94.44,2.52,1.26,Aprovado
+M,Não informado,Vestibular,Sistemas Multimídia,60.0,9.0,5.35,18,8.0,4,0,0,81.64,87.5,6.21,4.95,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,60.0,0.0,17,11.0,4,0,0,37.96,16.67,1.42,0.31,Reprovado por Freqüência
+F,Não informado,Vestibular,Sistemas Multimídia,60.0,14.0,5.25,26,7.0,4,0,0,86.69,80.56,6.78,5.79,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,18.0,5.0,18,8.0,4,0,0,81.67,75.0,5.6,5.54,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,16.0,5.0,18,11.0,4,0,0,62.35,77.78,4.4,6.71,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,8.0,5.01,17,7.0,4,0,0,76.3,88.89,5.27,6.24,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,10.0,6.75,19,6.0,4,0,0,89.06,86.11,6.79,6.87,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,4.0,9.4,20,4.0,4,0,0,99.21,94.44,9.29,9.29,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,10.0,5.56,20,11.0,4,0,0,86.92,86.11,7.05,6.13,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,6.0,8.05,17,5.0,4,0,0,96.53,91.67,7.55,7.35,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,72.0,0.0,18,8.0,4,0,0,44.17,0.0,0.11,0.09,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,2.0,8.75,18,5.0,4,0,0,99.4,97.22,9.02,9.14,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,16.0,5.52,18,11.0,4,0,0,48.86,77.78,2.21,5.82,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,16.0,8.55,16,5.0,4,0,0,95.24,77.78,8.4,7.65,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,6.0,8.85,18,5.0,4,0,0,98.41,91.67,8.85,8.99,Aprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,18.0,6.48,19,9.0,4,0,0,78.97,75.0,6.72,7.3,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,10.0,9.14,25,5.0,4,0,0,95.44,86.11,8.6,8.7,Aprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,18.0,5.93,20,8.0,4,0,0,93.78,75.0,7.89,7.44,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,12.0,8.6,18,5.0,4,0,0,97.02,83.33,8.88,8.9,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,10.0,5.03,18,9.0,4,0,0,76.39,86.11,5.17,6.71,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,8.0,5.92,17,9.0,4,0,0,63.43,88.89,3.74,5.69,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,14.0,5.62,19,9.0,4,0,0,70.83,80.56,3.98,5.49,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,15.0,5.2,44,7.0,4,0,0,31.95,79.17,1.73,4.15,Aprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,6.0,8.85,17,5.0,4,0,0,98.81,91.67,8.74,8.78,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,7.0,9.29,19,7.0,4,0,0,48.47,90.28,6.06,9.24,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,2.0,8.9,20,5.0,4,0,0,99.01,97.22,8.36,8.56,Aprovado
+M,Casado(a),Vestibular,Sistemas Multimídia,60.0,12.0,8.55,23,5.0,4,0,0,97.02,83.33,8.62,7.54,Aprovado
+M,Solteiro(a),Transferência Externa,Sistemas Multimídia,60.0,8.0,5.94,19,12.0,4,0,0,88.48,88.89,6.55,3.37,Aprovado
+F,Solteiro(a),Transferência Externa,Sistemas Multimídia,60.0,16.0,6.27,19,5.0,4,0,0,93.25,77.78,7.5,6.36,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,2.0,7.27,20,7.0,4,0,0,99.07,97.22,8.45,7.47,Aprovado
+M,Casado(a),Vestibular,Sistemas Multimídia,60.0,10.0,8.15,31,6.0,4,0,0,98.02,86.11,9.19,7.0,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,14.0,5.47,17,9.0,4,0,0,94.45,80.56,7.06,5.47,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,6.0,2.65,17,9.0,4,0,0,94.45,91.67,7.06,5.88,Reprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,8.0,9.35,21,4.0,4,0,0,98.41,88.89,9.19,9.19,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,4.0,9.5,18,4.0,4,0,0,97.62,94.44,9.04,9.04,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,60.0,0.0,18,10.0,4,0,0,67.06,16.67,4.73,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,16.0,5.42,18,10.0,4,0,0,67.06,77.78,4.73,6.55,Aprovado
+M,Casado(a),Transferência Externa,Sistemas Multimídia,60.0,72.0,0.0,20,7.0,4,0,0,38.89,0.0,0.0,0.0,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,6.0,8.75,19,5.0,4,0,0,95.64,91.67,8.96,8.96,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,22.0,2.65,17,10.0,4,0,0,69.05,69.44,4.78,1.79,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,4.0,8.03,25,11.0,4,0,0,88.17,94.44,6.39,3.24,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,66.0,0.0,23,10.0,4,0,0,45.83,8.33,1.53,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,32.0,1.82,23,10.0,4,0,0,45.83,55.56,1.53,2.55,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,56.0,0.0,23,10.0,4,0,0,45.83,22.22,1.53,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,72.0,0.0,21,6.0,4,0,0,63.33,0.0,0.0,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,6.0,9.2,19,5.0,4,0,0,95.63,91.67,9.06,9.06,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,18.0,8.3,17,5.0,4,0,0,92.46,75.0,8.65,8.65,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,12.0,7.3,23,10.0,4,0,0,90.28,83.33,7.83,4.57,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,18.0,7.43,19,8.0,4,0,0,89.29,75.0,8.14,6.87,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,10.0,8.05,22,8.0,4,0,0,71.91,86.11,5.8,8.33,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,10.0,9.3,19,6.0,4,0,0,94.84,86.11,9.01,7.95,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,12.0,8.85,20,8.0,4,0,0,77.22,83.33,6.08,5.25,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,14.0,8.5,19,6.0,4,0,0,77.67,80.56,6.28,6.06,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,70.0,0.0,17,10.0,4,0,0,69.05,2.78,4.78,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,64.0,0.0,17,10.0,4,0,0,69.05,11.11,4.78,0.0,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,18.0,3.88,27,10.0,4,0,0,93.21,75.0,7.11,1.56,Reprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,12.0,5.29,27,10.0,4,0,0,93.21,83.33,7.11,6.64,Aprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,6.0,4.35,27,10.0,4,0,0,93.21,91.67,7.11,4.76,Reprovado
+M,Solteiro(a),Transferência Externa,Sistemas Multimídia,60.0,1.0,9.0,24,4.0,4,0,0,97.22,98.61,9.43,9.49,Aprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,14.0,4.04,18,11.0,4,0,0,82.29,80.56,6.63,2.06,Reprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,8.0,8.6,18,11.0,4,0,0,82.29,88.89,6.63,5.05,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,6.0,7.55,17,6.0,4,0,0,95.02,91.67,7.35,5.42,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,10.0,5.0,26,6.0,4,0,0,95.11,86.11,8.52,6.6,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,64.0,0.0,19,9.0,4,0,0,82.22,11.11,6.59,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,14.0,9.2,20,5.0,4,0,0,97.22,80.56,8.89,7.78,Aprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,12.0,8.49,20,7.0,4,0,0,90.94,83.33,8.39,6.28,Aprovado
+M,Solteiro(a),Transferência Externa,Sistemas Multimídia,60.0,14.0,8.1,19,6.0,4,0,0,96.69,80.56,8.55,7.48,Aprovado
+M,Solteiro(a),Transferência Externa,Sistemas Multimídia,60.0,10.0,8.13,21,9.0,4,0,0,97.22,86.11,8.19,3.18,Aprovado
+M,Solteiro(a),Mandado de Segurança,Sistemas Multimídia,60.0,8.0,8.44,19,9.0,4,0,0,80.21,88.89,7.16,8.06,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,70.0,0.0,18,6.0,4,0,0,2.78,2.78,0.0,0.0,Reprovado por Freqüência
+M,Casado(a),Vestibular,Sistemas Multimídia,60.0,12.0,8.45,18,8.0,4,0,0,68.33,83.33,5.09,8.24,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,4.0,8.9,17,5.0,4,0,0,99.21,94.44,8.88,8.88,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,14.0,6.77,19,9.0,4,0,0,77.36,80.56,4.99,6.39,Aprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,15.0,8.1,19,6.0,4,0,0,97.02,79.17,8.94,7.83,Aprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,12.0,5.08,22,9.0,4,0,0,79.17,83.33,6.0,4.88,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,34.0,1.55,18,5.0,4,0,0,68.06,52.78,3.97,5.3,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,72.0,0.0,18,5.0,4,0,0,68.06,0.0,3.97,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,4.0,7.98,18,9.0,4,0,0,67.81,94.44,5.18,5.7,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,6.0,8.82,17,5.0,4,0,0,96.69,91.67,9.06,9.13,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,68.0,0.68,17,8.0,4,0,0,5.56,5.56,0.68,0.14,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,66.0,0.0,19,9.0,4,0,0,37.78,8.33,1.97,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,40.0,1.55,19,9.0,4,0,0,37.78,44.44,1.97,1.4,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,72.0,0.0,34,8.0,4,0,0,66.67,0.0,3.33,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,15.0,9.07,19,5.0,4,0,0,67.92,79.17,6.58,7.72,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,15.0,8.25,22,5.0,4,0,0,91.87,79.17,8.81,6.85,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,15.0,5.0,18,7.0,4,0,0,96.76,79.17,7.54,2.73,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,12.0,8.03,17,9.0,4,0,0,85.93,83.33,5.83,7.36,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,15.0,8.35,19,7.0,4,0,0,95.7,79.17,8.91,8.77,Aprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,10.0,9.05,19,5.0,4,0,0,98.02,86.11,9.08,9.08,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,4.0,5.48,25,7.0,4,0,0,94.97,94.44,8.39,7.18,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,15.0,5.75,18,5.0,4,0,0,96.5,79.17,8.37,7.32,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,12.0,8.02,21,9.0,4,0,0,85.18,83.33,6.47,7.27,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,15.0,8.5,18,9.0,4,0,0,84.52,79.17,6.99,8.86,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,14.0,9.15,17,5.0,4,0,0,97.22,80.56,9.17,9.21,Aprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,18.0,8.34,18,9.0,4,0,0,89.29,75.0,8.2,4.08,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,14.0,7.38,18,7.0,4,0,0,83.24,80.56,6.16,7.05,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,6.0,6.71,24,6.0,4,0,0,92.46,91.67,8.36,8.2,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,4.0,9.3,17,6.0,4,0,0,97.75,94.44,8.95,8.95,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,16.0,0.5,22,4.0,4,0,0,44.45,77.78,1.49,2.35,Reprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,6.0,8.27,17,8.0,4,0,0,98.55,91.67,8.43,5.78,Aprovado
+F,Casado(a),Vestibular,Sistemas Multimídia,60.0,36.0,0.75,18,7.0,4,0,0,52.78,50.0,0.72,1.17,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,15.0,5.6,17,7.0,4,0,0,97.4,79.17,7.64,7.55,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,12.0,8.13,25,7.0,4,0,0,81.95,83.33,6.72,5.13,Aprovado
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,18.0,5.54,17,7.0,4,0,0,75.0,75.0,5.54,2.47,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,46.0,1.88,18,8.0,4,0,0,57.1,36.11,4.21,0.79,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,52.0,0.0,18,8.0,4,0,0,57.1,27.78,4.21,4.59,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,18.0,3.3,23,8.0,4,0,0,85.76,75.0,5.37,1.18,Reprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,48.0,0.0,23,8.0,4,0,0,85.76,33.33,5.37,0.11,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,16.0,2.98,23,8.0,4,0,0,85.76,77.78,5.37,6.32,Reprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,10.0,5.96,19,8.0,4,0,0,90.83,86.11,7.74,6.8,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,10.0,5.54,18,9.0,4,0,0,60.49,86.11,4.64,2.35,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,18.0,4.67,18,9.0,4,0,0,60.49,75.0,4.64,4.36,Reprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,9.0,8.63,18,8.0,4,0,0,89.88,87.5,9.08,7.74,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,14.0,8.29,18,7.0,4,0,0,82.47,80.56,7.01,5.23,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,58.0,0.0,17,6.0,4,0,0,19.44,19.44,0.0,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,4.0,8.1,18,8.0,4,0,0,98.61,94.44,8.56,4.68,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,60.0,0.0,20,7.0,4,0,0,16.67,16.67,0.0,0.06,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,0.0,9.32,20,4.0,4,0,0,83.4,100.0,9.11,8.97,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,60.0,0.0,21,4.0,4,0,0,16.67,16.67,0.0,0.0,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,6.0,5.38,21,0.0,4,0,0,97.22,91.67,6.83,4.61,Aprovado
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,54.0,1.7,17,8.0,4,0,0,47.22,25.0,1.09,0.49,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,26.0,3.1,19,5.0,4,0,0,63.89,63.89,3.1,1.07,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,52.0,0.0,18,0.0,4,0,0,36.8,27.78,0.62,4.4,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,9.0,9.51,19,0.0,4,0,0,76.56,87.5,7.41,9.88,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,6.0,9.38,24,5.0,4,0,0,96.69,91.67,8.86,8.86,Aprovado
+M,Outros,Convênio,Sistemas Multimídia,60.0,4.0,9.2,17,6.0,4,0,0,98.94,94.44,9.21,8.66,Aprovado
+M,Outros,Convênio,Sistemas Multimídia,60.0,72.0,0.0,18,8.0,4,0,0,43.52,0.0,2.77,6.16,Reprovado por Freqüência
+M,Outros,Convênio,Sistemas Multimídia,60.0,46.0,1.1,18,8.0,4,0,0,43.52,36.11,2.77,0.95,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Sistemas Multimídia,60.0,15.0,5.62,23,7.0,4,0,0,63.1,79.17,2.49,7.48,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,48.0,0.0,19,0.0,4,0,0,77.22,33.33,5.24,5.34,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,4.0,9.39,17,0.0,4,0,0,98.61,94.44,9.03,8.17,Aprovado
+M,Casado(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,36.0,2.02,43,7.0,4,0,0,39.93,50.0,1.31,1.81,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,46.0,0.0,18,0.0,4,0,0,32.44,36.11,0.8,3.3,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,68.0,0.0,18,0.0,4,0,0,32.44,5.56,0.8,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,32.0,2.21,18,0.0,4,0,0,32.44,55.56,0.8,3.38,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,32.0,2.77,18,4.0,4,0,0,27.78,55.56,1.39,1.7,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,62.0,0.56,18,7.0,4,0,0,18.4,13.89,0.2,0.25,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,70.0,0.42,18,7.0,4,0,0,12.5,2.78,0.21,0.08,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,62.0,0.0,18,7.0,4,0,0,53.12,13.89,4.06,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,18.0,8.52,18,8.0,4,0,0,76.23,75.0,5.28,7.5,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,12.0,8.6,18,5.0,4,0,0,96.56,83.33,8.96,7.84,Aprovado
+M,Casado(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,18.0,8.0,29,8.0,4,0,0,85.09,75.0,6.28,7.19,Aprovado
+F,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,2.0,8.05,41,8.0,4,0,0,95.63,97.22,8.67,6.14,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,10.0,8.63,19,5.0,4,0,0,96.69,86.11,8.79,7.69,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,66.0,0.0,19,9.0,4,0,0,43.65,8.33,2.37,1.6,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,72.0,0.0,19,9.0,4,0,0,43.65,0.0,2.37,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,44.0,0.0,19,9.0,4,0,0,43.65,38.89,2.37,1.91,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,8.0,8.7,18,8.0,4,0,0,94.44,88.89,8.71,8.31,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,0.0,9.55,17,5.0,4,0,0,99.47,100.0,9.21,9.21,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,14.0,8.07,19,0.0,4,0,0,59.53,80.56,4.0,3.06,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,18.0,5.28,18,4.0,4,0,0,37.5,75.0,2.64,2.86,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,8.0,5.01,18,7.0,4,0,0,91.66,88.89,5.88,5.22,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Sistemas Multimídia,60.0,72.0,0.0,19,9.0,4,0,0,0.0,0.0,0.0,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,9.0,5.76,17,6.0,4,0,0,80.19,87.5,6.59,8.36,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,9.0,9.52,18,4.0,4,0,0,94.64,87.5,9.75,9.72,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,2.0,9.05,20,0.0,4,0,0,85.02,97.22,5.63,7.92,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,14.0,8.66,18,0.0,4,0,0,75.58,80.56,6.5,8.89,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,0.0,8.72,17,4.0,4,0,0,100.0,100.0,9.46,9.46,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,2.0,8.22,21,5.0,4,0,0,98.81,97.22,9.12,9.12,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,8.0,5.39,18,7.0,4,0,0,62.22,88.89,5.71,5.39,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,8.0,8.02,18,4.0,4,0,0,96.83,88.89,9.32,9.32,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,4.0,9.1,19,4.0,4,0,0,97.62,94.44,9.46,9.48,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,2.0,8.89,17,4.0,4,0,0,98.81,97.22,9.47,9.47,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,12.0,3.8,21,3.0,4,0,0,95.83,83.33,7.58,7.16,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,4.0,8.63,18,7.0,4,0,0,82.05,94.44,6.89,8.39,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,0.0,9.76,18,4.0,4,0,0,99.6,100.0,9.95,9.95,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,0.0,3.76,18,0.0,4,0,0,63.89,100.0,6.28,6.85,Reprovado
+M,Outros,Processo Seletivo - SiSU,Sistemas Multimídia,60.0,12.0,8.36,17,5.0,4,0,0,86.4,83.33,7.88,7.76,Aprovado
+F,Solteiro(a),Transferência Externa,Sistemas Multimídia,60.0,15.0,4.47,19,6.0,4,0,0,90.62,79.17,7.62,5.6,Reprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,14.0,3.34,26,0.0,4,0,0,88.89,80.56,5.79,3.4,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,12.0,8.06,19,6.0,4,0,0,89.81,83.33,7.69,6.01,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,18.0,5.53,18,0.0,4,0,0,49.3,75.0,3.81,1.44,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,6.0,6.9,18,7.0,4,0,0,66.31,91.67,4.38,7.45,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,34.0,1.02,18,7.0,4,0,0,66.31,52.78,4.38,4.73,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,18.0,5.23,17,5.0,4,0,0,81.36,75.0,6.83,6.66,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,8.0,8.92,17,4.0,4,0,0,91.67,88.89,8.67,8.67,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,48.0,0.69,18,0.0,4,0,0,42.36,33.33,2.42,1.27,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,8.0,8.07,17,4.0,4,0,0,87.83,88.89,8.78,8.78,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,62.0,0.0,17,5.0,4,0,0,23.34,13.89,0.0,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,50.0,2.36,18,0.0,4,0,0,39.64,30.56,2.17,2.17,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,6.0,4.28,20,0.0,4,0,0,57.22,91.67,4.11,5.57,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,4.0,7.78,20,0.0,4,0,0,57.22,94.44,4.11,5.14,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,6.0,8.77,21,4.0,4,0,0,91.67,91.67,8.69,8.69,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,4.0,8.3,18,3.0,4,0,0,93.25,94.44,8.84,8.84,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,6.0,6.2,17,0.0,4,0,0,82.64,91.67,6.75,7.51,Aprovado
+M,Solteiro(a),Transferência Ex-Ofício,Sistemas Multimídia,60.0,0.0,8.75,24,6.0,4,0,0,69.34,100.0,5.06,8.07,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,12.0,5.12,19,0.0,4,0,0,55.04,83.33,4.66,5.74,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,10.0,6.75,20,5.0,4,0,0,67.7,86.11,4.95,6.9,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,8.0,4.52,20,5.0,4,0,0,67.7,88.89,4.95,5.08,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,8.0,5.55,16,0.0,4,0,0,66.26,88.89,6.26,7.32,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,2.0,8.27,20,0.0,4,0,0,91.67,97.22,8.81,7.09,Aprovado
+M,Casado(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,16.0,5.12,29,5.0,4,0,0,57.23,77.78,5.59,5.97,Aprovado
+M,Solteiro(a),Reopção de Curso,Sistemas Multimídia,60.0,14.0,5.04,20,0.0,4,0,0,92.36,80.56,8.11,7.61,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,2.0,8.74,19,5.0,4,0,0,86.11,97.22,8.09,8.05,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,72.0,0.0,17,0.0,4,0,0,44.44,0.0,4.98,4.98,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,40.0,0.88,17,0.0,4,0,0,44.44,44.44,4.98,3.22,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,10.0,6.9,18,0.0,4,0,0,70.27,86.11,6.55,6.33,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,8.0,7.08,18,0.0,4,0,0,66.5,88.89,4.67,6.57,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,66.0,0.0,25,0.0,4,0,0,41.66,8.33,4.5,3.5,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,66.0,0.0,21,4.0,4,0,0,4.17,8.33,0.0,4.57,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,70.0,0.0,18,0.0,4,0,0,59.26,2.78,6.0,6.23,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,66.0,0.0,18,0.0,4,0,0,47.22,8.33,4.25,3.39,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,6.0,6.84,24,0.0,4,0,0,66.48,91.67,4.54,6.71,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,0.0,8.9,21,5.0,4,0,0,86.0,100.0,8.16,6.97,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,0.0,7.65,18,0.0,4,0,0,96.53,100.0,8.54,8.33,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,0.0,9.44,18,4.0,4,0,0,84.92,100.0,9.58,9.58,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,12.0,8.8,17,4.0,4,0,0,89.29,83.33,8.8,8.8,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,70.0,0.0,18,0.0,4,0,0,43.05,2.78,4.53,3.26,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,0.0,8.54,18,0.0,4,0,0,94.64,100.0,7.35,7.35,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,2.0,8.96,18,0.0,4,0,0,95.24,97.22,9.08,9.08,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,0.0,9.18,18,4.0,4,0,0,98.81,100.0,9.14,9.14,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,2.0,9.1,18,4.0,4,0,0,98.41,97.22,9.09,9.09,Aprovado
+M,Casado(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,70.0,0.0,22,0.0,4,0,0,40.28,2.78,2.98,1.38,Reprovado por Freqüência
+M,Solteiro(a),Mandado de Segurança,Sistemas Multimídia,60.0,40.0,1.17,18,0.0,4,0,0,66.66,44.44,5.11,3.91,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,38.0,1.36,18,0.0,4,0,0,75.0,47.22,5.64,2.55,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - SiSU,Sistemas Multimídia,60.0,64.0,0.31,18,0.0,4,0,0,50.0,11.11,5.16,6.08,Reprovado por Freqüência
+M,Casado(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,8.75,30,5.0,4,0,0,96.43,100.0,9.31,9.31,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,8.0,33,0.0,4,0,0,70.41,100.0,4.21,5.76,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,0.0,29,0.0,4,0,0,29.86,100.0,0.0,0.02,Reprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,70.0,0.0,29,0.0,4,0,0,29.86,2.78,0.0,0.17,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.75,18,5.0,4,0,0,99.65,100.0,7.95,7.95,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,6.0,8.2,19,4.0,4,0,0,93.06,91.67,8.07,8.19,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,12.0,6.25,18,9.0,4,0,0,79.72,83.33,5.17,4.81,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,0.0,17,11.0,4,0,0,55.56,100.0,1.19,0.0,Reprovado
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.0,18,10.0,4,0,0,94.84,100.0,8.08,5.75,Aprovado
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,9.05,17,5.0,4,0,0,82.81,100.0,6.86,8.05,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,2.0,8.78,18,6.0,4,0,0,97.02,97.22,8.56,8.18,Aprovado
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,14.0,6.25,18,7.0,4,0,0,87.7,80.56,8.31,7.32,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,5.93,18,9.0,4,0,0,84.55,100.0,6.91,6.28,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.0,18,9.0,4,0,0,84.13,100.0,4.73,5.01,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,4.0,8.88,18,4.0,4,0,0,96.23,94.44,8.32,8.34,Aprovado
+M,Não informado,Vestibular,Gerência de Redes,60.0,10.0,8.75,18,8.0,4,0,0,81.64,86.11,6.21,4.95,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,5.75,18,11.0,4,0,0,72.22,100.0,4.5,4.35,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,5.25,24,6.0,4,0,0,85.94,100.0,6.87,7.5,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,16.0,5.0,19,9.0,4,0,0,88.23,77.78,7.64,5.69,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,5.87,18,9.0,4,0,0,75.97,100.0,4.89,3.31,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,7.5,18,8.0,4,0,0,81.67,100.0,5.6,5.54,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,6.0,7.56,18,11.0,4,0,0,62.35,91.67,4.4,7.41,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,12.0,7.68,17,7.0,4,0,0,76.3,83.33,5.27,6.24,Aprovado
+M,Não informado,Vestibular,Gerência de Redes,60.0,0.0,9.87,18,4.0,4,0,0,99.21,100.0,9.07,9.07,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,7.0,19,6.0,4,0,0,89.06,100.0,6.79,7.76,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.65,20,4.0,4,0,0,99.21,100.0,9.29,9.29,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.15,20,11.0,4,0,0,86.92,100.0,7.05,8.91,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,2.0,8.62,17,5.0,4,0,0,96.53,97.22,7.55,7.35,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,6.37,17,8.0,4,0,0,94.44,100.0,7.66,1.65,Aprovado
+F,Não informado,Vestibular,Gerência de Redes,60.0,0.0,6.25,26,7.0,4,0,0,86.69,100.0,6.78,5.79,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.0,18,11.0,4,0,0,48.86,100.0,2.21,5.82,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.02,16,5.0,4,0,0,95.24,100.0,8.4,7.65,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.87,18,5.0,4,0,0,98.41,100.0,8.85,8.99,Aprovado
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,6.56,19,9.0,4,0,0,78.97,100.0,6.72,4.01,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,5.7,18,7.0,4,0,0,100.0,100.0,5.7,4.25,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.0,25,5.0,4,0,0,95.44,100.0,8.6,8.7,Aprovado
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,6.5,20,8.0,4,0,0,93.78,100.0,7.89,7.44,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.62,18,5.0,4,0,0,97.02,100.0,8.88,8.9,Aprovado
+F,Solteiro(a),Transferência Externa,Gerência de Redes,60.0,0.0,8.5,20,10.0,4,0,0,50.0,100.0,2.12,1.7,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,7.38,20,7.0,4,0,0,99.07,100.0,8.45,8.44,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,6.18,18,9.0,4,0,0,76.39,100.0,5.17,6.71,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,7.18,17,9.0,4,0,0,63.43,100.0,3.74,5.69,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.12,19,9.0,4,0,0,70.83,100.0,3.98,5.49,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,60.0,0.0,44,7.0,4,0,0,31.95,16.67,1.73,0.0,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.0,17,5.0,4,0,0,98.81,100.0,8.74,8.78,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,4.0,8.6,19,7.0,4,0,0,48.47,94.44,6.06,9.24,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.87,18,5.0,4,0,0,99.4,100.0,9.02,9.14,Aprovado
+M,Casado(a),Transferência Externa,Gerência de Redes,60.0,60.0,0.0,20,7.0,4,0,0,38.89,16.67,0.0,0.0,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,9.5,19,5.0,4,0,0,95.64,100.0,8.96,8.96,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.12,20,5.0,4,0,0,99.01,100.0,8.36,8.56,Aprovado
+M,Casado(a),Vestibular,Gerência de Redes,60.0,0.0,8.25,23,5.0,4,0,0,97.02,100.0,8.62,7.54,Aprovado
+M,Solteiro(a),Transferência Externa,Gerência de Redes,60.0,15.0,5.0,19,12.0,4,0,0,88.48,79.17,6.55,4.15,Aprovado
+F,Solteiro(a),Transferência Externa,Gerência de Redes,60.0,0.0,6.06,19,5.0,4,0,0,93.25,100.0,7.5,6.36,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.0,23,10.0,4,0,0,45.83,100.0,1.53,2.55,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,60.0,0.0,21,6.0,4,0,0,63.33,16.67,0.0,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,10.0,19,5.0,4,0,0,95.63,100.0,9.06,9.06,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.75,17,5.0,4,0,0,92.46,100.0,8.65,8.65,Aprovado
+M,Casado(a),Vestibular,Gerência de Redes,60.0,0.0,8.0,31,6.0,4,0,0,98.02,100.0,9.19,7.0,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,7.38,17,9.0,4,0,0,94.45,100.0,7.06,5.33,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,10.0,21,4.0,4,0,0,98.41,100.0,9.19,9.19,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.0,18,4.0,4,0,0,97.62,100.0,9.04,9.04,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,18.0,6.63,18,10.0,4,0,0,67.06,75.0,4.73,6.55,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,9.65,22,8.0,4,0,0,71.91,100.0,5.8,8.33,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.5,19,6.0,4,0,0,94.84,100.0,9.01,7.95,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,7.5,20,8.0,4,0,0,77.22,100.0,6.08,5.25,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,6.5,19,6.0,4,0,0,100.0,100.0,7.83,5.49,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.0,19,6.0,4,0,0,77.67,100.0,6.28,6.06,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,6.94,17,10.0,4,0,0,69.05,100.0,4.78,6.76,Aprovado
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.0,25,11.0,4,0,0,88.17,100.0,6.39,5.42,Aprovado
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.0,27,10.0,4,0,0,93.21,100.0,7.11,6.95,Aprovado
+M,Solteiro(a),Transferência Externa,Gerência de Redes,60.0,5.0,9.02,24,4.0,4,0,0,97.22,93.06,9.43,5.11,Aprovado
+M,Solteiro(a),Transferência Externa,Gerência de Redes,60.0,0.0,8.0,22,6.0,4,0,0,55.56,100.0,3.44,1.6,Aprovado
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,6.62,18,11.0,4,0,0,82.29,100.0,6.63,5.65,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,9.0,17,6.0,4,0,0,95.02,100.0,7.35,5.42,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,9.62,26,6.0,4,0,0,95.11,100.0,8.52,6.6,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.65,19,8.0,4,0,0,89.29,100.0,8.14,3.43,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.4,18,9.0,4,0,0,67.81,100.0,5.18,6.21,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,7.69,17,5.0,4,0,0,96.69,100.0,9.06,9.13,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,7.19,19,9.0,4,0,0,82.22,100.0,6.59,6.71,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.0,20,5.0,4,0,0,97.22,100.0,8.89,7.78,Aprovado
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,15.0,7.08,20,7.0,4,0,0,90.94,79.17,8.39,6.28,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,7.0,18,8.0,4,0,0,54.86,100.0,3.88,6.6,Aprovado
+M,Solteiro(a),Transferência Externa,Gerência de Redes,60.0,0.0,8.0,19,6.0,4,0,0,96.69,100.0,8.55,7.48,Aprovado
+M,Solteiro(a),Transferência Externa,Gerência de Redes,60.0,0.0,7.06,21,9.0,4,0,0,97.22,100.0,8.19,5.69,Aprovado
+M,Solteiro(a),Mandado de Segurança,Gerência de Redes,60.0,18.0,8.1,19,9.0,4,0,0,80.21,75.0,7.16,8.06,Aprovado
+M,Casado(a),Vestibular,Gerência de Redes,60.0,70.0,0.0,18,8.0,4,0,0,68.33,2.78,5.09,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,9.02,17,5.0,4,0,0,99.21,100.0,8.88,8.88,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.5,17,9.0,4,0,0,85.93,100.0,5.83,7.36,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,9.25,19,7.0,4,0,0,95.7,100.0,8.91,8.77,Aprovado
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.25,19,5.0,4,0,0,98.02,100.0,9.08,9.08,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,16.0,8.45,19,9.0,4,0,0,77.36,77.78,4.99,6.39,Aprovado
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.25,19,6.0,4,0,0,97.02,100.0,8.94,7.83,Aprovado
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.0,22,9.0,4,0,0,79.17,100.0,6.0,2.72,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,7.25,18,5.0,4,0,0,68.06,100.0,3.97,5.3,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.13,17,5.0,4,0,0,97.22,100.0,9.17,9.21,Aprovado
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,7.06,18,9.0,4,0,0,89.29,100.0,8.2,5.82,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,7.19,18,7.0,4,0,0,83.24,100.0,6.16,7.05,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,6.0,8.0,24,6.0,4,0,0,92.46,91.67,8.36,8.2,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.75,22,5.0,4,0,0,91.87,100.0,8.81,6.85,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.75,18,7.0,4,0,0,96.76,100.0,7.54,8.33,Aprovado
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.5,17,8.0,4,0,0,98.55,100.0,8.43,5.78,Aprovado
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,10.0,17,7.0,4,0,0,97.4,100.0,7.64,9.5,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,8.65,25,7.0,4,0,0,81.95,100.0,6.72,5.13,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,55.0,1.0,17,8.0,4,0,0,28.24,23.61,0.5,0.46,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.0,25,7.0,4,0,0,94.97,100.0,8.39,7.18,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,7.56,18,5.0,4,0,0,96.5,100.0,8.37,7.32,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,16.0,6.22,21,9.0,4,0,0,85.18,77.78,6.47,7.27,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.0,18,9.0,4,0,0,84.52,100.0,6.99,8.86,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,16.0,5.53,18,8.0,4,0,0,57.1,77.78,4.21,6.35,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,0.75,23,8.0,4,0,0,85.76,100.0,5.37,1.18,Reprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,9.5,23,8.0,4,0,0,85.76,100.0,5.37,4.65,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,23.0,8.0,19,8.0,4,0,0,90.83,68.06,7.74,8.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.5,18,9.0,4,0,0,60.49,100.0,4.64,5.27,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.15,18,8.0,4,0,0,89.88,100.0,9.08,8.57,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,9.0,6.03,18,7.0,4,0,0,82.47,87.5,7.01,4.05,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,6.0,8.35,17,6.0,4,0,0,97.75,91.67,8.95,8.95,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,0.0,23,7.0,4,0,0,63.1,100.0,2.49,0.0,Reprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.4,18,8.0,4,0,0,98.61,100.0,8.56,3.43,Aprovado
+M,Solteiro(a),Vestibular,Gerência de Redes,60.0,5.0,8.35,20,4.0,4,0,0,83.4,93.06,9.11,8.97,Aprovado
+F,Solteiro(a),Vestibular,Gerência de Redes,60.0,0.0,8.0,21,0.0,4,0,0,97.22,100.0,6.83,4.55,Aprovado
+F,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,0.75,18,7.0,4,0,0,18.4,100.0,0.2,0.25,Reprovado
+F,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,8.0,18,7.0,4,0,0,53.12,100.0,4.06,6.93,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,9.0,18,8.0,4,0,0,76.23,100.0,5.28,7.5,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,10.0,19,0.0,4,0,0,76.56,100.0,7.41,9.88,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,8.65,24,5.0,4,0,0,96.69,100.0,8.86,8.86,Aprovado
+M,Outros,Convênio,Gerência de Redes,60.0,0.0,9.0,17,6.0,4,0,0,98.94,100.0,9.21,9.21,Aprovado
+M,Outros,Convênio,Gerência de Redes,60.0,18.0,7.65,18,8.0,4,0,0,43.52,75.0,2.77,6.39,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,8.75,18,5.0,4,0,0,96.56,100.0,8.96,7.84,Aprovado
+M,Casado(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,8.15,29,8.0,4,0,0,85.09,100.0,6.28,7.19,Aprovado
+F,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,8.4,41,8.0,4,0,0,95.63,100.0,8.67,5.83,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,8.75,19,5.0,4,0,0,96.69,100.0,8.79,7.69,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,9.0,19,0.0,4,0,0,77.22,100.0,5.24,7.93,Aprovado
+F,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,8.65,17,0.0,4,0,0,98.61,100.0,9.03,8.17,Aprovado
+M,Casado(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,0.0,43,7.0,4,0,0,39.93,100.0,1.31,1.81,Reprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,8.0,18,0.0,4,0,0,32.44,100.0,0.8,3.38,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,8.5,18,7.0,4,0,0,62.22,100.0,5.71,4.86,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,9.5,18,4.0,4,0,0,96.83,100.0,9.32,9.32,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,10.0,19,4.0,4,0,0,97.62,100.0,9.46,9.48,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,8.5,19,9.0,4,0,0,43.65,100.0,2.37,6.49,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,9.25,18,8.0,4,0,0,94.44,100.0,8.71,7.13,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,8.65,17,5.0,4,0,0,99.47,100.0,9.21,9.21,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Gerência de Redes,60.0,0.0,8.0,19,0.0,4,0,0,59.53,100.0,4.0,3.06,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,10.0,18,7.0,4,0,0,82.05,100.0,6.89,7.95,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,10.0,18,4.0,4,0,0,99.6,100.0,9.95,9.95,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,9.4,17,6.0,4,0,0,80.19,100.0,6.59,8.36,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,10.0,18,4.0,4,0,0,94.64,100.0,9.75,9.72,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,10.0,20,0.0,4,0,0,85.02,100.0,5.63,9.2,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,8.0,18,0.0,4,0,0,75.58,100.0,6.5,6.78,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,10.0,17,4.0,4,0,0,100.0,100.0,9.46,9.46,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,9.5,21,5.0,4,0,0,98.81,100.0,9.12,9.12,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,8.0,19,6.0,4,0,0,89.81,100.0,7.69,6.01,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,8.0,18,7.0,4,0,0,66.31,100.0,4.38,4.73,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,10.0,17,4.0,4,0,0,98.81,100.0,9.47,9.47,Aprovado
+M,Solteiro(a),Transferência Ex-Ofício,Gerência de Redes,60.0,0.0,9.5,24,6.0,4,0,0,69.34,100.0,5.06,6.46,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,8.0,17,5.0,4,0,0,81.36,100.0,6.83,6.66,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,8.5,17,4.0,4,0,0,91.67,100.0,8.67,8.67,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,8.5,17,4.0,4,0,0,87.83,100.0,8.78,8.78,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,62.0,0.0,17,5.0,4,0,0,23.34,13.89,0.0,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,62.0,0.0,18,0.0,4,0,0,39.64,13.89,2.17,2.17,Reprovado por Freqüência
+M,Outros,Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,8.5,17,5.0,4,0,0,86.4,100.0,7.88,7.76,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,8.5,21,4.0,4,0,0,91.67,100.0,8.69,8.69,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,8.5,18,3.0,4,0,0,93.25,100.0,8.84,8.84,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,8.0,17,0.0,4,0,0,82.64,100.0,6.75,6.7,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,12.0,8.0,20,5.0,4,0,0,67.7,83.33,4.95,6.9,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,10.0,8.0,17,4.0,4,0,0,89.29,86.11,8.8,8.8,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,4.0,8.0,18,0.0,4,0,0,94.64,94.44,7.35,7.35,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,8.0,18,0.0,4,0,0,95.24,100.0,9.08,9.08,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,8.0,18,4.0,4,0,0,98.81,100.0,9.14,9.14,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Gerência de Redes,60.0,0.0,8.0,18,4.0,4,0,0,98.41,100.0,9.09,9.09,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,18,4.0,1,1,1,98.41,100.0,9.09,9.09,Aprovado
+M,Casado(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,10.0,30,5.0,1,1,1,96.43,100.0,9.31,9.31,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,78.0,0.0,33,0.0,1,1,1,70.41,27.78,4.21,5.59,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,41.0,0.0,33,0.0,1,1,1,70.41,62.04,4.21,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,46.0,1.25,33,0.0,1,1,1,70.41,57.41,4.21,5.76,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,10.0,0.75,33,0.0,1,1,1,70.41,90.74,4.21,0.25,Reprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,96.0,0.0,21,11.0,1,1,1,11.11,11.11,0.0,0.33,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.0,18,9.0,1,1,1,84.55,100.0,6.91,8.75,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,72.0,0.0,18,9.0,1,1,1,84.13,33.33,4.73,5.01,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,28.0,0.0,18,9.0,1,1,1,84.13,74.07,4.73,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.0,18,9.0,1,1,1,84.13,100.0,4.73,9.0,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,60.0,0.0,18,9.0,1,1,1,84.13,44.44,4.73,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,18,4.0,1,1,1,96.23,100.0,8.32,8.34,Aprovado
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,0.0,18,5.0,1,1,1,99.65,100.0,7.95,7.95,Reprovado
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.0,18,5.0,1,1,1,99.65,100.0,7.95,9.0,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.0,19,4.0,1,1,1,93.06,100.0,8.07,8.19,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,12.0,8.5,18,9.0,1,1,1,79.72,88.89,5.17,6.8,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,60.0,0.0,18,9.0,1,1,1,75.97,44.44,4.89,3.31,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,10.0,9.5,18,9.0,1,1,1,75.97,90.74,4.89,9.0,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,28.0,0.0,18,9.0,1,1,1,75.97,74.07,4.89,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,70.0,0.0,18,11.0,1,1,1,43.98,35.19,2.03,0.0,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,18,10.0,1,1,1,94.84,100.0,8.08,5.75,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,18,4.0,1,1,1,66.47,100.0,5.45,1.77,Aprovado
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,0.0,17,5.0,1,1,1,82.81,100.0,6.86,8.05,Reprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.75,18,6.0,1,1,1,97.02,100.0,8.56,8.98,Aprovado
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,8.8,18,7.0,1,1,1,87.7,100.0,8.31,7.48,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,0.0,17,7.0,1,1,1,76.3,100.0,5.27,6.24,Reprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,10.0,9.0,17,7.0,1,1,1,76.3,90.74,5.27,9.0,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,72.0,0.0,17,7.0,1,1,1,76.3,33.33,5.27,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,108.0,0.0,17,7.0,1,1,1,76.3,0.0,5.27,0.0,Reprovado por Freqüência
+M,Não informado,Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,18,4.0,1,1,1,99.21,100.0,9.07,9.07,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,66.0,1.5,24,6.0,1,1,1,85.94,38.89,6.87,6.08,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,6.0,8.5,24,6.0,1,1,1,85.94,94.44,6.87,8.5,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,20.0,9.5,19,9.0,1,1,1,88.23,81.48,7.64,5.69,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,2.0,9.0,20,11.0,1,1,1,86.92,98.15,7.05,7.43,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,0.0,17,5.0,1,1,1,96.53,100.0,7.55,7.35,Reprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.0,17,5.0,1,1,1,96.53,100.0,7.55,9.0,Aprovado
+F,Não informado,Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,60.0,0.0,26,7.0,1,1,1,86.69,44.44,6.78,5.79,Reprovado por Freqüência
+F,Não informado,Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,22.0,8.7,26,7.0,1,1,1,86.69,79.63,6.78,8.7,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,60.0,0.0,18,11.0,1,1,1,62.35,44.44,4.4,4.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,26.0,8.0,18,11.0,1,1,1,62.35,75.93,4.4,8.0,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,104.0,0.0,18,11.0,1,1,1,62.35,3.7,4.4,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,108.0,0.0,18,11.0,1,1,1,62.35,0.0,4.4,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,28.0,0.0,18,11.0,1,1,1,62.35,74.07,4.4,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,108.0,0.0,18,11.0,1,1,1,48.86,0.0,2.21,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,82.0,0.0,18,11.0,1,1,1,48.86,24.07,2.21,2.92,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,70.0,0.0,18,11.0,1,1,1,48.86,35.19,2.21,2.75,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,12.0,9.75,16,5.0,1,1,1,95.24,88.89,8.4,7.65,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,18,5.0,1,1,1,98.41,100.0,8.85,8.99,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,12.0,9.8,25,5.0,1,1,1,95.44,88.89,8.6,8.7,Aprovado
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,2.0,9.8,20,8.0,1,1,1,93.78,98.15,7.89,6.37,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,18,5.0,1,1,1,97.02,100.0,8.88,8.9,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,6.0,9.0,19,6.0,1,1,1,89.06,94.44,6.79,7.76,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,10.0,20,4.0,1,1,1,99.21,100.0,9.29,9.29,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,54.0,0.0,18,9.0,1,1,1,76.39,50.0,5.17,2.67,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,12.0,8.5,18,9.0,1,1,1,76.39,88.89,5.17,8.5,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,72.0,0.0,17,9.0,1,1,1,63.43,33.33,3.74,5.69,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,100.0,0.0,17,9.0,1,1,1,63.43,7.41,3.74,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,30.0,0.0,17,9.0,1,1,1,63.43,72.22,3.74,2.96,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,96.0,0.0,17,9.0,1,1,1,63.43,11.11,3.74,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,60.0,0.0,17,9.0,1,1,1,63.43,44.44,3.74,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,60.0,0.0,19,9.0,1,1,1,70.83,44.44,3.98,2.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.25,19,9.0,1,1,1,70.83,100.0,3.98,9.25,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,108.0,0.0,19,9.0,1,1,1,70.83,0.0,3.98,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,30.0,0.0,19,9.0,1,1,1,70.83,72.22,3.98,2.88,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,17,5.0,1,1,1,98.81,100.0,8.74,8.78,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.25,18,5.0,1,1,1,99.4,100.0,9.02,9.14,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,104.0,0.0,18,11.0,1,1,1,48.86,3.7,2.21,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,100.0,0.0,18,11.0,1,1,1,48.86,7.41,2.21,0.0,Reprovado por Freqüência
+M,Casado(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.7,31,6.0,1,1,1,98.02,100.0,9.19,7.0,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,8.25,17,9.0,1,1,1,94.45,100.0,7.06,8.25,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,21,4.0,1,1,1,98.41,100.0,9.19,9.19,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.75,18,4.0,1,1,1,97.62,100.0,9.04,9.04,Aprovado
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,10.0,19,5.0,1,1,1,95.64,100.0,8.96,8.96,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,20,5.0,1,1,1,99.01,100.0,8.36,8.56,Aprovado
+M,Casado(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,23,5.0,1,1,1,97.02,100.0,8.62,7.54,Aprovado
+M,Solteiro(a),Transferência Externa,Trabalho de Conclusão de Curso - TCC II,90.0,26.0,8.0,19,12.0,1,1,1,88.48,75.93,6.55,2.68,Aprovado
+F,Solteiro(a),Transferência Externa,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,8.75,19,5.0,1,1,1,93.25,100.0,7.5,6.36,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,4.0,9.5,20,7.0,1,1,1,99.07,96.3,8.45,8.44,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.25,19,6.0,1,1,1,94.84,100.0,9.01,9.62,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.0,20,8.0,1,1,1,77.22,100.0,6.08,9.0,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,104.0,0.0,20,8.0,1,1,1,77.22,3.7,6.08,2.56,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,4.0,2.13,20,8.0,1,1,1,77.22,96.3,6.08,5.44,Reprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,60.0,0.0,19,6.0,1,1,1,77.67,44.44,6.28,6.06,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,96.0,0.0,19,6.0,1,1,1,77.67,11.11,6.28,1.97,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,10.0,8.0,19,6.0,1,1,1,77.67,90.74,6.28,2.67,Aprovado
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,46.0,0.0,25,11.0,1,1,1,88.17,57.41,6.39,1.78,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,15.0,6.5,25,11.0,1,1,1,88.17,86.11,6.39,5.77,Aprovado
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,48.0,1.25,25,11.0,1,1,1,88.17,55.56,6.39,4.6,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.0,19,5.0,1,1,1,95.63,100.0,9.06,9.06,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.0,17,5.0,1,1,1,92.46,100.0,8.65,8.65,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,17,5.0,1,1,1,99.21,100.0,8.88,8.88,Aprovado
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,8.75,27,10.0,1,1,1,93.21,100.0,7.11,2.55,Aprovado
+M,Solteiro(a),Transferência Externa,Trabalho de Conclusão de Curso - TCC II,90.0,6.0,9.5,24,4.0,1,1,1,97.22,94.44,9.43,9.5,Aprovado
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,108.0,0.0,18,11.0,1,1,1,82.29,0.0,6.63,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,10.0,9.75,17,6.0,1,1,1,95.02,90.74,7.35,6.08,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,10.0,8.5,26,6.0,1,1,1,95.11,90.74,8.52,8.23,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,18.0,8.5,19,8.0,1,1,1,89.29,83.33,8.14,3.43,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,30.0,0.0,22,8.0,1,1,1,71.91,72.22,5.8,3.76,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,108.0,0.0,22,8.0,1,1,1,71.91,0.0,5.8,4.47,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,40.0,1.5,18,9.0,1,1,1,67.81,62.96,5.18,5.7,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,6.0,8.62,18,9.0,1,1,1,67.81,94.44,5.18,4.31,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,88.0,1.5,18,9.0,1,1,1,67.81,18.52,5.18,6.56,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,16.0,9.5,17,5.0,1,1,1,96.69,85.19,9.06,4.66,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.0,20,5.0,1,1,1,97.22,100.0,8.89,7.78,Aprovado
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,10.0,8.75,20,7.0,1,1,1,90.94,90.74,8.39,8.85,Aprovado
+M,Solteiro(a),Transferência Externa,Trabalho de Conclusão de Curso - TCC II,90.0,4.0,9.0,19,6.0,1,1,1,96.69,96.3,8.55,7.48,Aprovado
+M,Solteiro(a),Mandado de Segurança,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.25,19,9.0,1,1,1,80.21,100.0,7.16,8.62,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,15.0,9.0,22,5.0,1,1,1,91.87,86.11,8.81,6.85,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,2.0,8.25,18,7.0,1,1,1,96.76,98.15,7.54,8.33,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,8.5,17,9.0,1,1,1,85.93,100.0,5.83,8.25,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,4.0,0.75,17,9.0,1,1,1,85.93,96.3,5.83,4.38,Reprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,100.0,0.0,17,9.0,1,1,1,85.93,7.41,5.83,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,10.0,9.0,19,7.0,1,1,1,95.7,90.74,8.91,9.0,Aprovado
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,19,5.0,1,1,1,98.02,100.0,9.08,9.08,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,76.0,2.0,19,9.0,1,1,1,77.36,29.63,4.99,5.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,2.0,19,9.0,1,1,1,77.36,100.0,4.99,2.0,Reprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,40.0,1.75,19,9.0,1,1,1,77.36,62.96,4.99,1.75,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,2.5,19,9.0,1,1,1,77.36,100.0,4.99,2.5,Reprovado
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.25,19,6.0,1,1,1,97.02,100.0,8.94,7.83,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,4.0,9.0,18,5.0,1,1,1,96.5,96.3,8.37,7.32,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,50.0,1.5,21,9.0,1,1,1,85.18,53.7,6.47,3.54,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,6.0,8.0,21,9.0,1,1,1,85.18,94.44,6.47,5.47,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,46.0,1.5,21,9.0,1,1,1,85.18,57.41,6.47,0.75,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,74.0,0.0,18,9.0,1,1,1,84.52,31.48,6.99,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,2.0,8.25,18,9.0,1,1,1,84.52,98.15,6.99,8.25,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,40.0,1.5,18,9.0,1,1,1,84.52,62.96,6.99,1.5,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,17,5.0,1,1,1,97.22,100.0,9.17,9.21,Aprovado
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,8.5,18,9.0,1,1,1,89.29,100.0,8.2,7.43,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,50.0,0.0,18,7.0,1,1,1,83.24,53.7,6.16,2.67,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.25,18,7.0,1,1,1,83.24,100.0,6.16,9.25,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,104.0,0.0,18,7.0,1,1,1,83.24,3.7,6.16,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,6.0,2.0,18,7.0,1,1,1,83.24,94.44,6.16,1.0,Reprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.0,24,6.0,1,1,1,92.46,100.0,8.36,8.2,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,4.0,9.0,19,5.0,1,1,1,67.92,96.3,6.58,7.72,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.0,18,8.0,1,1,1,89.88,100.0,9.08,8.48,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.0,18,7.0,1,1,1,82.47,100.0,7.01,5.73,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,2.0,9.25,17,6.0,1,1,1,97.75,98.15,8.95,8.74,Aprovado
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,2.0,8.25,17,8.0,1,1,1,98.55,98.15,8.43,5.91,Aprovado
+F,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,8.5,17,7.0,1,1,1,97.4,100.0,7.64,9.5,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,20.0,8.5,25,7.0,1,1,1,94.97,81.48,8.39,6.12,Aprovado
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,70.0,0.0,23,7.0,1,1,1,63.1,35.19,2.49,3.16,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Trabalho de Conclusão de Curso - TCC II,90.0,10.0,9.8,20,4.0,1,1,1,83.4,90.74,9.11,8.97,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,78.0,0.0,18,0.0,1,1,1,32.44,27.78,0.8,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,108.0,0.0,18,0.0,1,1,1,32.44,0.0,0.8,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,41.0,0.0,18,0.0,1,1,1,32.44,62.04,0.8,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,27.0,7.62,18,8.0,1,1,1,76.23,75.0,5.28,7.62,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,40.0,1.0,18,8.0,1,1,1,76.23,62.96,5.28,1.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,12.0,0.75,18,8.0,1,1,1,76.23,88.89,5.28,4.38,Reprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,40.0,1.5,18,8.0,1,1,1,76.23,62.96,5.28,3.83,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,18.0,2.0,18,8.0,1,1,1,76.23,83.33,5.28,7.5,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,61.0,0.0,19,0.0,1,1,1,76.56,43.52,7.41,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,104.0,0.0,19,0.0,1,1,1,76.56,3.7,7.41,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,4.0,9.0,24,5.0,1,1,1,96.69,96.3,8.86,8.86,Aprovado
+M,Outros,Convênio,Trabalho de Conclusão de Curso - TCC II,90.0,2.0,9.25,17,6.0,1,1,1,98.94,98.15,9.21,9.21,Aprovado
+M,Outros,Convênio,Trabalho de Conclusão de Curso - TCC II,90.0,62.0,1.5,18,8.0,1,1,1,43.52,42.59,2.77,0.95,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,8.0,8.88,18,5.0,1,1,1,96.56,92.59,8.96,7.84,Aprovado
+M,Casado(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,12.0,0.75,29,8.0,1,1,1,85.09,88.89,6.28,3.46,Reprovado
+M,Casado(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,24.0,8.0,29,8.0,1,1,1,85.09,77.78,6.28,4.0,Aprovado
+M,Casado(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,51.0,1.0,29,8.0,1,1,1,85.09,52.78,6.28,4.06,Reprovado por Freqüência
+M,Casado(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,17.0,2.0,29,8.0,1,1,1,85.09,84.26,6.28,2.61,Reprovado
+F,Solteiro(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,8.75,41,8.0,1,1,1,95.63,100.0,8.67,6.88,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,4.0,8.63,19,5.0,1,1,1,96.69,96.3,8.79,7.69,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,46.0,1.5,20,0.0,1,1,1,85.02,57.41,5.63,6.17,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,14.0,0.0,20,0.0,1,1,1,85.02,87.04,5.63,0.0,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,15.0,3.75,20,0.0,1,1,1,85.02,86.11,5.63,3.75,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,63.0,0.0,20,0.0,1,1,1,85.02,41.67,5.63,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,10.0,0.75,20,0.0,1,1,1,85.02,90.74,5.63,0.75,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,37.0,1.0,18,0.0,1,1,1,75.58,65.74,6.5,4.7,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,10.0,17,4.0,1,1,1,100.0,100.0,9.46,9.46,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,8.75,21,5.0,1,1,1,98.81,100.0,9.12,9.12,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,8.5,18,7.0,1,1,1,62.22,100.0,5.71,5.0,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.75,18,4.0,1,1,1,96.83,100.0,9.32,9.32,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,19,4.0,1,1,1,97.62,100.0,9.46,9.48,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,8.0,18,8.0,1,1,1,94.44,100.0,8.71,8.05,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Trabalho de Conclusão de Curso - TCC II,90.0,4.0,9.75,17,5.0,1,1,1,99.47,96.3,9.21,9.21,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,10.0,17,4.0,1,1,1,98.81,100.0,9.47,9.47,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,78.0,0.0,18,7.0,1,1,1,82.05,27.78,6.89,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,18,7.0,1,1,1,82.05,100.0,6.89,9.5,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,41.0,0.0,18,7.0,1,1,1,82.05,62.04,6.89,0.0,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,10.0,18,4.0,1,1,1,99.6,100.0,9.95,9.95,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,18.0,8.25,17,6.0,1,1,1,80.19,83.33,6.59,7.2,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,11.0,0.75,17,6.0,1,1,1,80.19,89.81,6.59,4.87,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,10.0,18,4.0,1,1,1,94.64,100.0,9.75,9.72,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,40.0,1.25,17,5.0,1,1,1,81.36,62.96,6.83,6.66,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.0,17,4.0,1,1,1,91.67,100.0,8.67,8.67,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,5.0,9.0,17,4.0,1,1,1,87.83,95.37,8.78,8.78,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,40.0,1.5,18,0.0,1,1,1,39.64,62.96,2.17,2.17,Reprovado por Freqüência
+M,Outros,Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,40.0,1.5,17,5.0,1,1,1,86.4,62.96,7.88,7.76,Reprovado por Freqüência
+M,Outros,Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,4.0,8.75,17,5.0,1,1,1,86.4,96.3,7.88,6.88,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,46.0,1.5,19,6.0,1,1,1,89.81,57.41,7.69,6.01,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.75,19,6.0,1,1,1,89.81,100.0,7.69,9.75,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,46.0,1.25,18,7.0,1,1,1,66.31,57.41,4.38,4.73,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,17.0,8.12,18,7.0,1,1,1,66.31,84.26,4.38,4.06,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,11.0,0.75,18,7.0,1,1,1,66.31,89.81,4.38,0.75,Reprovado
+M,Casado(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,53.0,1.5,29,5.0,1,1,1,57.23,50.93,5.59,5.97,Reprovado por Freqüência
+M,Casado(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,27.0,7.0,29,5.0,1,1,1,57.23,75.0,5.59,6.0,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.12,21,4.0,1,1,1,91.67,100.0,8.69,8.69,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,8.75,18,3.0,1,1,1,93.25,100.0,8.84,8.84,Aprovado
+M,Solteiro(a),Transferência Ex-Ofício,Trabalho de Conclusão de Curso - TCC II,90.0,55.0,0.0,24,6.0,1,1,1,69.34,49.07,5.06,4.92,Reprovado por Freqüência
+M,Solteiro(a),Transferência Ex-Ofício,Trabalho de Conclusão de Curso - TCC II,90.0,6.0,0.75,24,6.0,1,1,1,69.34,94.44,5.06,0.38,Reprovado
+M,Solteiro(a),Transferência Ex-Ofício,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.0,24,6.0,1,1,1,69.34,100.0,5.06,8.51,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,41.0,0.0,19,0.0,1,1,1,55.04,62.04,4.66,2.64,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,25.0,8.0,17,5.0,1,1,1,81.36,76.85,6.83,7.1,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,27.0,8.75,18,0.0,1,1,1,70.27,75.0,6.55,5.79,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,43.0,1.0,18,0.0,1,1,1,70.27,60.19,6.55,6.33,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,43.0,1.0,18,0.0,1,1,1,66.5,60.19,4.67,6.57,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,0.0,18,0.0,1,1,1,66.5,100.0,4.67,5.87,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,31.0,0.62,18,0.0,1,1,1,66.5,71.3,4.67,2.89,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,8.5,20,5.0,1,1,1,67.7,100.0,4.95,6.9,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,41.0,0.0,20,5.0,1,1,1,67.7,62.04,4.95,1.79,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,72.0,0.0,16,0.0,1,1,1,66.26,33.33,6.26,7.32,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,38.0,0.0,16,0.0,1,1,1,66.26,64.81,6.26,5.35,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,42.0,0.0,24,0.0,1,1,1,66.48,61.11,4.54,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,41.0,0.0,24,0.0,1,1,1,66.48,62.04,4.54,4.19,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,2.0,21,5.0,1,1,1,86.0,100.0,8.16,6.97,Reprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,1.0,9.5,21,5.0,1,1,1,86.0,99.07,8.16,9.5,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,10.0,18,4.0,1,1,1,84.92,100.0,9.58,9.58,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,2.0,19,5.0,1,1,1,86.11,100.0,8.09,8.05,Reprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,3.0,9.25,19,5.0,1,1,1,86.11,97.22,8.09,9.25,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,17,4.0,1,1,1,89.29,100.0,8.8,8.8,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,0.0,18,0.0,1,1,1,94.64,100.0,7.35,7.35,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.75,18,0.0,1,1,1,95.24,100.0,9.08,9.08,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Trabalho de Conclusão de Curso - TCC II,90.0,0.0,9.5,18,4.0,1,1,1,98.81,100.0,9.14,9.14,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,8.0,8.25,17,0.0,2,0,0,38.89,77.78,4.12,6.22,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,0.0,30,7.0,2,0,0,100.0,100.0,0.0,0.0,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,8.0,8.5,33,0.0,2,0,0,70.41,77.78,4.21,5.76,Aprovado
+M,Casado(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,2.0,9.5,30,5.0,2,0,0,96.43,94.44,9.31,9.31,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,36.0,0.0,20,8.0,2,0,0,37.22,0.0,1.81,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,2.0,8.25,18,9.0,2,0,0,79.72,94.44,5.17,3.25,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.5,22,9.0,2,0,0,63.89,100.0,4.85,6.01,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,8.0,0.0,17,11.0,2,0,0,55.56,77.78,1.19,3.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,36.0,0.0,17,11.0,2,0,0,55.56,0.0,1.19,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,20.0,0.0,18,12.0,2,0,0,44.44,44.44,0.0,1.14,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,2.0,9.0,18,6.0,2,0,0,97.02,94.44,8.56,8.18,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,6.0,8.0,18,7.0,2,0,0,87.7,83.33,8.31,6.81,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,18,9.0,2,0,0,84.55,100.0,6.91,7.96,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,0.0,18,9.0,2,0,0,84.13,100.0,4.73,5.01,Reprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,18,9.0,2,0,0,84.13,100.0,4.73,6.85,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,4.0,8.0,18,4.0,2,0,0,96.23,88.89,8.32,8.34,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,18,5.0,2,0,0,99.65,100.0,7.95,7.95,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,2.0,8.0,19,4.0,2,0,0,93.06,94.44,8.07,8.19,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,14.0,0.0,18,9.0,2,0,0,75.0,61.11,2.52,1.62,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,14.0,0.0,18,9.0,2,0,0,61.11,61.11,0.0,1.96,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,0.0,9.25,24,6.0,2,0,0,85.94,100.0,6.87,7.16,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,6.0,8.0,19,9.0,2,0,0,88.23,83.33,7.64,3.76,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,6.0,8.0,18,9.0,2,0,0,75.97,83.33,4.89,3.31,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,16.0,0.0,18,9.0,2,0,0,75.97,55.56,4.89,2.05,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,4.0,8.0,18,10.0,2,0,0,94.84,88.89,8.08,6.54,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,6.0,8.0,17,5.0,2,0,0,82.81,83.33,6.86,8.05,Aprovado
+M,Não informado,Vestibular,Empreendedorismo,30.0,0.0,8.0,18,4.0,2,0,0,99.21,100.0,9.07,9.07,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,0.0,20,7.0,2,0,0,97.22,100.0,2.52,0.13,Reprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,36.0,0.0,18,10.0,2,0,0,0.0,0.0,0.0,0.0,Reprovado por Freqüência
+M,Não informado,Vestibular,Empreendedorismo,30.0,0.0,0.0,18,8.0,2,0,0,81.64,100.0,6.21,1.83,Reprovado
+M,Não informado,Vestibular,Empreendedorismo,30.0,6.0,8.0,18,8.0,2,0,0,81.64,83.33,6.21,6.85,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,4.0,0.0,18,11.0,2,0,0,72.22,88.89,4.5,4.7,Reprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,18,11.0,2,0,0,72.22,100.0,4.5,6.38,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,6.0,8.5,17,11.0,2,0,0,37.96,83.33,1.42,3.75,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,6.0,10.0,17,8.0,2,0,0,94.44,83.33,7.66,6.61,Aprovado
+F,Não informado,Vestibular,Empreendedorismo,30.0,0.0,10.0,26,7.0,2,0,0,86.69,100.0,6.78,7.79,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,18,8.0,2,0,0,81.67,100.0,5.6,4.77,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,24.0,0.0,18,8.0,2,0,0,81.67,33.33,5.6,2.64,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,18,11.0,2,0,0,62.35,100.0,4.4,6.71,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,17,7.0,2,0,0,76.3,100.0,5.27,6.24,Aprovado
+F,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,0.0,0.0,20,10.0,2,0,0,50.0,100.0,2.12,1.7,Reprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,19,6.0,2,0,0,89.06,100.0,6.79,7.76,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,16.0,0.0,19,6.0,2,0,0,89.06,55.56,6.79,5.76,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.0,20,4.0,2,0,0,99.21,100.0,9.29,9.29,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,9.0,6.25,20,11.0,2,0,0,86.92,75.0,7.05,7.43,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,18.0,0.0,19,8.0,2,0,0,50.0,50.0,2.0,4.1,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,19,8.0,2,0,0,50.0,100.0,2.0,6.94,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,17,5.0,2,0,0,96.53,100.0,7.55,7.35,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,0.0,18,8.0,2,0,0,44.17,100.0,0.11,0.0,Reprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,16.0,0.0,18,8.0,2,0,0,44.17,55.56,0.11,1.18,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,18,5.0,2,0,0,99.4,100.0,9.02,9.14,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,6.0,8.0,24,5.0,2,0,0,44.44,83.33,2.92,4.5,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.25,18,11.0,2,0,0,48.86,100.0,2.21,2.75,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,0.0,18,11.0,2,0,0,48.86,100.0,2.21,5.82,Reprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,16,5.0,2,0,0,95.24,100.0,8.4,7.65,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,18,5.0,2,0,0,98.41,100.0,8.85,8.99,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,4.0,8.5,19,9.0,2,0,0,78.97,88.89,6.72,7.3,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,25,5.0,2,0,0,95.44,100.0,8.6,8.7,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,6.0,8.0,20,8.0,2,0,0,93.78,83.33,7.89,7.44,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,18,5.0,2,0,0,97.02,100.0,8.88,8.9,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,6.0,8.0,18,9.0,2,0,0,76.39,83.33,5.17,6.71,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,17,9.0,2,0,0,63.43,100.0,3.74,5.69,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,19,9.0,2,0,0,70.83,100.0,3.98,5.49,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,10.0,2.88,18,7.0,2,0,0,86.11,72.22,5.44,3.4,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,17,5.0,2,0,0,98.81,100.0,8.74,8.78,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.5,19,7.0,2,0,0,48.47,100.0,6.06,9.24,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,12.0,0.0,24,6.0,2,0,0,66.67,66.67,0.0,3.16,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,20,5.0,2,0,0,99.01,100.0,8.36,8.56,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,14.0,0.0,18,9.0,2,0,0,67.36,61.11,0.13,3.2,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,0.0,18,9.0,2,0,0,67.36,100.0,0.13,0.23,Reprovado
+M,Casado(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,23,5.0,2,0,0,97.02,100.0,8.62,7.54,Aprovado
+M,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,9.0,0.0,19,12.0,2,0,0,88.48,75.0,6.55,4.96,Reprovado por Freqüência
+M,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,4.0,8.0,19,12.0,2,0,0,88.48,88.89,6.55,6.19,Aprovado
+F,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,6.0,8.0,19,5.0,2,0,0,93.25,83.33,7.5,7.72,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,18.0,0.0,19,3.0,2,0,0,50.0,50.0,0.0,2.77,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,20,7.0,2,0,0,99.07,100.0,8.45,7.47,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,36.0,0.0,18,7.0,2,0,0,46.3,0.0,1.92,0.0,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,22.0,0.0,18,7.0,2,0,0,46.3,38.89,1.92,1.12,Reprovado por Freqüência
+M,Casado(a),Vestibular,Empreendedorismo,30.0,0.0,10.0,31,6.0,2,0,0,98.02,100.0,9.19,7.0,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,6.0,8.0,17,9.0,2,0,0,94.45,83.33,7.06,5.88,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.0,21,4.0,2,0,0,98.41,100.0,9.19,9.19,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,4.0,8.0,18,4.0,2,0,0,97.62,88.89,9.04,9.04,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,18,10.0,2,0,0,67.06,100.0,4.73,6.55,Aprovado
+F,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,18.0,0.0,21,7.0,2,0,0,50.0,50.0,0.0,4.5,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,8.0,8.0,19,5.0,2,0,0,95.64,77.78,8.96,8.96,Aprovado
+M,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,12.0,0.0,20,5.0,2,0,0,66.67,66.67,0.0,2.9,Reprovado por Freqüência
+M,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,6.0,10.0,25,7.0,2,0,0,83.33,83.33,10.0,4.0,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,7.38,17,10.0,2,0,0,69.05,100.0,4.78,6.76,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.0,25,11.0,2,0,0,88.17,100.0,6.39,5.9,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,26.0,0.0,23,10.0,2,0,0,45.83,27.78,1.53,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,16.0,2.5,23,10.0,2,0,0,45.83,55.56,1.53,2.65,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,6.0,2.0,23,10.0,2,0,0,45.83,83.33,1.53,2.55,Reprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,12.0,3.44,23,10.0,2,0,0,45.83,66.67,1.53,3.25,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,0.0,21,6.0,2,0,0,63.33,100.0,0.0,0.0,Reprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,6.0,8.25,19,5.0,2,0,0,95.63,83.33,9.06,9.06,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,8.0,8.0,17,5.0,2,0,0,92.46,77.78,8.65,8.65,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,8.0,8.0,23,10.0,2,0,0,90.28,77.78,7.83,4.57,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,8.0,8.0,19,8.0,2,0,0,89.29,77.78,8.14,6.87,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.25,22,8.0,2,0,0,71.91,100.0,5.8,3.76,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,8.0,8.25,19,6.0,2,0,0,94.84,77.78,9.01,7.95,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.06,20,8.0,2,0,0,77.22,100.0,6.08,7.29,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,6.0,8.0,19,6.0,2,0,0,77.67,83.33,6.28,6.06,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,8.0,8.0,26,5.0,2,0,0,77.78,77.78,8.0,2.0,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.75,27,10.0,2,0,0,93.21,100.0,7.11,4.76,Aprovado
+M,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,2.0,9.5,24,4.0,2,0,0,97.22,94.44,9.43,5.11,Aprovado
+M,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,4.0,8.0,22,6.0,2,0,0,55.56,88.89,3.44,5.78,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.0,18,11.0,2,0,0,82.29,100.0,6.63,5.15,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,17,6.0,2,0,0,95.02,100.0,7.35,3.59,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,0.0,17,6.0,2,0,0,95.02,100.0,7.35,5.42,Reprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.0,26,6.0,2,0,0,95.11,100.0,8.52,8.23,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.25,19,9.0,2,0,0,82.22,100.0,6.59,6.71,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.75,20,5.0,2,0,0,97.22,100.0,8.89,7.78,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,7.81,20,7.0,2,0,0,90.94,100.0,8.39,6.59,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,30.0,0.0,18,8.0,2,0,0,54.86,16.67,3.88,0.0,Reprovado por Freqüência
+M,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,0.0,8.0,19,6.0,2,0,0,96.69,100.0,8.55,7.48,Aprovado
+M,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,0.0,8.75,21,9.0,2,0,0,97.22,100.0,8.19,5.69,Aprovado
+M,Solteiro(a),Mandado de Segurança,Empreendedorismo,30.0,36.0,0.0,19,9.0,2,0,0,80.21,0.0,7.16,0.0,Reprovado por Freqüência
+M,Solteiro(a),Mandado de Segurança,Empreendedorismo,30.0,0.0,8.25,19,9.0,2,0,0,80.21,100.0,7.16,8.06,Aprovado
+M,Casado(a),Vestibular,Empreendedorismo,30.0,6.0,8.0,18,8.0,2,0,0,68.33,83.33,5.09,8.24,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.5,17,5.0,2,0,0,99.21,100.0,8.88,8.88,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.25,19,5.0,2,0,0,98.02,100.0,9.08,9.08,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,0.0,19,5.0,2,0,0,100.0,100.0,0.0,0.0,Reprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.0,19,9.0,2,0,0,77.36,100.0,4.99,7.26,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.25,19,6.0,2,0,0,97.02,100.0,8.94,7.83,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,9.0,9.2,22,9.0,2,0,0,79.17,75.0,6.0,3.06,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,28.0,0.0,22,9.0,2,0,0,79.17,22.22,6.0,2.72,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,7.0,18,5.0,2,0,0,68.06,100.0,3.97,5.3,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,9.0,9.5,18,9.0,2,0,0,67.81,75.0,5.18,6.56,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.25,17,5.0,2,0,0,96.69,100.0,9.06,9.13,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,3.0,9.0,24,6.0,2,0,0,92.46,91.67,8.36,8.45,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,4.0,6.81,19,9.0,2,0,0,37.78,88.89,1.97,6.25,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,10.0,34,8.0,2,0,0,66.67,100.0,3.33,8.43,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.25,19,5.0,2,0,0,67.92,100.0,6.58,7.72,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.94,22,5.0,2,0,0,91.87,100.0,8.81,6.85,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,18,7.0,2,0,0,96.76,100.0,7.54,5.03,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,17,9.0,2,0,0,85.93,100.0,5.83,5.51,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.75,19,7.0,2,0,0,95.7,100.0,8.91,8.77,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.25,25,7.0,2,0,0,94.97,100.0,8.39,7.18,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.75,18,5.0,2,0,0,96.5,100.0,8.37,7.32,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,21,9.0,2,0,0,85.18,100.0,6.47,7.66,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.13,18,9.0,2,0,0,84.52,100.0,6.99,8.86,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.75,17,5.0,2,0,0,97.22,100.0,9.17,9.21,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,9.0,9.5,18,9.0,2,0,0,89.29,75.0,8.2,8.76,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.75,18,7.0,2,0,0,83.24,100.0,6.16,7.05,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.0,17,6.0,2,0,0,97.75,100.0,8.95,8.95,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.0,17,8.0,2,0,0,98.55,100.0,8.43,6.75,Aprovado
+F,Casado(a),Vestibular,Empreendedorismo,30.0,16.0,0.69,18,7.0,2,0,0,52.78,55.56,0.72,0.4,Reprovado por Freqüência
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.94,17,7.0,2,0,0,97.4,100.0,7.64,7.55,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,3.0,8.5,25,7.0,2,0,0,81.95,91.67,6.72,5.13,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,14.0,0.5,17,8.0,2,0,0,28.24,61.11,0.5,1.33,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,18,8.0,2,0,0,57.1,100.0,4.21,6.35,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.94,23,8.0,2,0,0,85.76,100.0,5.37,6.85,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.75,19,8.0,2,0,0,90.83,100.0,7.74,6.8,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,5.0,8.15,18,9.0,2,0,0,60.49,86.11,4.64,5.27,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.75,34,7.0,2,0,0,25.0,100.0,2.44,8.04,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,9.0,9.5,18,8.0,2,0,0,89.88,75.0,9.08,8.48,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,2.0,8.0,18,7.0,2,0,0,82.47,94.44,7.01,5.23,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.75,18,8.0,2,0,0,98.61,100.0,8.56,7.91,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,9.0,20,4.0,2,0,0,83.4,100.0,9.11,8.97,Aprovado
+F,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,8.0,21,0.0,2,0,0,97.22,100.0,6.83,4.55,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,30.0,0.0,18,8.0,2,0,0,22.23,16.67,0.0,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,26.0,0.0,18,8.0,2,0,0,22.23,27.78,0.0,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,6.0,9.75,19,0.0,2,0,0,76.56,83.33,7.41,9.88,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,1.0,9.38,22,0.0,2,0,0,98.61,97.22,6.31,6.69,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,2.0,9.0,24,5.0,2,0,0,96.69,94.44,8.86,8.86,Aprovado
+M,Outros,Convênio,Empreendedorismo,30.0,0.0,10.0,17,6.0,2,0,0,98.94,100.0,9.21,9.21,Aprovado
+M,Outros,Convênio,Empreendedorismo,30.0,0.0,9.63,18,8.0,2,0,0,43.52,100.0,2.77,6.39,Aprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,0.0,1.31,23,7.0,2,0,0,63.1,100.0,2.49,3.16,Reprovado
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,30.0,0.0,23,7.0,2,0,0,63.1,16.67,2.49,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Empreendedorismo,30.0,28.0,0.0,20,8.0,2,0,0,22.22,22.22,0.0,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,2.0,5.69,19,0.0,2,0,0,77.22,94.44,5.24,7.38,Aprovado
+F,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,0.0,10.0,17,0.0,2,0,0,98.61,100.0,9.03,8.17,Aprovado
+M,Casado(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,24.0,0.0,43,7.0,2,0,0,39.93,33.33,1.31,0.0,Reprovado por Freqüência
+M,Casado(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,28.0,0.0,43,7.0,2,0,0,39.93,22.22,1.31,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,22.0,0.0,18,0.0,2,0,0,32.44,38.89,0.8,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,34.0,0.0,18,0.0,2,0,0,32.44,5.56,0.8,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,15.0,0.5,18,0.0,2,0,0,32.44,58.33,0.8,3.3,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,28.0,0.0,18,7.0,2,0,0,12.5,22.22,0.21,0.08,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,8.0,8.25,18,7.0,2,0,0,53.12,77.78,4.06,6.93,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,6.0,8.0,18,8.0,2,0,0,76.23,83.33,5.28,7.5,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,0.0,9.5,18,5.0,2,0,0,96.56,100.0,8.96,7.84,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,26.0,0.0,18,7.0,2,0,0,27.78,27.78,0.0,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,26.0,0.0,18,7.0,2,0,0,27.78,27.78,0.0,0.0,Reprovado por Freqüência
+M,Casado(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,2.0,8.38,29,8.0,2,0,0,85.09,94.44,6.28,7.19,Aprovado
+F,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,2.0,9.25,41,8.0,2,0,0,95.63,94.44,8.67,6.16,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,2.0,9.0,19,5.0,2,0,0,96.69,94.44,8.79,7.69,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,7.0,6.4,19,9.0,2,0,0,43.65,80.56,2.37,1.6,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,16.0,1.88,17,5.0,2,0,0,55.56,55.56,1.88,0.75,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,4.0,8.5,18,8.0,2,0,0,94.44,88.89,8.71,5.83,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,0.0,9.5,17,5.0,2,0,0,99.47,100.0,9.21,9.21,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,4.0,8.5,19,0.0,2,0,0,75.0,88.89,4.25,5.19,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,14.0,0.0,19,0.0,2,0,0,75.0,61.11,4.25,1.46,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,12.0,0.5,19,0.0,2,0,0,59.53,66.67,4.0,2.12,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,12.0,3.4,19,0.0,2,0,0,59.53,66.67,4.0,0.68,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Empreendedorismo,30.0,2.0,6.75,18,7.0,2,0,0,91.66,94.44,5.88,5.22,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,7.0,9.25,17,6.0,2,0,0,80.19,80.56,6.59,8.36,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,8.0,9.25,18,4.0,2,0,0,94.64,77.78,9.75,9.72,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,2.0,9.88,20,0.0,2,0,0,85.02,94.44,5.63,7.92,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,6.0,9.5,18,0.0,2,0,0,75.58,83.33,6.5,6.78,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,30.0,0.0,17,5.0,2,0,0,16.67,16.67,0.0,0.0,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,0.0,9.5,17,4.0,2,0,0,100.0,100.0,9.46,9.46,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,1.0,9.25,21,5.0,2,0,0,98.81,97.22,9.12,9.12,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,8.0,10.0,18,7.0,2,0,0,62.22,77.78,5.71,6.93,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,4.0,9.5,18,4.0,2,0,0,96.83,88.89,9.32,9.32,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,4.0,9.25,19,4.0,2,0,0,97.62,88.89,9.46,9.48,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,2.0,9.0,24,0.0,2,0,0,94.44,94.44,9.0,6.16,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,2.0,9.75,17,4.0,2,0,0,98.81,94.44,9.47,9.47,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,0.0,8.0,21,3.0,2,0,0,95.83,100.0,7.58,7.16,Aprovado
+M,Uniao Estavel,Processo Seletivo - SiSU,Empreendedorismo,30.0,6.0,9.0,60,0.0,2,0,0,83.33,83.33,9.0,4.73,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,7.0,10.0,18,0.0,2,0,0,80.56,80.56,10.0,8.51,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,3.0,9.0,18,7.0,2,0,0,82.05,91.67,6.89,7.95,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,1.0,10.0,18,4.0,2,0,0,99.6,97.22,9.95,9.95,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,14.0,0.5,18,0.0,2,0,0,17.36,61.11,0.12,0.64,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,4.0,9.75,18,0.0,2,0,0,63.89,88.89,6.28,6.85,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,2.0,10.0,19,0.0,2,0,0,42.36,94.44,2.67,5.97,Aprovado
+M,Outros,Processo Seletivo - SiSU,Empreendedorismo,30.0,8.0,9.5,17,5.0,2,0,0,86.4,77.78,7.88,7.76,Aprovado
+F,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,6.0,9.0,19,6.0,2,0,0,90.62,83.33,7.62,5.6,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,1.0,8.25,26,0.0,2,0,0,88.89,97.22,5.79,5.83,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,28.0,0.0,18,4.0,2,0,0,22.22,22.22,0.0,0.12,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,2.0,9.5,19,6.0,2,0,0,89.81,94.44,7.69,6.01,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,2.0,8.0,18,0.0,2,0,0,49.3,94.44,3.81,7.21,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,0.0,8.25,26,0.0,2,0,0,100.0,100.0,8.25,5.9,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,9.0,6.75,18,7.0,2,0,0,66.31,75.0,4.38,4.73,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,6.0,9.5,17,5.0,2,0,0,81.36,83.33,6.83,6.66,Aprovado
+F,Não informado,Processo Seletivo - SiSU,Empreendedorismo,30.0,2.0,8.25,18,3.0,2,0,0,94.44,94.44,8.25,5.39,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,2.0,9.5,17,4.0,2,0,0,91.67,94.44,8.67,8.67,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,6.0,9.0,18,0.0,2,0,0,42.36,83.33,2.42,4.85,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,8.0,9.5,17,4.0,2,0,0,87.83,77.78,8.78,8.78,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,16.0,0.0,17,5.0,2,0,0,23.34,55.56,0.0,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,12.0,2.25,18,0.0,2,0,0,39.64,66.67,2.17,2.17,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,4.0,9.5,21,4.0,2,0,0,91.67,88.89,8.69,8.69,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,0.0,9.5,18,3.0,2,0,0,93.25,100.0,8.84,8.84,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,0.0,8.2,23,0.0,2,0,0,100.0,100.0,8.1,5.21,Aprovado
+M,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,4.0,9.5,19,0.0,2,0,0,66.32,88.89,5.36,3.64,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,2.0,8.0,17,0.0,2,0,0,82.64,94.44,6.75,7.51,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,7.0,9.0,19,0.0,2,0,0,55.04,80.56,4.66,5.74,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,5.0,9.5,20,5.0,2,0,0,67.7,86.11,4.95,6.9,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,7.0,9.0,16,0.0,2,0,0,66.26,80.56,6.26,7.32,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,4.0,9.75,20,0.0,2,0,0,91.67,88.89,8.81,7.09,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,6.0,2.63,18,5.0,2,0,0,38.2,83.33,0.66,5.06,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,14.0,0.0,18,5.0,2,0,0,38.2,61.11,0.66,0.19,Reprovado por Freqüência
+M,Solteiro(a),Reopção de Curso,Empreendedorismo,30.0,4.0,9.9,20,0.0,2,0,0,92.36,88.89,8.11,8.46,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,2.0,10.0,19,5.0,2,0,0,86.11,94.44,8.09,8.05,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,1.0,9.0,19,0.0,2,0,0,98.61,97.22,8.51,7.34,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,7.0,10.0,18,0.0,2,0,0,83.34,80.56,8.25,4.22,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,24.0,0.0,18,4.0,2,0,0,33.33,33.33,0.0,1.56,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,4.0,8.0,17,0.0,2,0,0,44.44,88.89,4.98,4.98,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,6.0,9.0,18,0.0,2,0,0,70.27,83.33,6.55,6.33,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,6.0,9.0,18,0.0,2,0,0,66.5,83.33,4.67,6.57,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,22.0,1.88,16,0.0,2,0,0,28.33,38.89,3.08,4.08,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,9.0,9.0,25,0.0,2,0,0,41.66,75.0,4.5,3.5,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,2.0,10.0,18,4.0,2,0,0,98.81,94.44,9.14,9.14,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,4.0,9.25,18,0.0,2,0,0,90.28,88.89,7.88,7.7,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,6.0,9.0,18,0.0,2,0,0,59.26,83.33,6.0,6.23,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,3.0,10.0,19,0.0,2,0,0,91.67,91.67,10.0,8.81,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,5.0,8.5,18,0.0,2,0,0,47.22,86.11,4.25,5.9,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,7.0,9.25,24,0.0,2,0,0,66.48,80.56,4.54,6.71,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,4.0,10.0,21,5.0,2,0,0,86.0,88.89,8.16,6.97,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,3.0,9.75,18,0.0,2,0,0,96.53,91.67,8.54,8.33,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,2.0,10.0,18,4.0,2,0,0,84.92,94.44,9.58,9.58,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,9.0,9.05,18,0.0,2,0,0,75.0,75.0,9.05,4.06,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,9.0,5.02,19,0.0,2,0,0,75.0,75.0,5.02,3.76,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,9.0,9.75,17,4.0,2,0,0,89.29,75.0,8.8,8.8,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,6.0,9.05,18,0.0,2,0,0,43.05,83.33,4.53,5.88,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,4.0,9.0,18,0.0,2,0,0,94.64,88.89,7.35,7.35,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,0.0,9.05,19,0.0,2,0,0,50.0,100.0,4.53,8.1,Aprovado
+M,Casado(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,2.0,9.75,18,0.0,2,0,0,94.44,94.44,9.75,8.87,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,6.0,9.25,17,0.0,2,0,0,83.33,83.33,9.25,4.15,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,6.0,10.0,18,0.0,2,0,0,95.24,83.33,9.08,9.08,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,2.0,10.0,18,4.0,2,0,0,98.41,94.44,9.09,9.09,Aprovado
+M,Casado(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,6.0,9.5,32,0.0,2,0,0,79.16,83.33,5.88,2.24,Aprovado
+M,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,2.0,9.0,21,0.0,2,0,0,47.22,94.44,9.38,8.45,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,7.0,6.58,18,0.0,2,0,0,80.56,80.56,6.58,1.62,Aprovado
+M,Casado(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,8.0,5.95,22,0.0,2,0,0,40.28,77.78,2.98,3.55,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,18.0,2.25,18,3.0,2,0,0,50.0,50.0,2.25,1.09,Reprovado por Freqüência
+M,Solteiro(a),Mandado de Segurança,Empreendedorismo,30.0,4.0,9.05,18,0.0,2,0,0,66.66,88.89,5.11,5.64,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,7.0,8.75,21,0.0,2,0,0,80.56,80.56,8.75,5.6,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,4.0,9.05,18,0.0,2,0,0,75.0,88.89,5.64,5.25,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,0.0,9.75,18,0.0,2,0,0,100.0,100.0,9.75,8.55,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,9.0,9.5,19,0.0,2,0,0,37.5,75.0,4.75,5.88,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,9.0,9.5,18,0.0,2,0,0,75.0,75.0,9.5,6.61,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,6.0,9.75,17,0.0,2,0,0,83.33,83.33,9.75,8.28,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,4.0,8.75,19,0.0,2,0,0,88.89,88.89,8.75,6.78,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,4.0,10.0,18,0.0,2,0,0,50.0,88.89,5.16,6.08,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Empreendedorismo,30.0,26.0,0.0,19,0.0,2,0,0,27.78,27.78,0.0,0.03,Reprovado por Freqüência
+F,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,4.0,9.9,17,0.0,2,0,0,88.89,88.89,9.9,9.32,Aprovado
+M,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,4.0,9.9,18,0.0,2,0,0,88.89,88.89,9.9,5.02,Aprovado
+F,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,4.0,9.9,19,0.0,2,0,0,88.89,88.89,9.9,6.9,Aprovado
+M,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,2.0,8.75,19,0.0,2,0,0,94.44,94.44,8.75,1.79,Aprovado
+M,Solteiro(a),Transferência Externa,Empreendedorismo,30.0,2.0,9.9,19,0.0,2,0,0,94.44,94.44,9.9,6.44,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,9.75,18,4.0,2,0,0,98.41,100.0,9.09,9.09,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,8.0,6.75,33,0.0,2,0,0,70.41,77.78,4.21,5.76,Aprovado
+M,Casado(a),Processo Seletivo - ENEM,Relatório de Estágio,30.0,4.0,9.75,30,5.0,2,0,0,96.43,88.89,9.31,9.31,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,3.6,28,0.0,2,0,0,66.67,100.0,3.43,4.97,Reprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.62,19,4.0,2,0,0,93.06,100.0,8.07,8.19,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.75,18,9.0,2,0,0,79.72,100.0,5.17,6.8,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,16.0,0.0,18,9.0,2,0,0,79.72,55.56,5.17,3.25,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.75,18,6.0,2,0,0,97.02,100.0,8.56,8.18,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.5,18,7.0,2,0,0,87.7,100.0,8.31,6.81,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,16.0,0.0,18,9.0,2,0,0,84.55,55.56,6.91,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,6.0,8.5,18,9.0,2,0,0,84.55,83.33,6.91,8.75,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.75,18,9.0,2,0,0,84.13,100.0,4.73,5.01,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.62,18,4.0,2,0,0,96.23,100.0,8.32,8.34,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.12,18,5.0,2,0,0,99.65,100.0,7.95,7.95,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,16.0,0.0,18,11.0,2,0,0,43.98,55.56,2.03,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,10.0,0.0,18,11.0,2,0,0,43.98,72.22,2.03,0.0,Reprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.0,18,10.0,2,0,0,94.84,100.0,8.08,5.75,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.5,18,4.0,2,0,0,66.47,100.0,5.45,1.77,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.12,17,5.0,2,0,0,82.81,100.0,6.86,8.05,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Relatório de Estágio,30.0,8.0,8.9,24,6.0,2,0,0,85.94,77.78,6.87,7.5,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.0,19,9.0,2,0,0,88.23,100.0,7.64,2.19,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,16.0,0.0,18,9.0,2,0,0,75.97,55.56,4.89,3.31,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,6.0,8.5,18,9.0,2,0,0,75.97,83.33,4.89,9.0,Aprovado
+M,Não informado,Vestibular,Relatório de Estágio,30.0,0.0,0.0,18,8.0,2,0,0,81.64,100.0,6.21,1.83,Reprovado
+M,Não informado,Vestibular,Relatório de Estágio,30.0,8.0,8.5,18,8.0,2,0,0,81.64,77.78,6.21,8.12,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,4.0,8.5,18,11.0,2,0,0,72.22,88.89,4.5,7.17,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.0,18,11.0,2,0,0,62.35,100.0,4.4,7.41,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.5,17,7.0,2,0,0,76.3,100.0,5.27,6.24,Aprovado
+M,Não informado,Vestibular,Relatório de Estágio,30.0,0.0,9.5,18,4.0,2,0,0,99.21,100.0,9.07,9.07,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.5,20,11.0,2,0,0,86.92,100.0,7.05,7.43,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.5,17,5.0,2,0,0,96.53,100.0,7.55,7.35,Aprovado
+F,Não informado,Vestibular,Relatório de Estágio,30.0,4.0,8.0,26,7.0,2,0,0,86.69,88.89,6.78,5.79,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.5,18,5.0,2,0,0,97.02,100.0,8.88,8.9,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.0,19,6.0,2,0,0,89.06,100.0,6.79,7.76,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,10.0,20,4.0,2,0,0,99.21,100.0,9.29,9.29,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.5,16,5.0,2,0,0,95.24,100.0,8.4,7.65,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.25,18,5.0,2,0,0,98.41,100.0,8.85,8.99,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,4.0,9.5,19,9.0,2,0,0,78.97,88.89,6.72,4.01,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,10.0,25,5.0,2,0,0,95.44,100.0,8.6,8.7,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.0,20,8.0,2,0,0,93.78,100.0,7.89,6.37,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.75,17,5.0,2,0,0,98.81,100.0,8.74,8.78,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.55,19,7.0,2,0,0,48.47,100.0,6.06,9.24,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.75,18,5.0,2,0,0,99.4,100.0,9.02,9.14,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,10.0,0.0,18,11.0,2,0,0,48.86,72.22,2.21,2.75,Reprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,36.0,0.0,18,11.0,2,0,0,48.86,0.0,2.21,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,32.0,0.0,18,11.0,2,0,0,48.86,11.11,2.21,2.92,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,32.0,0.0,18,11.0,2,0,0,48.86,11.11,2.21,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,6.0,8.0,18,9.0,2,0,0,76.39,83.33,5.17,2.67,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,10.0,0.0,18,9.0,2,0,0,76.39,72.22,5.17,4.0,Reprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,0.0,17,9.0,2,0,0,63.43,100.0,3.74,5.69,Reprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,8.0,8.88,17,9.0,2,0,0,63.43,77.78,3.74,2.96,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,16.0,0.0,17,9.0,2,0,0,63.43,55.56,3.74,0.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,16.0,0.0,19,9.0,2,0,0,70.83,55.56,3.98,2.0,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,9.0,8.63,19,9.0,2,0,0,70.83,75.0,3.98,2.88,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,0.0,19,9.0,2,0,0,70.83,100.0,3.98,5.49,Reprovado
+M,Casado(a),Vestibular,Relatório de Estágio,30.0,0.0,10.0,23,5.0,2,0,0,97.02,100.0,8.62,7.54,Aprovado
+M,Solteiro(a),Transferência Externa,Relatório de Estágio,30.0,0.0,8.5,19,12.0,2,0,0,88.48,100.0,6.55,2.68,Aprovado
+F,Solteiro(a),Transferência Externa,Relatório de Estágio,30.0,0.0,9.0,19,5.0,2,0,0,93.25,100.0,7.5,6.36,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.5,20,7.0,2,0,0,99.07,100.0,8.45,7.47,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,10.0,19,5.0,2,0,0,95.64,100.0,8.96,8.96,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.25,20,5.0,2,0,0,99.01,100.0,8.36,8.56,Aprovado
+M,Casado(a),Vestibular,Relatório de Estágio,30.0,0.0,9.5,31,6.0,2,0,0,98.02,100.0,9.19,7.0,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.75,17,9.0,2,0,0,94.45,100.0,7.06,5.33,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.0,21,4.0,2,0,0,98.41,100.0,9.19,9.19,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,10.0,18,4.0,2,0,0,97.62,100.0,9.04,9.04,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,2.0,10.0,19,5.0,2,0,0,95.63,94.44,9.06,9.06,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,2.0,9.5,17,5.0,2,0,0,92.46,94.44,8.65,8.65,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,4.0,8.0,19,6.0,2,0,0,77.67,88.89,6.28,6.06,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.75,25,11.0,2,0,0,88.17,100.0,6.39,5.9,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,4.0,8.38,19,8.0,2,0,0,89.29,88.89,8.14,6.87,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,4.0,9.0,22,8.0,2,0,0,71.91,88.89,5.8,8.33,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.5,19,6.0,2,0,0,94.84,100.0,9.01,7.95,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,4.0,8.75,20,8.0,2,0,0,77.22,88.89,6.08,7.29,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,4.0,8.75,18,11.0,2,0,0,82.29,88.89,6.63,5.15,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,8.0,8.5,17,6.0,2,0,0,95.02,77.78,7.35,6.08,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,4.0,8.5,26,6.0,2,0,0,95.11,88.89,8.52,6.6,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.75,17,5.0,2,0,0,99.21,100.0,8.88,8.88,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,4.0,8.0,27,10.0,2,0,0,93.21,88.89,7.11,6.64,Aprovado
+M,Solteiro(a),Transferência Externa,Relatório de Estágio,30.0,0.0,9.75,24,4.0,2,0,0,97.22,100.0,9.43,9.49,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.25,20,5.0,2,0,0,97.22,100.0,8.89,7.78,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,6.0,9.5,20,7.0,2,0,0,90.94,83.33,8.39,8.85,Aprovado
+M,Solteiro(a),Transferência Externa,Relatório de Estágio,30.0,0.0,9.25,19,6.0,2,0,0,96.69,100.0,8.55,7.48,Aprovado
+M,Solteiro(a),Mandado de Segurança,Relatório de Estágio,30.0,8.0,8.0,19,9.0,2,0,0,80.21,77.78,7.16,6.67,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.75,19,6.0,2,0,0,97.02,100.0,8.94,7.83,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,4.0,8.0,18,9.0,2,0,0,67.81,88.89,5.18,1.0,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.65,17,5.0,2,0,0,96.69,100.0,9.06,9.13,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.0,17,9.0,2,0,0,85.93,100.0,5.83,8.25,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.0,19,7.0,2,0,0,95.7,100.0,8.91,8.77,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.5,19,5.0,2,0,0,98.02,100.0,9.08,9.08,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.0,19,9.0,2,0,0,77.36,100.0,4.99,5.0,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.25,19,5.0,2,0,0,67.92,100.0,6.58,7.72,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,8.0,8.75,22,5.0,2,0,0,91.87,77.78,8.81,6.85,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.0,18,7.0,2,0,0,96.76,100.0,7.54,8.33,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.65,17,5.0,2,0,0,97.22,100.0,9.17,9.21,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.0,18,9.0,2,0,0,89.29,100.0,8.2,7.43,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.0,18,7.0,2,0,0,83.24,100.0,6.16,7.05,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,2.0,8.5,24,6.0,2,0,0,92.46,94.44,8.36,8.2,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,4.0,8.5,25,7.0,2,0,0,94.97,88.89,8.39,7.18,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.5,18,5.0,2,0,0,96.5,100.0,8.37,7.32,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.0,21,9.0,2,0,0,85.18,100.0,6.47,3.54,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,4.0,8.5,18,9.0,2,0,0,84.52,88.89,6.99,8.86,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,8.5,17,8.0,2,0,0,98.55,100.0,8.43,5.91,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,10.0,17,7.0,2,0,0,97.4,100.0,7.64,9.5,Aprovado
+F,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,2.0,17,7.0,2,0,0,97.4,100.0,7.64,4.09,Reprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.5,18,8.0,2,0,0,89.88,100.0,9.08,8.48,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,1.0,8.25,18,7.0,2,0,0,82.47,97.22,7.01,5.23,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.25,17,6.0,2,0,0,97.75,100.0,8.95,8.95,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,4.0,9.25,18,8.0,2,0,0,57.1,88.89,4.21,6.35,Aprovado
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,9.25,20,4.0,2,0,0,83.4,100.0,9.11,8.97,Aprovado
+M,Outros,Convênio,Relatório de Estágio,30.0,36.0,0.0,18,8.0,2,0,0,43.52,0.0,2.77,0.95,Reprovado por Freqüência
+M,Solteiro(a),Vestibular,Relatório de Estágio,30.0,0.0,2.0,23,7.0,2,0,0,63.1,100.0,2.49,3.16,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,10.0,19,0.0,2,0,0,76.56,100.0,7.41,9.88,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Relatório de Estágio,30.0,2.0,8.5,24,5.0,2,0,0,96.69,94.44,8.86,8.86,Aprovado
+M,Outros,Convênio,Relatório de Estágio,30.0,0.0,9.5,17,6.0,2,0,0,98.94,100.0,9.21,9.21,Aprovado
+F,Solteiro(a),Processo Seletivo - ENEM,Relatório de Estágio,30.0,0.0,9.0,17,0.0,2,0,0,98.61,100.0,9.03,6.68,Aprovado
+M,Casado(a),Processo Seletivo - ENEM,Relatório de Estágio,30.0,36.0,0.0,43,7.0,2,0,0,39.93,0.0,1.31,0.0,Reprovado por Freqüência
+M,Casado(a),Processo Seletivo - ENEM,Relatório de Estágio,30.0,32.0,0.0,43,7.0,2,0,0,39.93,11.11,1.31,1.81,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Relatório de Estágio,30.0,20.0,0.0,18,0.0,2,0,0,32.44,44.44,0.8,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Relatório de Estágio,30.0,36.0,0.0,18,0.0,2,0,0,32.44,0.0,0.8,0.0,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - ENEM,Relatório de Estágio,30.0,6.0,8.0,18,8.0,2,0,0,76.23,83.33,5.28,7.5,Aprovado
+M,Casado(a),Processo Seletivo - ENEM,Relatório de Estágio,30.0,8.0,9.0,29,8.0,2,0,0,85.09,77.78,6.28,6.21,Aprovado
+F,Solteiro(a),Processo Seletivo - ENEM,Relatório de Estágio,30.0,8.0,9.0,41,8.0,2,0,0,95.63,77.78,8.67,3.47,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Relatório de Estágio,30.0,0.0,9.0,19,5.0,2,0,0,96.69,100.0,8.79,7.69,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Relatório de Estágio,30.0,7.0,9.0,19,0.0,2,0,0,77.22,80.56,5.24,5.34,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Relatório de Estágio,30.0,0.0,9.5,18,5.0,2,0,0,96.56,100.0,8.96,7.84,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,9.0,19,4.0,2,0,0,97.62,100.0,9.46,9.48,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Relatório de Estágio,30.0,6.0,9.0,18,8.0,2,0,0,94.44,83.33,8.71,5.83,Aprovado
+M,Solteiro(a),Processo Seletivo - ENEM,Relatório de Estágio,30.0,0.0,9.5,17,5.0,2,0,0,99.47,100.0,9.21,9.21,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,7.0,9.0,20,0.0,2,0,0,85.02,80.56,5.63,6.17,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,8.4,18,0.0,2,0,0,75.58,100.0,6.5,4.7,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,10.0,17,4.0,2,0,0,100.0,100.0,9.46,9.46,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,10.0,21,5.0,2,0,0,98.81,100.0,9.12,9.12,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,7.0,9.0,18,7.0,2,0,0,62.22,80.56,5.71,4.86,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,10.0,18,4.0,2,0,0,96.83,100.0,9.32,9.32,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,6.0,9.75,18,7.0,2,0,0,82.05,83.33,6.89,8.39,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,10.0,18,4.0,2,0,0,99.6,100.0,9.95,9.95,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,6.0,9.5,17,6.0,2,0,0,80.19,83.33,6.59,3.94,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,10.0,18,4.0,2,0,0,94.64,100.0,9.75,9.72,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,24.0,0.0,18,7.0,2,0,0,66.31,33.33,4.38,4.73,Reprovado por Freqüência
+F,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,7.0,8.0,18,7.0,2,0,0,66.31,80.56,4.38,7.45,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,28.0,0.0,18,7.0,2,0,0,66.31,22.22,4.38,4.06,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,10.0,17,4.0,2,0,0,98.81,100.0,9.47,9.47,Aprovado
+M,Outros,Processo Seletivo - SiSU,Relatório de Estágio,30.0,4.0,8.88,17,5.0,2,0,0,86.4,88.89,7.88,7.76,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,6.0,9.0,19,6.0,2,0,0,89.81,83.33,7.69,6.01,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,6.0,7.0,17,4.0,2,0,0,91.67,83.33,8.67,8.67,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,8.0,8.75,17,4.0,2,0,0,87.83,77.78,8.78,8.78,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,8.0,9.25,18,0.0,2,0,0,39.64,77.78,2.17,2.17,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,5.88,19,0.0,2,0,0,55.04,100.0,4.66,5.74,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,8.0,6.12,17,5.0,2,0,0,81.36,77.78,6.83,6.66,Aprovado
+M,Solteiro(a),Transferência Ex-Ofício,Relatório de Estágio,30.0,7.0,9.0,24,6.0,2,0,0,69.34,80.56,5.06,4.92,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,6.0,7.0,21,4.0,2,0,0,91.67,83.33,8.69,8.69,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,6.0,9.25,18,3.0,2,0,0,93.25,83.33,8.84,8.84,Aprovado
+M,Casado(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,6.12,29,5.0,2,0,0,57.23,100.0,5.59,5.97,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,24.0,0.0,20,5.0,2,0,0,67.7,33.33,4.95,5.08,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,2.0,8.75,20,5.0,2,0,0,67.7,94.44,4.95,6.9,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,9.5,16,0.0,2,0,0,66.26,100.0,6.26,7.32,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,24.0,0.75,18,0.0,2,0,0,70.27,33.33,6.55,6.33,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,8.25,18,0.0,2,0,0,70.27,100.0,6.55,8.93,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,24.0,0.75,18,0.0,2,0,0,66.5,33.33,4.67,6.57,Reprovado por Freqüência
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,8.25,18,0.0,2,0,0,66.5,100.0,4.67,5.87,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,9.9,18,4.0,2,0,0,84.92,100.0,9.58,9.58,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,9.9,19,5.0,2,0,0,86.11,100.0,8.09,8.05,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,3.6,24,0.0,2,0,0,66.48,100.0,4.54,6.71,Reprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,8.0,0.0,24,0.0,2,0,0,66.48,77.78,4.54,0.0,Reprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,9.5,21,5.0,2,0,0,86.0,100.0,8.16,6.97,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,10.0,18,0.0,2,0,0,95.24,100.0,9.08,9.08,Aprovado
+F,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,9.75,18,4.0,2,0,0,98.81,100.0,9.14,9.14,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,0.0,8.75,17,4.0,2,0,0,89.29,100.0,8.8,8.8,Aprovado
+M,Solteiro(a),Processo Seletivo - SiSU,Relatório de Estágio,30.0,4.0,9.25,18,0.0,2,0,0,94.64,88.89,7.35,7.35,Aprovado

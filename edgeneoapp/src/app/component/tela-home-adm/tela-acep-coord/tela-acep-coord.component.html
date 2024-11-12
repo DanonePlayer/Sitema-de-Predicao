@@ -1,0 +1,44 @@
+<div class="coordenadores-lista" *ngIf="dadosCarregados">
+  <h2>Lista de Coordenadores</h2>
+
+  <!-- Verificação para caso não existam coordenadores -->
+  <div *ngIf="coordenadores.length === 0">Nenhum coordenador cadastrado.</div>
+
+  <table *ngIf="coordenadores.length > 0">
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Curso</th>
+        <th>Status</th>
+        <th>Portaria</th>
+        <th>Ações</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let coordenador of coordenadores | orderByPortariaAprovada:usuariosMap">
+        <td>
+          {{ getUsuarioNome(coordenador.usuario_id) }}
+        </td>
+        <td>{{ getNomeCurso(coordenador.curso_id) }}</td>
+        <td>{{ coordenador.status }}</td>
+        <td>
+          <a (click)="baixarPortaria(coordenador.id)">
+            <i class="bi bi-eye-fill"></i>
+          </a>
+          <!-- Ícone para portaria não aprovada -->
+          <i *ngIf="!usuariosMap[coordenador.usuario_id]?.portariaAprovada" class="bi bi-x-circle text-danger"></i>
+          <!-- Ícone para portaria aprovada -->
+          <i *ngIf="usuariosMap[coordenador.usuario_id]?.portariaAprovada" class="bi bi-check-circle text-success"></i>
+        </td>
+        <td class="acoes">
+          <button class="btn-aprovar" [disabled]="usuariosMap[coordenador.usuario_id].portariaAprovada" (click)="aprovarCoordenador(coordenador)"><i class="bi bi-check2-circle"></i> Aprovar</button>
+          <button class="btn-nao-aprovar" [disabled]="usuariosMap[coordenador.usuario_id].portariaAprovada" (click)="naoAprovarCoordenador(coordenador)"><i class="bi bi-x-lg"></i> Não Aprovar</button>
+          <button class="btn-remover" (click)="excluirCoordenador(coordenador)"><i class="bi bi-trash"></i> Remover</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- Exibe um spinner de loading enquanto os dados são carregados -->
+<div *ngIf="!dadosCarregados" class="spinner">Carregando dados...</div>

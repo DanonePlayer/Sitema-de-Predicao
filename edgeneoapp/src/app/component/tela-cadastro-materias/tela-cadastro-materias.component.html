@@ -1,0 +1,110 @@
+<body>
+    <div class="dTela_toda">
+        <header>
+            <button class="btnH"><a (click)="logout()">Logout</a></button>
+        </header>
+
+        <div *ngIf="mensagemErro" class="mensagem-Erro">
+            <button type="button" (click)="fecharMensagemErro()">X</button>
+            Disciplina no período errado:<br> "{{ nomeDisciplina }}" é do {{ periodoDisciplina }}° período.
+        </div>
+
+        <form #form="ngForm" (ngSubmit)="salvarDisciplinas()" novalidate>
+            <div class="luck">
+                <div class="campo">
+                    <label for="periodo">Período Atual</label>
+                    <select id="periodo" [(ngModel)]="alunoDisciplinas.periodoAtual" (change)="atualizarPeriodos()" name="periodo" required>
+                        <option value="" disabled selected>Selecione</option>
+                        <option value="2">2° Período</option>
+                        <option value="3">3° Período</option>
+                        <option value="4">4° Período</option>
+                    </select>
+                </div>
+                <div class="campo">
+                    <label for="anoIngresso">Ano de Ingresso</label>
+                    <select id="anoIngresso" [(ngModel)]="alunoDisciplinas.anoIngresso" name="anoIngresso" required>
+                        <option value="" disabled selected>Selecione</option>
+                        <option>2023.2</option>
+                        <option>2023.1</option>
+                        <option>2022.2</option>
+                        <option>2022.1</option>
+                    </select>
+                </div>
+
+                <div class="campo">
+                    <label for="formaIngresso">Forma de Ingresso</label>
+                    <select id="formaIngresso" [(ngModel)]="alunoDisciplinas.formaIngresso" name="formaIngresso" required>
+                        <option value="" disabled selected>Selecione</option>
+                        <option>Vestibular</option>
+                        <option>Processo Seletivo - ENEM</option>
+                        <option>Transferência Externa</option>
+                        <option>Mandado de Segurança</option>
+                        <option>Convênio</option>
+                        <option>Processo Seletivo - SiSU</option>
+                        <option>Transferência Ex-Ofício</option>
+                        <option>Concurso de Títulos</option>
+                        <option>Reopção de Curso</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="progresso">
+                <div class="periodos">
+                    <!-- Div para cada período -->
+                    <div *ngFor="let periodo of periodos" [ngClass]="{'disabled': periodo > +alunoDisciplinas.periodoAtual-1}" class="periodo">
+                        <span class="periodoT">{{ periodo }}° Período</span>
+                        
+                        <!-- Usando ng-container para aplicar filtro nas disciplinas -->
+                        <ng-container *ngFor="let disciplina of todasDisciplinas">
+                            <div *ngIf="disciplina.disciplinaPeriodo === periodo" class="materia-linha" (dblclick)="abrirNota(disciplina)" [ngClass]="{'preenchida': disciplina.preenchida}" >
+                                {{ disciplina.disciplinaNome }}
+                                
+                                <!-- Caixa de detalhes da disciplina -->
+                                <div *ngIf="disciplinaSelecionada?.id === disciplina.id" class="caixa-diciplina">
+                                    <div class="tela-caixa">
+                                        <div class="ladoE">
+                                            <div class="nota">
+                                                <span>Nota:</span>
+                                                <input type="number" id="nota" [value]="disciplinaSelecionada?.nota || 0" (input)="atualizarNota($event)" />
+                                            </div>
+
+                                            <div class="faltas">
+                                                <span>Total de Faltas:</span>
+                                                <input type="number" id="faltas" [value]="disciplinaSelecionada?.totalFaltas || 0" (input)="atualizarFaltas($event)" />
+                                            </div>
+                                        </div>
+
+                                        <div class="situacao">
+                                            <span class="situ">Situação:</span>
+                                            <div class="radio-group">
+                                                <label>
+                                                    <input type="radio" name="situacao" required class="nfezR" [checked]="disciplinaSelecionada?.situacao === 'naoFez'" value="naoFez" (change)="atualizarSituacao($event)"/>
+                                                    <span class="apro">Não Fez</span>
+                                                </label>
+                                                <label>
+                                                    <input type="radio" name="situacao" required class="tracaR" [checked]="disciplinaSelecionada?.situacao === 'Trancamento'" value="Trancamento" (change)="atualizarSituacao($event)"/>
+                                                    <span class="traca">Trancamento</span>
+                                                </label>
+                                                <label>
+                                                    <input type="radio" name="situacao" required class="reproR" [checked]="disciplinaSelecionada?.situacao === 'Reprovado'" value="Reprovado" (change)="atualizarSituacao($event)"/>
+                                                    <span class="repro">Reprovado</span>
+                                                </label>
+                                                <label>
+                                                    <input type="radio" name="situacao" required class="aproR" [checked]="disciplinaSelecionada?.situacao === 'Aprovado'" value="Aprovado" (change)="atualizarSituacao($event)" />
+                                                    <span class="apro">Aprovado</span>
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <button type="button" (click)="salvarNota()" [disabled]="!salvarHabilitado">Salvar</button>
+                                </div>
+                            </div>
+                        </ng-container>
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn" [disabled]="form.invalid || !salvarHabilitado">Salvar</button>
+        </form>
+    </div>
+    <div class="rodape_arrumador">Luck</div>
+</body>

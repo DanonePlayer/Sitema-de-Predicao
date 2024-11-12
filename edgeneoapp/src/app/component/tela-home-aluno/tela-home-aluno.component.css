@@ -1,0 +1,219 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.dTela-home-aluno {
+    display: fixed;
+    height: 100vh;
+    width: 100vw;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 20px;
+    border-bottom: 3px solid #802da4;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    position: relative;
+    width: 100%;
+}
+
+header h1 {
+    color: #802da4;
+    font-size: 2rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.usuario {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #802da4;
+    display: flex;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+}
+
+.usuario i {
+    margin-right: 10px;
+    font-size: 1.5rem;
+}
+
+.aTela-Menu {
+    background-color: white;
+    border-right: 3px solid #802da4;
+    width: 235px;
+    height: calc(100vh - 79px); /* Altura total menos a altura do cabeçalho */
+    padding-top: 50px;
+    padding-left: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    position: fixed;
+    top: 79px;
+    overflow-y: auto; /* Adiciona a barra de rolagem quando necessário */
+    overflow-x: hidden; /* Garante que o conteúdo não transborde horizontalmente */
+}
+
+.menu ul {
+    list-style: none;
+}
+
+.menu ul li {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #802da4;
+    margin-bottom: 20px;
+    display: flex;
+    cursor: pointer;  /* Adiciona o cursor de ponteiro ao passar o mouse */
+    transition: padding-left 0.3s ease; /* Suaviza a transição de cor */
+    user-select: none;
+}
+
+/* Efeito de hover para os itens de menu */
+.menu ul li:hover {
+    color: #802da4;  /* Cor do texto ao passar o mouse */
+    padding-left: 10px;  /* Um pequeno deslocamento para a esquerda */
+}
+
+.menu ul li i {
+    margin-right: 10px;
+}
+
+.mTela-Principal {
+    width: calc(100vw - 235px);  /* Ajuste para a largura da tela */
+    height: calc(100vh - 79px);   /* Ajuste para a altura da tela */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 235px;
+    background-color: #f9f9f9;
+    overflow: hidden;
+}
+
+.configs {
+    display: block;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    right: 0;
+    top: 100%;
+    border: 1px solid #802da4;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    list-style-type: none;
+    z-index: 99999;
+}
+
+.configs li {
+    padding: 12px 16px;
+    font-size: 1rem;
+    text-align: left;
+}
+
+.configs li a {
+    color: #802da4;
+    text-decoration: none;
+    display: block;
+}
+
+.configs li a:hover {
+    background-color: #f0f0f0;
+}
+
+.usuario i {
+    margin-right: 10px;
+    font-size: 1.5rem;
+}
+
+.periodos,
+.disciplinas
+{
+    cursor: pointer;
+}
+
+.lista-periodos,
+.lista-disciplinas {
+    margin-left: 10px;
+    list-style-type: none;
+    padding: 0;
+  }
+
+.lista-periodos li,
+.lista-disciplinas li {
+    font-size: 1rem !important; /* Diminui o tamanho da fonte */
+    cursor: pointer;
+    margin-bottom: 2px;
+    padding: 0px 0;
+}
+
+.card-aviso {
+    width: 100%; /* Ajuste a largura conforme necessário */
+    max-width: 700px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;  /* Use absolute positioning */
+    top: 53%;  /* Coloca no meio da tela verticalmente */
+    left: 58%; /* Coloca no meio da tela horizontalmente */
+    transform: translate(-50%, -50%);  /* Ajusta para centralizar o card */
+    z-index: 10; /* Garante que o card fique acima de outros elementos */
+}
+  
+.card-aviso .card-aviso-content {
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column; /* Coloca o aviso e a mensagem em coluna */
+    align-items: center;
+    text-align: center;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 7px 25px 0 rgba(0, 0, 0, 0.1);
+}
+  
+.card-name-aviso {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #802da4;
+    margin-bottom: 10px; /* Espaço entre o título e a mensagem */
+}
+
+.card-aviso-msg {
+    font-size: 1.25rem;
+    color: #802da4;
+    text-align: justify;  /* Justifica o texto */
+    line-height: 1.5;
+}
+
+.card-aviso button {
+    padding: 10px 20px; 
+    font-size: 1.2rem;
+    color: white;
+    background-color: #802da4;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;     /* Indicador de clique */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;  /* Transição suave para hover */
+    margin-top: 20px;
+}
+
+.card-aviso button:hover {
+    background-color: #6a1d91;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    transform: translateY(-3px);
+}
+
+.luck
+{
+    display: flex;
+    z-index: 1000;
+}
+  

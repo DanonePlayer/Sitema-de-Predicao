@@ -1,0 +1,44 @@
+<body>
+    <h1>Icone do site</h1>
+    <div class="dTela-Login">
+        <h2>Entrar no ####</h2>
+        <form (ngSubmit)="logar(form)" #form="ngForm">
+            <div class="dDados">
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" [(ngModel)]="usuario.email" required
+                [ngClass]="{'input-error': form.submitted && form.controls['email'].invalid}">
+
+                <div *ngIf="form.submitted && form.controls['email']?.errors?.['required']" class="error">
+                    O email é obrigatório.
+                </div>
+
+            </div>
+
+            <div class="dDados">
+                <label for="senha">Senha</label>
+                <input type="password" id="senha" name="senha" [(ngModel)]="usuario.senha" required
+                minlength="8"
+                [ngClass]="{'input-error': form.submitted && form.controls['senha'].invalid}">
+                
+                <div *ngIf="form.submitted && form.controls['senha']?.errors?.['required']" class="error">
+                    A senha é obrigatória.
+                </div>
+            </div>
+
+            <div class="dMantEsq">
+                <div class="chequebox">
+                    <input type="checkbox" id="iMaLogin">
+                    <label for="lMaLogin">Manter Login</label>
+                </div>
+                <a href="/esqueceu_senha" class="aEsqSenha">Esqueceu a senha?</a>
+            </div>
+
+            <div *ngIf="erro" class="error">
+                {{ erro }}
+            </div>
+
+            <button type="submit" class="bLogin">Entrar</button>
+        </form>
+        <p>Novo usuário? <a href="/cadastro" class="aCadastro">Cadastre-se</a></p>
+        </div>
+</body>
